@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Last 50 videos on my Youtube channel
+> Last 100 videos on my Youtube channel
 
 
 ## IT Man - Tip #20 - NextJS 12 Middleware (Beta) - How to build shorten URL App - Part 2 [Vietnamese]
@@ -72,11 +72,6 @@ Published at 2022-03-27T08:30:16Z
 
 [![IT Man - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
-
-## Web Development
-Published at 2022-03-23T03:01:15Z
-
-[![Web Development](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=undefined)
 
 
 ## IT Man - Talk #16 - ThirdWeb - No-code tool - build web3 apps, easily.[Vietnamese]
@@ -271,11 +266,6 @@ Published at 2021-08-15T08:13:08Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
 
 
-## Blockchain
-Published at 2021-08-15T08:12:06Z
-
-[![Blockchain](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=undefined)
-
 
 ## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
 Published at 2021-08-08T05:27:07Z
@@ -305,3 +295,154 @@ Published at 2021-07-18T09:01:08Z
 Published at 2021-07-11T14:29:36Z
 
 [![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)
+
+
+## IT Man - Tech #7 - Solid - Reactive Javascript Library [Vietnamese]
+Published at 2021-07-04T13:46:25Z
+
+[![IT Man - Tech #7 - Solid - Reactive Javascript Library [Vietnamese]](https://i.ytimg.com/vi/J4kSkrbD7Vc/mqdefault.jpg)](https://www.youtube.com/watch?v=J4kSkrbD7Vc)
+
+
+## IT Man - Talk #6 - Intro New-Web-App CLI [Vietnamese]
+Published at 2021-06-27T07:21:14Z
+
+[![IT Man - Talk #6 - Intro New-Web-App CLI [Vietnamese]](https://i.ytimg.com/vi/fflgltdSpW8/mqdefault.jpg)](https://www.youtube.com/watch?v=fflgltdSpW8)
+
+
+## IT Man - Tip #6 - How to migrate Create-React-App to NextJS 11 [Vietnamese]
+Published at 2021-06-20T06:10:57Z
+
+[![IT Man - Tip #6 - How to migrate Create-React-App to NextJS 11 [Vietnamese]](https://i.ytimg.com/vi/PQwFb3el9pk/mqdefault.jpg)](https://www.youtube.com/watch?v=PQwFb3el9pk)
+
+
+## IT Man - Tech #6 - React 18 Alpha Overview [Vietnamese]
+Published at 2021-06-13T07:02:29Z
+
+[![IT Man - Tech #6 - React 18 Alpha Overview [Vietnamese]](https://i.ytimg.com/vi/9YRy9pWT8Po/mqdefault.jpg)](https://www.youtube.com/watch?v=9YRy9pWT8Po)
+
+
+## IT Man - Talk #5 - React Patterns [Vietnamese]
+Published at 2021-06-06T07:10:17Z
+
+[![IT Man - Talk #5 - React Patterns [Vietnamese]](https://i.ytimg.com/vi/nI7pNWDqI1I/mqdefault.jpg)](https://www.youtube.com/watch?v=nI7pNWDqI1I)
+
+
+## IT Man - Tip #5 - 3 tips with React Developer Tools [Vietnamese]
+Published at 2021-05-30T08:04:39Z
+
+[![IT Man - Tip #5 - 3 tips with React Developer Tools [Vietnamese]](https://i.ytimg.com/vi/80Pn_Va8jOc/mqdefault.jpg)](https://www.youtube.com/watch?v=80Pn_Va8jOc)
+
+
+## IT Man - Tech #5 - NextJS Course - Part 3 - GetStaticProps (Static Generation) [Vietnamese]
+Published at 2021-05-23T07:07:45Z
+
+[![IT Man - Tech #5 - NextJS Course - Part 3 - GetStaticProps (Static Generation) [Vietnamese]](https://i.ytimg.com/vi/FqADFQBLm-4/mqdefault.jpg)](https://www.youtube.com/watch?v=FqADFQBLm-4)
+
+
+## IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]
+Published at 2021-05-16T07:02:28Z
+
+[![IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]](https://i.ytimg.com/vi/BbSmV24HYNc/mqdefault.jpg)](https://www.youtube.com/watch?v=BbSmV24HYNc)
+
+
+## IT Man - Tech #5 - NextJS Mini Course - Part 3 -Data fetching with react-query [Vietnamese]
+Published at 2021-05-09T08:52:18Z
+
+[![IT Man - Tech #5 - NextJS Mini Course - Part 3 -Data fetching with react-query [Vietnamese]](https://i.ytimg.com/vi/7rqtK9asbJ0/mqdefault.jpg)](https://www.youtube.com/watch?v=7rqtK9asbJ0)
+
+
+
+## IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]
+Published at 2021-05-02T07:40:29Z
+
+[![IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]](https://i.ytimg.com/vi/TVuHD2Q2Yx8/mqdefault.jpg)](https://www.youtube.com/watch?v=TVuHD2Q2Yx8)
+
+
+## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
+Published at 2021-04-25T07:42:50Z
+
+[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
+
+
+
+## IT Man - Talk #4 - My top 2 apps for new learner [Vietnamese]
+Published at 2021-04-18T07:08:59Z
+
+[![IT Man - Talk #4 - My top 2 apps for new learner [Vietnamese]](https://i.ytimg.com/vi/5gdZUJHnh6s/mqdefault.jpg)](https://www.youtube.com/watch?v=5gdZUJHnh6s)
+
+
+## IT Man - Tip #4 - Debug Javascript/Typescript App [Vietnamese]
+Published at 2021-04-11T07:37:39Z
+
+[![IT Man - Tip #4 - Debug Javascript/Typescript App [Vietnamese]](https://i.ytimg.com/vi/LCdMSJ8yxUE/mqdefault.jpg)](https://www.youtube.com/watch?v=LCdMSJ8yxUE)
+
+
+## IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]
+Published at 2021-04-04T06:30:55Z
+
+[![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)
+
+
+
+## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
+Published at 2021-03-28T06:59:27Z
+
+[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
+
+
+
+## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
+Published at 2021-03-21T06:51:42Z
+
+[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
+
+
+## IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]
+Published at 2021-03-14T08:28:07Z
+
+[![IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]](https://i.ytimg.com/vi/Es4J8KAD40A/mqdefault.jpg)](https://www.youtube.com/watch?v=Es4J8KAD40A)
+
+
+## IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]
+Published at 2021-03-07T08:08:06Z
+
+[![IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]](https://i.ytimg.com/vi/gEUkjZJ4_sk/mqdefault.jpg)](https://www.youtube.com/watch?v=gEUkjZJ4_sk)
+
+
+
+## IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]
+Published at 2021-02-28T07:47:36Z
+
+[![IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]](https://i.ytimg.com/vi/2t_yDRjOtI0/mqdefault.jpg)](https://www.youtube.com/watch?v=2t_yDRjOtI0)
+
+
+## IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]
+Published at 2021-02-21T08:02:23Z
+
+[![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)
+
+
+## IT Man Channel - Intro &amp; 3T topics
+Published at 2021-02-14T04:28:55Z
+
+[![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)
+
+
+## IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]
+Published at 2021-02-07T23:24:29Z
+
+[![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)
+
+
+## IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]
+Published at 2021-01-31T07:06:43Z
+
+[![IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]](https://i.ytimg.com/vi/9ppxGrNvzWU/mqdefault.jpg)](https://www.youtube.com/watch?v=9ppxGrNvzWU)
+
+
+
+## IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]
+Published at 2021-01-24T23:56:28Z
+
+[![IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]](https://i.ytimg.com/vi/IlO4Da5_q_I/mqdefault.jpg)](https://www.youtube.com/watch?v=IlO4Da5_q_I)
+

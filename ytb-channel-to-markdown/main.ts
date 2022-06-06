@@ -7,6 +7,8 @@ const LIMIT = 50;
 
 function generateMarkdownFile(videos: YoutubeVideo[]) {
   const markdown = videos.map((video) => {
+    if (video.id.kind !== "youtube#video") return "";
+
     const { publishedAt, title, thumbnails } = video.snippet;
 
     const { url } = thumbnails.medium;
@@ -27,22 +29,38 @@ Published at ${publishedAt}
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
 [![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
 
-> Last 50 videos on my Youtube channel
+> Last 100 videos on my Youtube channel
 
 ${markdown.join("\n")}`
   );
 }
 
+const apiUrl =
+  "https://www.googleapis.com/youtube/v3/search?key=" +
+  YOUTUBE_API_KEY +
+  "&channelId=" +
+  CHANNEL_ID +
+  "&part=snippet,id&order=date&maxResults=" +
+  LIMIT;
+
+async function getVideos(nextPageToken?: string) {
+  if (nextPageToken) {
+    const response = await fetch(apiUrl + "&pageToken=" + nextPageToken, {
+      method: "GET",
+      headers: {
+        accept: "application/json",
+      },
+    });
+    if (response.ok) {
+      const data = await response.json();
+      return data.items;
+    }
+  }
+  return [];
+}
+
 async function main() {
   logger.warn("Generate markdown file from Deno :)");
-
-  const apiUrl =
-    "https://www.googleapis.com/youtube/v3/search?key=" +
-    YOUTUBE_API_KEY +
-    "&channelId=" +
-    CHANNEL_ID +
-    "&part=snippet,id&order=date&maxResults=" +
-    LIMIT;
 
   const response = await fetch(apiUrl, {
     method: "GET",
@@ -53,7 +71,8 @@ async function main() {
 
   if (response.ok) {
     const data = await response.json();
-    generateMarkdownFile(data.items);
+    const nextPageVideos = await getVideos(data.nextPageToken);
+    generateMarkdownFile([...data.items, ...nextPageVideos]);
   }
 }
 

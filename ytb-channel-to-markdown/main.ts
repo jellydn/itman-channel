@@ -14,11 +14,23 @@ function generateMarkdownFile(videos: YoutubeVideo[]) {
     return `
 ## ${title}
 Published at ${publishedAt}
+
 [![${title}](${url})](https://www.youtube.com/watch?v=${video.id.videoId})
 `;
   });
 
-  Deno.writeTextFile("../README.md", markdown.join("\n"));
+  Deno.writeTextFile(
+    "../README.md",
+    `
+# Welcome to ITMan Channel 👋
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](#)
+[![Twitter: jellydn](https://img.shields.io/twitter/follow/jellydn.svg?style=social)](https://twitter.com/jellydn)
+
+> Last 50 videos on my Youtube channel
+
+${markdown.join("\n")}`
+  );
 }
 
 async function main() {

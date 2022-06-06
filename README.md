@@ -1,0 +1,249 @@
+
+## IT Man - Tip #20 - NextJS 12 Middleware (Beta) - How to build shorten URL App - Part 2 [Vietnamese]
+Published at 2022-06-05T00:11:41Z
+[![IT Man - Tip #20 - NextJS 12 Middleware (Beta) - How to build shorten URL App - Part 2 [Vietnamese]](https://i.ytimg.com/vi/3y36R5qqpaM/mqdefault.jpg)](https://www.youtube.com/watch?v=3y36R5qqpaM)
+
+
+## IT Man - Tech #20 - Encore - Backend Development Engine - How to build shorten URL App [Vietnamese]
+Published at 2022-05-29T06:28:05Z
+[![IT Man - Tech #20 - Encore - Backend Development Engine - How to build shorten URL App [Vietnamese]](https://i.ytimg.com/vi/0HP8ww_BtBk/mqdefault.jpg)](https://www.youtube.com/watch?v=0HP8ww_BtBk)
+
+
+## IT Man - Talk #19 - Foundry + ThirdWeb CLI = Awesome [Vietnamese]
+Published at 2022-05-22T02:11:11Z
+[![IT Man - Talk #19 - Foundry + ThirdWeb CLI = Awesome [Vietnamese]](https://i.ytimg.com/vi/ApSqlVBsRJ4/mqdefault.jpg)](https://www.youtube.com/watch?v=ApSqlVBsRJ4)
+
+
+## IT Man - Tip #19 - My top 5 VS Code extensions for TailwindCSS [Vietnamese]
+Published at 2022-05-15T00:13:22Z
+[![IT Man - Tip #19 - My top 5 VS Code extensions for TailwindCSS [Vietnamese]](https://i.ytimg.com/vi/-ZX2PAz4oDk/mqdefault.jpg)](https://www.youtube.com/watch?v=-ZX2PAz4oDk)
+
+
+## IT Man - Tech #19 - Blockchain - RainbowKit - The best way to connect a wallet 🌈 [Vietnamese]
+Published at 2022-05-08T07:38:29Z
+[![IT Man - Tech #19 - Blockchain - RainbowKit - The best way to connect a wallet 🌈 [Vietnamese]](https://i.ytimg.com/vi/ocbUcCMYSVE/mqdefault.jpg)](https://www.youtube.com/watch?v=ocbUcCMYSVE)
+
+
+## IT Man - Talk #18 - Architectural Decision Records - why you should write ADR [Vietnamese]
+Published at 2022-05-01T02:34:30Z
+[![IT Man - Talk #18 - Architectural Decision Records - why you should write ADR [Vietnamese]](https://i.ytimg.com/vi/EhsBVGDWTxs/mqdefault.jpg)](https://www.youtube.com/watch?v=EhsBVGDWTxs)
+
+
+## IT Man - Tip #18 - Add ViteJs to Create-React-App app [Vietnamese]
+Published at 2022-04-24T00:36:17Z
+[![IT Man - Tip #18 - Add ViteJs to Create-React-App app [Vietnamese]](https://i.ytimg.com/vi/S2jzjnYcU7A/mqdefault.jpg)](https://www.youtube.com/watch?v=S2jzjnYcU7A)
+
+
+## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
+Published at 2022-04-17T03:50:12Z
+[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
+
+
+## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
+Published at 2022-04-10T05:08:11Z
+[![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)
+
+
+## IT Man - Tip #17 - Supercharged your terminal [Vietnamese]
+Published at 2022-04-03T08:00:30Z
+[![IT Man - Tip #17 - Supercharged your terminal [Vietnamese]](https://i.ytimg.com/vi/lILMPDJ4CoU/mqdefault.jpg)](https://www.youtube.com/watch?v=lILMPDJ4CoU)
+
+
+## IT Man - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
+Published at 2022-03-27T08:30:16Z
+[![IT Man - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
+
+
+## Web Development
+Published at 2022-03-23T03:01:15Z
+[![Web Development](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=undefined)
+
+
+## IT Man - Talk #16 - ThirdWeb - No-code tool - build web3 apps, easily.[Vietnamese]
+Published at 2022-03-20T05:39:03Z
+[![IT Man - Talk #16 - ThirdWeb - No-code tool - build web3 apps, easily.[Vietnamese]](https://i.ytimg.com/vi/fGM7tLudhmw/mqdefault.jpg)](https://www.youtube.com/watch?v=fGM7tLudhmw)
+
+
+## IT Man - Tip #16 - TypeChain - 🔌 TypeScript bindings for Ethereum smart contracts [Vietnamese]
+Published at 2022-03-13T04:40:16Z
+[![IT Man - Tip #16 - TypeChain - 🔌 TypeScript bindings for Ethereum smart contracts [Vietnamese]](https://i.ytimg.com/vi/p83-lWMUP34/mqdefault.jpg)](https://www.youtube.com/watch?v=p83-lWMUP34)
+
+
+## IT Man - Tech #16 - tRPC - End-to-end typesafe APIs made easy [Vietnamese]
+Published at 2022-03-06T04:16:57Z
+[![IT Man - Tech #16 - tRPC - End-to-end typesafe APIs made easy [Vietnamese]](https://i.ytimg.com/vi/rz1ZGV82i34/mqdefault.jpg)](https://www.youtube.com/watch?v=rz1ZGV82i34)
+
+
+## IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]
+Published at 2022-02-27T03:00:50Z
+[![IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]](https://i.ytimg.com/vi/wzWGZdTtYWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=wzWGZdTtYWQ)
+
+
+## IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]
+Published at 2022-02-20T05:25:51Z
+[![IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]](https://i.ytimg.com/vi/4U4waKKXQAk/mqdefault.jpg)](https://www.youtube.com/watch?v=4U4waKKXQAk)
+
+
+## IT Man - Tech #15 - React State Management - Part 2 - Demo Apps [Vietnamese]
+Published at 2022-02-13T13:30:17Z
+[![IT Man - Tech #15 - React State Management - Part 2 - Demo Apps [Vietnamese]](https://i.ytimg.com/vi/TQYs8ebLE8A/mqdefault.jpg)](https://www.youtube.com/watch?v=TQYs8ebLE8A)
+
+
+## IT Man - Tech #15 - React State Management - Part 1 [Vietnamese]
+Published at 2022-02-06T08:00:03Z
+[![IT Man - Tech #15 - React State Management - Part 1 [Vietnamese]](https://i.ytimg.com/vi/5rsM84taJX4/mqdefault.jpg)](https://www.youtube.com/watch?v=5rsM84taJX4)
+
+
+## IT Man - Talk #14 - How to land a job in Singapore [Vietnamese]
+Published at 2022-01-30T06:00:58Z
+[![IT Man - Talk #14 - How to land a job in Singapore [Vietnamese]](https://i.ytimg.com/vi/ea7i63isgh4/mqdefault.jpg)](https://www.youtube.com/watch?v=ea7i63isgh4)
+
+
+## IT Man - Tip #14 - kool.dev - A better development workflow [Vietnamese]
+Published at 2022-01-23T06:00:24Z
+[![IT Man - Tip #14 - kool.dev - A better development workflow [Vietnamese]](https://i.ytimg.com/vi/gN_cYtGDBXc/mqdefault.jpg)](https://www.youtube.com/watch?v=gN_cYtGDBXc)
+
+
+## IT Man - Tech #14 - Turborepo - Monorepos that make ship happen [Vietnames]
+Published at 2022-01-16T13:23:16Z
+[![IT Man - Tech #14 - Turborepo - Monorepos that make ship happen [Vietnames]](https://i.ytimg.com/vi/B6vNMMEJvgk/mqdefault.jpg)](https://www.youtube.com/watch?v=B6vNMMEJvgk)
+
+
+## IT Man - Talk #13 -  How to build personal branding [Vietnamese]
+Published at 2022-01-09T06:00:14Z
+[![IT Man - Talk #13 -  How to build personal branding [Vietnamese]](https://i.ytimg.com/vi/zVoq_OX88Ek/mqdefault.jpg)](https://www.youtube.com/watch?v=zVoq_OX88Ek)
+
+
+## IT Man - Tip #13 - Typesafe-i18n - fully type-safe, lightweight localization library [Vietnamese]
+Published at 2022-01-02T06:00:09Z
+[![IT Man - Tip #13 - Typesafe-i18n - fully type-safe, lightweight localization library [Vietnamese]](https://i.ytimg.com/vi/mrltErmLH7M/mqdefault.jpg)](https://www.youtube.com/watch?v=mrltErmLH7M)
+
+
+## IT Man - Tech #13 - TSDX - Zero-config CLI for TypeScript package development [Vietnamese]
+Published at 2021-12-26T06:00:01Z
+[![IT Man - Tech #13 - TSDX - Zero-config CLI for TypeScript package development [Vietnamese]](https://i.ytimg.com/vi/a-lF7BgKn_c/mqdefault.jpg)](https://www.youtube.com/watch?v=a-lF7BgKn_c)
+
+
+## IT Man - Talk #12 - 3 lessons I&#39;ve learned about Web Developer over the last 10 years [Vietnamese]
+Published at 2021-12-19T06:00:04Z
+[![IT Man - Talk #12 - 3 lessons I&#39;ve learned about Web Developer over the last 10 years [Vietnamese]](https://i.ytimg.com/vi/HYLgANBsSw4/mqdefault.jpg)](https://www.youtube.com/watch?v=HYLgANBsSw4)
+
+
+## IT Man - Tip #12 - Blockchain - Typechain - TypeScript bindings for smart contracts [Vietnamese]
+Published at 2021-12-12T05:00:08Z
+[![IT Man - Tip #12 - Blockchain - Typechain - TypeScript bindings for smart contracts [Vietnamese]](https://i.ytimg.com/vi/BpLG2_hX7_Y/mqdefault.jpg)](https://www.youtube.com/watch?v=BpLG2_hX7_Y)
+
+
+## IT Man - Tech #12 - Remix - Full stack Web React built on top react-router [Vietnamese]
+Published at 2021-12-05T06:00:04Z
+[![IT Man - Tech #12 - Remix - Full stack Web React built on top react-router [Vietnamese]](https://i.ytimg.com/vi/aS564PQWpkk/mqdefault.jpg)](https://www.youtube.com/watch?v=aS564PQWpkk)
+
+
+## Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]
+Published at 2021-11-28T14:37:39Z
+[![Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]](https://i.ytimg.com/vi/PR9Wv9nyqJI/mqdefault.jpg)](https://www.youtube.com/watch?v=PR9Wv9nyqJI)
+
+
+## IT Man - Talk #11 - Monorepo 101 [Vietnamese]
+Published at 2021-11-21T07:22:46Z
+[![IT Man - Talk #11 - Monorepo 101 [Vietnamese]](https://i.ytimg.com/vi/A5wCHi5G28U/mqdefault.jpg)](https://www.youtube.com/watch?v=A5wCHi5G28U)
+
+
+## IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]
+Published at 2021-11-14T05:48:27Z
+[![IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]](https://i.ytimg.com/vi/0beJFDOaOSE/mqdefault.jpg)](https://www.youtube.com/watch?v=0beJFDOaOSE)
+
+
+## IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]
+Published at 2021-11-07T06:25:49Z
+[![IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]](https://i.ytimg.com/vi/HIpghgP2VFg/mqdefault.jpg)](https://www.youtube.com/watch?v=HIpghgP2VFg)
+
+
+## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]
+Published at 2021-10-31T07:30:41Z
+[![IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]](https://i.ytimg.com/vi/Ex8vM0ITR38/mqdefault.jpg)](https://www.youtube.com/watch?v=Ex8vM0ITR38)
+
+
+## IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]
+Published at 2021-10-24T07:44:13Z
+[![IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]](https://i.ytimg.com/vi/rp04DGPYzSk/mqdefault.jpg)](https://www.youtube.com/watch?v=rp04DGPYzSk)
+
+
+## Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist
+Published at 2021-10-17T05:59:28Z
+[![Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist](https://i.ytimg.com/vi/diJRU-Bjilc/mqdefault.jpg)](https://www.youtube.com/watch?v=diJRU-Bjilc)
+
+
+## IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]
+Published at 2021-10-10T07:00:10Z
+[![IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]](https://i.ytimg.com/vi/j-CVLokxl_E/mqdefault.jpg)](https://www.youtube.com/watch?v=j-CVLokxl_E)
+
+
+## IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]
+Published at 2021-10-03T04:47:28Z
+[![IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]](https://i.ytimg.com/vi/_9dPmS_9a5M/mqdefault.jpg)](https://www.youtube.com/watch?v=_9dPmS_9a5M)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Mint a NFT token [Vietnamese]
+Published at 2021-09-26T06:56:51Z
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Mint a NFT token [Vietnamese]](https://i.ytimg.com/vi/UWJJa1hAYlo/mqdefault.jpg)](https://www.youtube.com/watch?v=UWJJa1hAYlo)
+
+
+## IT Man - Talk #9 - Blockchain - Smart Contract Security Best Practices [Vietnamese]
+Published at 2021-09-19T07:53:58Z
+[![IT Man - Talk #9 - Blockchain - Smart Contract Security Best Practices [Vietnamese]](https://i.ytimg.com/vi/keI4tymfIbo/mqdefault.jpg)](https://www.youtube.com/watch?v=keI4tymfIbo)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
+Published at 2021-09-12T08:27:26Z
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
+Published at 2021-09-05T01:43:04Z
+[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]
+Published at 2021-08-29T06:17:05Z
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
+Published at 2021-08-22T04:03:49Z
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
+Published at 2021-08-15T08:13:08Z
+[![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
+
+
+## Blockchain
+Published at 2021-08-15T08:12:06Z
+[![Blockchain](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=undefined)
+
+
+## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
+Published at 2021-08-08T05:27:07Z
+[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
+
+
+## IT Man - Tip #8 - 3 ways to improve your productivity for coder [Vietnamese]
+Published at 2021-08-01T12:19:04Z
+[![IT Man - Tip #8 - 3 ways to improve your productivity for coder [Vietnamese]](https://i.ytimg.com/vi/BSWjwkYhaJs/mqdefault.jpg)](https://www.youtube.com/watch?v=BSWjwkYhaJs)
+
+
+## IT Man - Tech #8 - Astro: Ship Less JavaScript [Vietnamese]
+Published at 2021-07-25T08:11:42Z
+[![IT Man - Tech #8 - Astro: Ship Less JavaScript [Vietnamese]](https://i.ytimg.com/vi/HLTjKsgXtGY/mqdefault.jpg)](https://www.youtube.com/watch?v=HLTjKsgXtGY)
+
+
+## IT Man - Talk #7 - Github Copilot- Technical review [Vietnamese]
+Published at 2021-07-18T09:01:08Z
+[![IT Man - Talk #7 - Github Copilot- Technical review [Vietnamese]](https://i.ytimg.com/vi/noImRrrUuzo/mqdefault.jpg)](https://www.youtube.com/watch?v=noImRrrUuzo)
+
+
+## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
+Published at 2021-07-11T14:29:36Z
+[![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)

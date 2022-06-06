@@ -2,7 +2,8 @@ import { config, logger, YoutubeVideo } from "./deps.ts";
 
 const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 
-const LIMIT = 100;
+// Max results per page is 50 from Youtube api
+const LIMIT = 50;
 
 function generateMarkdownFile(videos: YoutubeVideo[]) {
   const markdown = videos.map((video) => {

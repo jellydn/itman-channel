@@ -1,0 +1,11 @@
+{
+  "name": "ytb-channel-to-markdown",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Huynh Duc Dung",
+  "license": "MIT",
+  "scripts": {
+    "dev": "deno run --watch --unstable --allow-read --allow-net --allow-write --allow-run --allow-env main.ts",
+    "build": "deno compile --unstable --allow-read --allow-env --allow-write --allow-run --allow-net main.ts"
+  }
+}

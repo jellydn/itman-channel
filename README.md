@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #20 - Unboxing D&#39;CENT Biometric Wallet &amp; reviewing [Vietnamese]
+Published at 2022-06-11T19:36:08Z
+
+[![IT Man - Talk #20 - Unboxing D&#39;CENT Biometric Wallet &amp; reviewing [Vietnamese]](https://i.ytimg.com/vi/psK6ZISAdqw/mqdefault.jpg)](https://www.youtube.com/watch?v=psK6ZISAdqw)
+
+
 ## IT Man - Tip #20 - NextJS 12 Middleware (Beta) - How to build shorten URL App - Part 2 [Vietnamese]
 Published at 2022-06-05T00:11:41Z
 

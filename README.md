@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]
+Published at 2022-06-19T02:29:53Z
+
+[![IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]](https://i.ytimg.com/vi/d7CBpxbqtgA/mqdefault.jpg)](https://www.youtube.com/watch?v=d7CBpxbqtgA)
+
+
 ## IT Man - Talk #20 - Unboxing D&#39;CENT Biometric Wallet &amp; reviewing [Vietnamese]
 Published at 2022-06-11T19:36:08Z
 

@@ -6,6 +6,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "deno run --watch --unstable --allow-read --allow-net --allow-write --allow-run --allow-env main.ts",
+    "top-video": "deno run --watch --unstable --allow-read --allow-net --allow-write --allow-run --allow-env top.ts",
     "build": "deno compile --unstable --allow-read --allow-env --allow-write --allow-run --allow-net main.ts"
   }
 }

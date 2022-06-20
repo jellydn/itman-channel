@@ -4,7 +4,7 @@ import { getVideos, generateMarkdownFile } from "./youtube.ts";
 const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 
 // Max results per page is 50 from Youtube api
-const LIMIT = 50;
+const LIMIT = 5;
 
 async function main(limit: number = LIMIT) {
   const apiUrl =
@@ -12,7 +12,7 @@ async function main(limit: number = LIMIT) {
     YOUTUBE_API_KEY +
     "&channelId=" +
     CHANNEL_ID +
-    "&part=snippet,id&order=date&maxResults=" +
+    "&part=snippet,id&order=viewCount&maxResults=" +
     limit;
 
   logger.warn("Generate markdown file from Deno :)", apiUrl);
@@ -27,7 +27,10 @@ async function main(limit: number = LIMIT) {
   if (response.ok) {
     const data = await response.json();
     const nextPageVideos = await getVideos(apiUrl, data.nextPageToken);
-    generateMarkdownFile([...data.items, ...nextPageVideos]);
+    generateMarkdownFile(
+      [...data.items, ...nextPageVideos],
+      "most_view_videos.md"
+    );
   }
 }
 

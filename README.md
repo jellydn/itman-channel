@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #21 - At The Edge! [Vietnamese]
+Published at 2022-07-02T23:17:59Z
+
+[![IT Man - Talk #21 - At The Edge! [Vietnamese]](https://i.ytimg.com/vi/hFcdh4M7XG4/mqdefault.jpg)](https://www.youtube.com/watch?v=hFcdh4M7XG4)
+
+
 ## IT Man - Tip #21 - My top 3 tools for ReactJS in 2022 [Vietnamese]
 Published at 2022-06-26T00:12:21Z
 

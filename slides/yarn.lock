@@ -32,6 +32,11 @@
   dependencies:
     perfect-freehand "^1.0.16"
 
+"@hedgedoc/markdown-it-task-lists@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/@hedgedoc/markdown-it-task-lists/-/markdown-it-task-lists-1.0.4.tgz#4f9fc0193725c800d0f0478b6205c6ba5001a5bc"
+  integrity sha512-L2qzTIxjl2o35DUWLm3oYSMumcMXR74B9KuQ0jMlvOhu3N71TvvySi+zErOvgacQ9cOpYiGW67zvvCtwkbbXAA==
+
 "@iconify-json/carbon@^1.1.6":
   version "1.1.6"
   resolved "https://registry.yarnpkg.com/@iconify-json/carbon/-/carbon-1.1.6.tgz#333ad5bbe30c852b7a8f7680dc600ed780cc481a"
@@ -105,17 +110,18 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
-"@slidev/cli@0.34.2":
-  version "0.34.2"
-  resolved "https://registry.yarnpkg.com/@slidev/cli/-/cli-0.34.2.tgz#2c3b8a1a15aabc82a6da1a340e1f268a3377549b"
-  integrity sha512-9Bg7ut1TUwVlH1CikWGKHdUFFC2khPb9s9ZsnH5CDg1p6u5H+YfOhtCVd1UDFEN/JF4PJ8J3iH5Gc9GUjXXztw==
+"@slidev/cli@0.34.3":
+  version "0.34.3"
+  resolved "https://registry.yarnpkg.com/@slidev/cli/-/cli-0.34.3.tgz#83160cce50cf7d2fa44b077ef7fb88ef57a900dd"
+  integrity sha512-uQCO/xiqYDPoD8njhzXc0oX0vjIRMjw37EKtFAIwhVw3bFRdVRUOfRjkp5HkIEz5jmbMvrkHwxdsgM4EqQ6pLg==
   dependencies:
     "@antfu/utils" "^0.5.2"
+    "@hedgedoc/markdown-it-task-lists" "^1.0.4"
     "@iconify-json/carbon" "^1.1.6"
     "@iconify-json/ph" "^1.1.2"
-    "@slidev/client" "0.34.2"
-    "@slidev/parser" "0.34.2"
-    "@slidev/types" "0.34.2"
+    "@slidev/client" "0.34.3"
+    "@slidev/parser" "0.34.3"
+    "@slidev/types" "0.34.3"
     "@vitejs/plugin-vue" "^2.3.3"
     "@vue/compiler-sfc" "^3.2.37"
     cli-progress "^3.11.2"
@@ -157,14 +163,14 @@
     windicss "^3.5.5"
     yargs "^17.5.1"
 
-"@slidev/client@0.34.2":
-  version "0.34.2"
-  resolved "https://registry.yarnpkg.com/@slidev/client/-/client-0.34.2.tgz#4db669abf408e7ce5a8121ffa4887db1cc733a8f"
-  integrity sha512-tNcFOFne6vykcI57m98C0Bdo0b45m33SOX7w0r4iM3AaympynD/Gtj/xZPMlJfPH/xNTCRndV1BsihasMinQJQ==
+"@slidev/client@0.34.3":
+  version "0.34.3"
+  resolved "https://registry.yarnpkg.com/@slidev/client/-/client-0.34.3.tgz#87e14e8f99ac829e150bdd82c27d4b09d63c4aff"
+  integrity sha512-9B/fQ4ydrEM2TxwXiwrm6NiGgCJepoltvvlvBKaDzvHIZofDd5wta4vk3vKA5fO2Bs8vcPi6rpPqiehBELYtxw==
   dependencies:
     "@antfu/utils" "^0.5.2"
-    "@slidev/parser" "0.34.2"
-    "@slidev/types" "0.34.2"
+    "@slidev/parser" "0.34.3"
+    "@slidev/types" "0.34.3"
     "@unocss/reset" "^0.42.0"
     "@vueuse/core" "^8.7.5"
     "@vueuse/head" "^0.7.6"
@@ -189,12 +195,12 @@
     vue-starport "^0.3.0"
     windicss "^3.5.5"
 
-"@slidev/parser@0.34.2":
-  version "0.34.2"
-  resolved "https://registry.yarnpkg.com/@slidev/parser/-/parser-0.34.2.tgz#93f3a670168127a7a14010d289c44c55961f2136"
-  integrity sha512-bF80dK+X0Aolc+/tr8T11HuNAORUDibiqzWHppEHWgsOdSCmd9+lSs74bpKw6WIFoxvgV6Ir2dQNm/cAzk5b0Q==
+"@slidev/parser@0.34.3":
+  version "0.34.3"
+  resolved "https://registry.yarnpkg.com/@slidev/parser/-/parser-0.34.3.tgz#485d44c8d1eab5c90e09836eb8cfe2d380fcfa68"
+  integrity sha512-mCjNuKfpcDii2lpQHTtPRDN3bqwqBa62g2W2j5NCRtj52o0ZeMA9erSF8SlKkq1aJOCvIHrxiQMgfxGGjJ3Kzg==
   dependencies:
-    "@slidev/types" "0.34.2"
+    "@slidev/types" "0.34.3"
     js-yaml "^4.1.0"
 
 "@slidev/theme-default@0.21.2":
@@ -217,10 +223,10 @@
     prism-theme-vars "^0.2.2"
     theme-vitesse "^0.1.12"
 
-"@slidev/types@0.34.2":
-  version "0.34.2"
-  resolved "https://registry.yarnpkg.com/@slidev/types/-/types-0.34.2.tgz#97d4b9061e382ac3cd7ebcc93989d02be41622cf"
-  integrity sha512-TCoSWRaK6HgLEBHpKPpcIplKhKdvgYuc0s1N1nKPj1sUz7XdRfIfjckBtewPIguakUgewlKcEkjxY9MM18p7jg==
+"@slidev/types@0.34.3":
+  version "0.34.3"
+  resolved "https://registry.yarnpkg.com/@slidev/types/-/types-0.34.3.tgz#af9de2af0c69f7755ebcc12b6b0b69236951a172"
+  integrity sha512-yzjy2eOEL2XjyWai1kbfEF8I53Ue9xXRX+uLxXXPVLg+2G/62/3KBZ9lRPvFctJI/Im1VHK5pUtUSstV1QQZOg==
 
 "@slidev/types@^0.22.7":
   version "0.22.7"

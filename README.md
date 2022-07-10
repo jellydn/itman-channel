@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #22 - Tauri App - Build smaller, faster, and more secure desktop [Vietnamese]
+Published at 2022-07-10T07:02:50Z
+
+[![IT Man - Tech #22 - Tauri App - Build smaller, faster, and more secure desktop [Vietnamese]](https://i.ytimg.com/vi/SdLGyC8BtOE/mqdefault.jpg)](https://www.youtube.com/watch?v=SdLGyC8BtOE)
+
+
 ## IT Man - Talk #21 - At The Edge! [Vietnamese]
 Published at 2022-07-02T23:17:59Z
 

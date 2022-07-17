@@ -21,47 +21,26 @@ marp: true
 
 ---
 
-# Tech #22 - Tauri Apps 1.0
+# Tip #22 - Package your Node.js project into an executable
 
-## Tauri App : Build smaller, faster, and more secure desktop
+## pkg
 
-Build an optimized, secure, and frontend-independent application for multi-platform deployment.
+Package your Node.js project into an executable
 
-https://tauri.app/
-
-## Tauri 1.0 Release
-
-A content delivery network (CDN) refers to a geographically distributed group of servers which work together to provide fast delivery of Internet content.
-
-Source: https://tauri.app/blog/tauri_1_0/
+https://github.com/vercel/pkg
 
 ---
 
-# Tech #22 - Tauri Apps 1.0
+# Tech #22 - Package your Node.js project into an executable
 
-## Get Started
+## Demo
 
-https://tauri.app/v1/guides/getting-started/prerequisites
-
-## Quick Start
-
-```sh
-pnpm create tauri-app
-```
+Live coding with simple CLI from
+https://github.com/jellydn/typescript-starter
 
 ---
 
-# Tech #22 - Tauri Apps 1.0
-
-## Demo App
-
-Facebook Seeder Tool
-
-https://github.com/jellydn/fb-seeder-tool
-
----
-
-# Good price - Unboxing D'CENT Biometric Wallet
+# Good price - ITMan shop
 
 ## Biometric Wallet - IT Man – D'CENT Shop
 
@@ -74,8 +53,3 @@ $129.00
 https://s.productsway.com/P-UR--Ig
 
 $189.00
-
-## News
-
-D’CENT Wallet now supports QR-based protocol to link with MetaMask!
-https://medium.com/dcentwallet/dcent-wallet-now-supports-qr-based-protocol-to-link-with-metamask-57555f02603f

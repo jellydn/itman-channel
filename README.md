@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tip #22 - Package your Node.js project into an executable [Vietnamese]
+Published at 2022-07-16T23:59:31Z
+
+[![ITMan - Tip #22 - Package your Node.js project into an executable [Vietnamese]](https://i.ytimg.com/vi/WdjdtqqDIkc/mqdefault.jpg)](https://www.youtube.com/watch?v=WdjdtqqDIkc)
+
+
 ## IT Man - Tech #22 - Tauri App - Build smaller, faster, and more secure desktop [Vietnamese]
 Published at 2022-07-10T07:02:50Z
 

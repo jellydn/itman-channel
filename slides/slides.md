@@ -21,22 +21,33 @@ marp: true
 
 ---
 
-# Tip #22 - Package your Node.js project into an executable
+# Talk #22 - ITMan - Tech Radars
 
-## pkg
+## Bun
 
-Package your Node.js project into an executable
+Bun is a fast all-in-one JavaScript runtime
 
-https://github.com/vercel/pkg
+https://bun.sh/
 
 ---
 
-# Tech #22 - Package your Node.js project into an executable
+# Talk #22 - ITMan - Tech Radars
 
-## Demo
+## Appwrite
 
-Live coding with simple CLI from
-https://github.com/jellydn/typescript-starter
+Secure Open-Source Backend Server for Web, Mobile & Flutter Developers
+
+https://appwrite.io/
+
+---
+
+# Talk #22 - ITMan - Tech Radars
+
+## Novu
+
+The open-source notification infrastructure for developers
+
+https://novu.co/
 
 ---
 

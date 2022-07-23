@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Talk #22 - ITMan - Tech Radar: Bun, Appwrite and Novu [Vietnamese]
+Published at 2022-07-23T23:21:48Z
+
+[![ITMan - Talk #22 - ITMan - Tech Radar: Bun, Appwrite and Novu [Vietnamese]](https://i.ytimg.com/vi/JKtn2Zc-5r8/mqdefault.jpg)](https://www.youtube.com/watch?v=JKtn2Zc-5r8)
+
+
 ## ITMan - Tip #22 - Package your Node.js project into an executable [Vietnamese]
 Published at 2022-07-16T23:59:31Z
 

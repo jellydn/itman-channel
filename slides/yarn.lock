@@ -213,10 +213,10 @@
     prism-theme-vars "^0.2.2"
     theme-vitesse "^0.1.12"
 
-"@slidev/theme-seriph@0.21.2":
-  version "0.21.2"
-  resolved "https://registry.yarnpkg.com/@slidev/theme-seriph/-/theme-seriph-0.21.2.tgz#d8ac290b9df69ee9fe753921e3a8cc2475678e31"
-  integrity sha512-D3zhFYBmH1X37LX1LvTUPxAM1EEK6vMfy4hyxI9JIBXuugVq1WrfjcD+Lt9HnLpH1EqD3Mk+gS0lP/uC2TaVQw==
+"@slidev/theme-seriph@0.21.3":
+  version "0.21.3"
+  resolved "https://registry.yarnpkg.com/@slidev/theme-seriph/-/theme-seriph-0.21.3.tgz#16f7e348876d6a802e058d10d96e0193a58e5097"
+  integrity sha512-cLya6O4hmcLHUhloCMPPoKMLX27Q+8M8pRS82BSsLXVeXTXrlpc3l3glx5VB738p+NQr7FgqFN6H2CXQRoVv9Q==
   dependencies:
     "@slidev/types" "^0.22.7"
     codemirror-theme-vars "^0.1.1"

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tech #23 - Qwik: Framework reimagined for the edge!
+Published at 2022-07-31T01:42:37Z
+
+[![ITMan - Tech #23 - Qwik: Framework reimagined for the edge!](https://i.ytimg.com/vi/bqHBUpGAT-w/mqdefault.jpg)](https://www.youtube.com/watch?v=bqHBUpGAT-w)
+
+
 ## ITMan - Talk #22 - Tech Radar: Bun, Appwrite and Novu [Vietnamese]
 Published at 2022-07-23T23:21:48Z
 

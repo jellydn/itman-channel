@@ -21,33 +21,15 @@ marp: true
 
 ---
 
-# Talk #22 - ITMan - Tech Radars
+# Tech #23 - ITMan - Qwik: Framework reimagined for the edge!
 
-## Bun
+## Qwik
 
-Bun is a fast all-in-one JavaScript runtime
+Framework reimagined for the edge!
 
-https://bun.sh/
+No hydration, auto lazy-loading, edge cacheable, and fun 🎉!
 
----
-
-# Talk #22 - ITMan - Tech Radars
-
-## Appwrite
-
-Secure Open-Source Backend Server for Web, Mobile & Flutter Developers
-
-https://appwrite.io/
-
----
-
-# Talk #22 - ITMan - Tech Radars
-
-## Novu
-
-The open-source notification infrastructure for developers
-
-https://novu.co/
+https://qwik.builder.io/
 
 ---
 

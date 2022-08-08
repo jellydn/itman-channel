@@ -21,15 +21,13 @@ marp: true
 
 ---
 
-# Tech #23 - ITMan - Qwik: Framework reimagined for the edge!
+# Tip #23 - ⛳️ Feature Flags for Next.js
 
-## Qwik
+## happykit
 
-Framework reimagined for the edge!
+Add Feature Flags to your Next.js application with a single React Hook. This package integrates your Next.js application with HappyKit Flags. Create a free happykit.dev account to get started.
 
-No hydration, auto lazy-loading, edge cacheable, and fun 🎉!
-
-https://qwik.builder.io/
+https://github.com/happykit/flags
 
 ---
 

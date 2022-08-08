@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]
+Published at 2022-08-07T08:18:47Z
+
+[![ITMan - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]](https://i.ytimg.com/vi/GJS-P49VMXc/mqdefault.jpg)](https://www.youtube.com/watch?v=GJS-P49VMXc)
+
+
 ## ITMan - Tech #23 - Qwik: Framework reimagined for the edge!
 Published at 2022-07-31T01:42:37Z
 

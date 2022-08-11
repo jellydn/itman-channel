@@ -9,7 +9,7 @@
     "@slidev/cli": "0.35.4",
     "@slidev/theme-default": "0.21.2",
     "@slidev/theme-seriph": "0.21.3",
-    "playwright-chromium": "1.24.2"
+    "playwright-chromium": "1.25.0"
   },
   "name": "it-man-channel"
 }

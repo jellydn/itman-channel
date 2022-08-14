@@ -1,15 +1,14 @@
 {
+  "name": "itman",
   "private": true,
   "scripts": {
-    "dev": "slidev --open",
     "build": "slidev build",
+    "dev": "slidev --open",
     "export": "slidev export"
   },
   "dependencies": {
-    "@slidev/cli": "0.35.4",
-    "@slidev/theme-default": "0.21.2",
-    "@slidev/theme-seriph": "0.21.3",
-    "playwright-chromium": "1.25.0"
-  },
-  "name": "it-man-channel"
+    "@slidev/cli": "^0.35.4",
+    "@slidev/theme-default": "*",
+    "@slidev/theme-seriph": "*"
+  }
 }

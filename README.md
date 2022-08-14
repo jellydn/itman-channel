@@ -7,16 +7,22 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]
+Published at 2022-08-14T01:00:17Z
+
+[![ITMan - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]](https://i.ytimg.com/vi/doit16b1wZQ/mqdefault.jpg)](https://www.youtube.com/watch?v=doit16b1wZQ)
+
+
 ## ITMan - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]
 Published at 2022-08-07T08:18:47Z
 
 [![ITMan - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]](https://i.ytimg.com/vi/GJS-P49VMXc/mqdefault.jpg)](https://www.youtube.com/watch?v=GJS-P49VMXc)
 
 
-## ITMan - Tech #23 - Qwik: Framework reimagined for the edge!
+## ITMan - Tech #23 - Qwik: Framework reimagined for the edge! [Vietnamese]
 Published at 2022-07-31T01:42:37Z
 
-[![ITMan - Tech #23 - Qwik: Framework reimagined for the edge!](https://i.ytimg.com/vi/bqHBUpGAT-w/mqdefault.jpg)](https://www.youtube.com/watch?v=bqHBUpGAT-w)
+[![ITMan - Tech #23 - Qwik: Framework reimagined for the edge! [Vietnamese]](https://i.ytimg.com/vi/bqHBUpGAT-w/mqdefault.jpg)](https://www.youtube.com/watch?v=bqHBUpGAT-w)
 
 
 ## ITMan - Talk #22 - Tech Radar: Bun, Appwrite and Novu [Vietnamese]

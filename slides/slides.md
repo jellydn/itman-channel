@@ -21,17 +21,61 @@ marp: true
 
 ---
 
-# Tip #23 - ⛳️ Feature Flags for Next.js
+# Talk #23 - IT Man - Tech Radar: MillionJs
 
-## happykit
+## MillionJs - https://millionjs.org/
 
-Add Feature Flags to your Next.js application with a single React Hook. This package integrates your Next.js application with HappyKit Flags. Create a free happykit.dev account to get started.
+Million is a drop-in replacement for React with a lightweight <1kb Virtual DOM.
+<img src="https://pbs.twimg.com/media/FY5XV4xUUAEsEHX.jpg">
 
-https://github.com/happykit/flags
+How https://threadreaderapp.com/thread/1553280656213360640.html
+
+Quick start : https://millionjs.org/docs/start-here
 
 ---
 
-# Good price - ITMan shop
+# Talk #23 - IT Man - Tech Radar: MillionJs
+
+## MillionJs - https://millionjs.org/
+
+How https://threadreaderapp.com/thread/1553280656213360640.html
+
+Quick start : https://millionjs.org/docs/start-here
+
+---
+
+# Talk #23 - IT Man - Tech Radar: NEAR JavaScript SDK
+
+## NEAR JavaScript SDK - https://docs.near.org/
+
+The JS SDK provides each contract with its own instance of a JS engine running inside it. This design allows developers to write contracts in pure JavaScript or TypeScript, and access all the same features, like oracles, available to Rust contracts.
+
+```sh
+npx create-near-app
+```
+
+Reference https://near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/
+
+Guide https://docs.near.org/develop/quickstart-guide
+
+---
+
+# Talk #23 - IT Man - Tech Radar: Astro
+
+## Astro 1.0 - https://astro.build/
+
+Astro v1.0 includes a few new features and improvements since our original beta announcement back in April, including:
+
+Image Optimization: New <Image /> and <Picture /> components.
+MDX Support: A standard syntax for mixing UI components in Markdown.
+SSR Builds: Server output is now stable and available for production use.
+Vite 3.0: An upgrade to our internal build engine, Vite.
+
+https://astro.build/blog/astro-1/
+
+---
+
+# Good price - ITMan shop - https://bit.ly/m/itman
 
 ## Biometric Wallet - IT Man – D'CENT Shop
 

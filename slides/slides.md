@@ -21,57 +21,36 @@ marp: true
 
 ---
 
-# Talk #23 - IT Man - Tech Radar: MillionJs
+# Tech #24 - IT Man - Infrastructure as code
 
-## MillionJs - https://millionjs.org/
+## Pulumi - https://www.pulumi.com/
 
-Million is a drop-in replacement for React with a lightweight <1kb Virtual DOM.
-<img src="https://pbs.twimg.com/media/FY5XV4xUUAEsEHX.jpg">
+Universal
+Infrastructure as Code
+Define infrastructure on any cloud using familiar programming languages. For developers, infrastructure teams, and everybody in between.
 
-How https://threadreaderapp.com/thread/1553280656213360640.html
-
-Quick start : https://millionjs.org/docs/start-here
-
----
-
-# Talk #23 - IT Man - Tech Radar: MillionJs
-
-## MillionJs - https://millionjs.org/
-
-How https://threadreaderapp.com/thread/1553280656213360640.html
-
-Quick start : https://millionjs.org/docs/start-here
+Quick start : https://www.pulumi.com/docs/get-started/
 
 ---
 
-# Talk #23 - IT Man - Tech Radar: NEAR JavaScript SDK
+# Tech #24 - IT Man - Infrastructure as code
 
-## NEAR JavaScript SDK - https://docs.near.org/
+## TerraForm - https://www.terraform.io/
 
-The JS SDK provides each contract with its own instance of a JS engine running inside it. This design allows developers to write contracts in pure JavaScript or TypeScript, and access all the same features, like oracles, available to Rust contracts.
+Automate Infrastructure on Any Cloud
+Provision, change, and version resources on any environment.
 
-```sh
-npx create-near-app
-```
-
-Reference https://near.org/blog/near-releases-javascript-sdk-bringing-web3-to-20-million-developers/
-
-Guide https://docs.near.org/develop/quickstart-guide
+Get started : https://learn.hashicorp.com/terraform?utm_source=terraform_io
 
 ---
 
-# Talk #23 - IT Man - Tech Radar: Astro
+# Tech #24 - IT Man - Infrastructure as code
 
-## Astro 1.0 - https://astro.build/
+## AWS Cloud Development Kit - https://aws.amazon.com/cdk
 
-Astro v1.0 includes a few new features and improvements since our original beta announcement back in April, including:
+Define cloud infrastructure using familiar programming languages
 
-Image Optimization: New <Image /> and <Picture /> components.
-MDX Support: A standard syntax for mixing UI components in Markdown.
-SSR Builds: Server output is now stable and available for production use.
-Vite 3.0: An upgrade to our internal build engine, Vite.
-
-https://astro.build/blog/astro-1/
+Get Started https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
 
 ---
 

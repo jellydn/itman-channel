@@ -7,10 +7,10 @@
 > Last 100 videos on my Youtube channel
 
 
-## ITMan - Tech #24 - Infrastructure as code - Overview
+## ITMan - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]
 Published at 2022-08-21T09:57:12Z
 
-[![ITMan - Tech #24 - Infrastructure as code - Overview](https://i.ytimg.com/vi/GfltLGOslM8/mqdefault.jpg)](https://www.youtube.com/watch?v=GfltLGOslM8)
+[![ITMan - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]](https://i.ytimg.com/vi/GfltLGOslM8/mqdefault.jpg)](https://www.youtube.com/watch?v=GfltLGOslM8)
 
 
 ## ITMan - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]

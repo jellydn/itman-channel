@@ -21,36 +21,53 @@ marp: true
 
 ---
 
-# Tech #24 - IT Man - Infrastructure as code
+# Tip #24 - IT Man - Heroku - End of an era
 
-## Pulumi - https://www.pulumi.com/
+## Heroku’s announcement
 
-Universal
-Infrastructure as Code
-Define infrastructure on any cloud using familiar programming languages. For developers, infrastructure teams, and everybody in between.
+Heroku’s Next Chapter
+https://blog.heroku.com/next-chapter
 
-Quick start : https://www.pulumi.com/docs/get-started/
+Heroku announces plans to eliminate free plans, blaming ‘fraud and abuse’
+https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abus
 
----
-
-# Tech #24 - IT Man - Infrastructure as code
-
-## TerraForm - https://www.terraform.io/
-
-Automate Infrastructure on Any Cloud
-Provision, change, and version resources on any environment.
-
-Get started : https://learn.hashicorp.com/terraform?utm_source=terraform_io
+The Story of Heroku
+https://leerob.io/blog/heroku
 
 ---
 
-# Tech #24 - IT Man - Infrastructure as code
+# Tip #24 - IT Man - Migrating From Heroku To Railway
 
-## AWS Cloud Development Kit - https://aws.amazon.com/cdk
+## [Railway](https://railway.app?referralCode=-GINmA) - https://railway.app
 
-Define cloud infrastructure using familiar programming languages
+Bring your code,
+we'll handle the rest.
+Made for any language, for projects big and small. Railway is the cloud that takes the complexity out of shipping software.
 
-Get Started https://docs.aws.amazon.com/cdk/v2/guide/getting_started.html
+Guideline
+https://blog.railway.app/p/railway-heroku-rails
+
+---
+
+# Tip #24 - IT Man - Migrating From Heroku To Fly
+
+## [Fly](https://fly.io) - https://fly.io/
+
+Deploy App Servers
+Close to Your Users
+Run your full stack apps (and databases!) all over the world. No ops required.
+
+Guideline https://fly.io/docs/app-guides/speed-up-a-heroku-app/
+
+---
+
+# Tip #24 - IT Man - Migrating from Heroku to Render
+
+## [Render](https://render.com) - https://render.com
+
+Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
+
+Guideline https://render.com/docs/migrate-from-heroku
 
 ---
 

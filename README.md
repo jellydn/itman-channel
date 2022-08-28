@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]
+Published at 2022-08-28T01:55:06Z
+
+[![ITMan - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]](https://i.ytimg.com/vi/aVBF6EnHU0w/mqdefault.jpg)](https://www.youtube.com/watch?v=aVBF6EnHU0w)
+
+
 ## ITMan - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]
 Published at 2022-08-21T09:57:12Z
 

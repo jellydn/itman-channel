@@ -21,53 +21,29 @@ marp: true
 
 ---
 
-# Tip #24 - IT Man - Heroku - End of an era
+# Talk #24 - IT Man - Pattern Matching library for TypeScript
 
-## Heroku’s announcement
+## ts-pattern: The exhaustive Pattern Matching library for TypeScript with smart type inference.
 
-Heroku’s Next Chapter
-https://blog.heroku.com/next-chapter
+Homepage: https://github.com/gvergnaud/ts-pattern
 
-Heroku announces plans to eliminate free plans, blaming ‘fraud and abuse’
-https://techcrunch.com/2022/08/25/heroku-announces-plans-to-eliminate-free-plans-blaming-fraud-and-abus
+```typescript
+import { match, P } from 'ts-pattern';
 
-The Story of Heroku
-https://leerob.io/blog/heroku
+type Data =
+  | { type: 'text'; content: string }
+  | { type: 'img'; src: string };
+type Result =
+  | { type: 'ok'; data: Data }
+  | { type: 'error'; error: Error };
+const result: Result = ...;
 
----
-
-# Tip #24 - IT Man - Migrating From Heroku To Railway
-
-## [Railway](https://railway.app?referralCode=-GINmA) - https://railway.app
-
-Bring your code,
-we'll handle the rest.
-Made for any language, for projects big and small. Railway is the cloud that takes the complexity out of shipping software.
-
-Guideline
-https://blog.railway.app/p/railway-heroku-rails
-
----
-
-# Tip #24 - IT Man - Migrating From Heroku To Fly
-
-## [Fly](https://fly.io) - https://fly.io/
-
-Deploy App Servers
-Close to Your Users
-Run your full stack apps (and databases!) all over the world. No ops required.
-
-Guideline https://fly.io/docs/app-guides/speed-up-a-heroku-app/
-
----
-
-# Tip #24 - IT Man - Migrating from Heroku to Render
-
-## [Render](https://render.com) - https://render.com
-
-Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git.
-
-Guideline https://render.com/docs/migrate-from-heroku
+return match(result)
+  .with({ type: 'error' }, () => `<p>Oups! An error occured</p>`)
+  .with({ type: 'ok', data: { type: 'text' } }, (res) => `<p>${res.data.content}</p>`)
+  .with({ type: 'ok', data: { type: 'img', src: P.select() } }, (src) => `<img src=${src} />`)
+  .exhaustive();
+```
 
 ---
 

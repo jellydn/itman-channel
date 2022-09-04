@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]
+Published at 2022-09-04T06:49:16Z
+
+[![ITMan - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]](https://i.ytimg.com/vi/ujJlZi0IzI8/mqdefault.jpg)](https://www.youtube.com/watch?v=ujJlZi0IzI8)
+
+
 ## ITMan - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]
 Published at 2022-08-28T01:55:06Z
 

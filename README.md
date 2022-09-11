@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]
+Published at 2022-09-11T07:35:04Z
+
+[![ITMan - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]](https://i.ytimg.com/vi/YsjqVvlrXGY/mqdefault.jpg)](https://www.youtube.com/watch?v=YsjqVvlrXGY)
+
+
 ## ITMan - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]
 Published at 2022-09-04T06:49:16Z
 

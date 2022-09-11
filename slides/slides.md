@@ -21,28 +21,19 @@ marp: true
 
 ---
 
-# Talk #24 - IT Man - Pattern Matching library for TypeScript
+# Tech #25 - IT Man - Honojs
 
-## ts-pattern: The exhaustive Pattern Matching library for TypeScript with smart type inference.
+## Honojs: Ultrafast web framework for Cloudflare Workers, Deno, and Bun.
 
-Homepage: https://github.com/gvergnaud/ts-pattern
+Homepage: https://honojs.dev/
 
 ```typescript
-import { match, P } from 'ts-pattern';
+import { Hono } from "hono";
+const app = new Hono();
 
-type Data =
-  | { type: 'text'; content: string }
-  | { type: 'img'; src: string };
-type Result =
-  | { type: 'ok'; data: Data }
-  | { type: 'error'; error: Error };
-const result: Result = ...;
+app.get("/", (c) => c.text("Hono!!"));
 
-return match(result)
-  .with({ type: 'error' }, () => `<p>Oups! An error occured</p>`)
-  .with({ type: 'ok', data: { type: 'text' } }, (res) => `<p>${res.data.content}</p>`)
-  .with({ type: 'ok', data: { type: 'img', src: P.select() } }, (src) => `<img src=${src} />`)
-  .exhaustive();
+export default app;
 ```
 
 ---

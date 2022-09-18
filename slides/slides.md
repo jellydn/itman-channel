@@ -21,20 +21,19 @@ marp: true
 
 ---
 
-# Tech #25 - IT Man - Honojs
+# Tip #25 - IT Man - Command line tools for smart contract like a PRO
 
-## Honojs: Ultrafast web framework for Cloudflare Workers, Deno, and Bun.
+## Dapp tools
 
-Homepage: https://honojs.dev/
+Homepage: https://dapp.tools/
 
-```typescript
-import { Hono } from "hono";
-const app = new Hono();
+- Command line tools and smart contract libraries for Ethereum smart contract development.
 
-app.get("/", (c) => c.text("Hono!!"));
+## Foundry
 
-export default app;
-```
+Homepage: https://getfoundry.sh/
+
+- Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
 
 ---
 
@@ -51,3 +50,11 @@ $129.00
 https://s.productsway.com/P-UR--Ig
 
 $189.00
+
+---
+
+# Tip #25 - IT Man - Command line tools for smart contract like a PRO
+
+## Demo
+
+Repository: https://github.com/jellydn/eth-cli

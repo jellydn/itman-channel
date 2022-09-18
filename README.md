@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]
+Published at 2022-09-18T08:07:53Z
+
+[![ITMan - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]](https://i.ytimg.com/vi/eGJMubePnws/mqdefault.jpg)](https://www.youtube.com/watch?v=eGJMubePnws)
+
+
 ## ITMan - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]
 Published at 2022-09-11T07:35:04Z
 
@@ -294,12 +300,6 @@ Published at 2021-10-24T07:44:13Z
 Published at 2021-10-17T05:59:28Z
 
 [![Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist](https://i.ytimg.com/vi/diJRU-Bjilc/mqdefault.jpg)](https://www.youtube.com/watch?v=diJRU-Bjilc)
-
-
-## IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]
-Published at 2021-10-10T07:00:10Z
-
-[![IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]](https://i.ytimg.com/vi/j-CVLokxl_E/mqdefault.jpg)](https://www.youtube.com/watch?v=j-CVLokxl_E)
 
 
 ## IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]

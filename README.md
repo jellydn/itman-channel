@@ -302,6 +302,12 @@ Published at 2021-10-17T05:59:28Z
 [![Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist](https://i.ytimg.com/vi/diJRU-Bjilc/mqdefault.jpg)](https://www.youtube.com/watch?v=diJRU-Bjilc)
 
 
+## IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]
+Published at 2021-10-10T07:00:10Z
+
+[![IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]](https://i.ytimg.com/vi/j-CVLokxl_E/mqdefault.jpg)](https://www.youtube.com/watch?v=j-CVLokxl_E)
+
+
 ## IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]
 Published at 2021-10-03T04:47:28Z
 

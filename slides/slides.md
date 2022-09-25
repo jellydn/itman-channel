@@ -21,19 +21,41 @@ marp: true
 
 ---
 
-# Tip #25 - IT Man - Command line tools for smart contract like a PRO
+# Talk #25 - Tech Radar: Wasmtime
 
-## Dapp tools
+## Wasmtime Reaches 1.0: Fast, Safe and Production Ready!
 
-Homepage: https://dapp.tools/
+Homepage: https://wasmtime.dev/
 
-- Command line tools and smart contract libraries for Ethereum smart contract development.
+- A fast and secure runtime for WebAssembly
 
-## Foundry
+https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready
 
-Homepage: https://getfoundry.sh/
+Learn morea bout webassembly: https://webassembly.org/
 
-- Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.
+Demo repository: https://github.com/jellydn/wasmtime-examples
+
+---
+
+# Talk #25 - Tech Radar: memlab
+
+## memlab
+
+Homepage: https://facebookincubator.github.io/memlab/
+
+- Analyzes JavaScript heap and finds memory leaks in browser and node.js
+
+---
+
+# Talk #25 - Tech Radar: nhost
+
+## nhost
+
+Homepage: https://nhost.io
+
+- The Open Source Firebase Alternative with GraphQL.
+
+- Demo repository: https://github.com/jellydn/nhost-quickstart-app
 
 ---
 
@@ -50,11 +72,3 @@ $129.00
 https://s.productsway.com/P-UR--Ig
 
 $189.00
-
----
-
-# Tip #25 - IT Man - Command line tools for smart contract like a PRO
-
-## Demo
-
-Repository: https://github.com/jellydn/eth-cli

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]
+Published at 2022-09-25T07:44:18Z
+
+[![ITMan - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]](https://i.ytimg.com/vi/FslW-YP2oG8/mqdefault.jpg)](https://www.youtube.com/watch?v=FslW-YP2oG8)
+
+
 ## ITMan - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]
 Published at 2022-09-18T08:07:53Z
 

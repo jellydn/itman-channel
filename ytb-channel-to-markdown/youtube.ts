@@ -19,6 +19,7 @@ Published at ${publishedAt}
 `;
   });
 
+  console.log("write to file", fileName);
   Deno.writeTextFile(
     "../" + fileName,
     `

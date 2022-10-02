@@ -6,7 +6,7 @@ const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 // Max results per page is 50 from Youtube api
 const LIMIT = 50;
 
-async function main(limit: number = LIMIT) {
+export async function main(limit: number = LIMIT, writeToFile: boolean = true) {
   const apiUrl =
     "https://www.googleapis.com/youtube/v3/search?key=" +
     YOUTUBE_API_KEY +
@@ -27,7 +27,11 @@ async function main(limit: number = LIMIT) {
   if (response.ok) {
     const data = await response.json();
     const nextPageVideos = await getVideos(apiUrl, data.nextPageToken);
-    generateMarkdownFile([...data.items, ...nextPageVideos]);
+    if (writeToFile) {
+      generateMarkdownFile([...data.items, ...nextPageVideos]);
+    }
+
+    return data;
   }
 }
 

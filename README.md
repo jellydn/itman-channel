@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
+Published at 2022-10-02T05:43:56Z
+
+[![ITMan - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
+
+
 ## ITMan - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]
 Published at 2022-09-25T07:44:18Z
 

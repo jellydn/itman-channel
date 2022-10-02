@@ -21,41 +21,19 @@ marp: true
 
 ---
 
-# Talk #25 - Tech Radar: Wasmtime
+# Tech #26 - (P)React Signals
 
-## Wasmtime Reaches 1.0: Fast, Safe and Production Ready!
+## Preact Signals
 
-Homepage: https://wasmtime.dev/
+Homepage: https://github.com/preactjs/signals
 
-- A fast and secure runtime for WebAssembly
+- Manage state with style in every framework
+  Introducing Signals
+  https://preactjs.com/blog/introducing-signals/
+  Signal Boosting
+  https://preactjs.com/blog/signal-boosting
 
-https://bytecodealliance.org/articles/wasmtime-1-0-fast-safe-and-production-ready
-
-Learn morea bout webassembly: https://webassembly.org/
-
-Demo repository: https://github.com/jellydn/wasmtime-examples
-
----
-
-# Talk #25 - Tech Radar: memlab
-
-## memlab
-
-Homepage: https://facebookincubator.github.io/memlab/
-
-- Analyzes JavaScript heap and finds memory leaks in browser and node.js
-
----
-
-# Talk #25 - Tech Radar: nhost
-
-## nhost
-
-Homepage: https://nhost.io
-
-- The Open Source Firebase Alternative with GraphQL.
-
-- Demo repository: https://github.com/jellydn/nhost-quickstart-app
+- Demo repository: https://github.com/jellydn/signal-itman-demo
 
 ---
 

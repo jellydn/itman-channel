@@ -21,19 +21,67 @@ marp: true
 
 ---
 
-# Tech #26 - (P)React Signals
+# Tip #26 - GIT: From Zero to Hero
 
-## Preact Signals
+## Alias
 
-Homepage: https://github.com/preactjs/signals
+https://gist.github.com/DavidToca/3086571
 
-- Manage state with style in every framework
-  Introducing Signals
-  https://preactjs.com/blog/introducing-signals/
-  Signal Boosting
-  https://preactjs.com/blog/signal-boosting
+https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
 
-- Demo repository: https://github.com/jellydn/signal-itman-demo
+## Git commit message
+
+Gitmoji
+https://gitmoji.dev/
+
+Git convention
+https://www.conventionalcommits.org/en/v1.0.0/
+
+What/Why/How
+
+```sh
+git commit --amend
+```
+
+---
+
+# Tip #26 - GIT: From Zero to Hero
+
+## Git merge vs Get rebase
+
+Reference: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
+
+## Git rebase interactive
+
+https://productsway.com/blog/git-rebase-interactive
+
+```sh
+git rebase -i HEAD~N
+```
+
+## Git stash
+
+```sh
+git stash
+```
+
+## Undo
+
+https://github.com/Bhupesh-V/ugit
+
+---
+
+# Tip #26 - GIT: From Zero to Hero
+
+## UI tool
+
+SourceTree https://www.sourcetreeapp.com/
+GitKraken https://www.gitkraken.com/
+Github Desktop https://desktop.github.com/
+
+## Diff tool
+
+Delta https://github.com/dandavison/delta
 
 ---
 

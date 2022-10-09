@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tip #26 - Git: From Zero to Hero [Vietnamese]
+Published at 2022-10-09T07:58:04Z
+
+[![ITMan - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
+
+
 ## ITMan - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
 Published at 2022-10-02T05:43:56Z
 
@@ -194,12 +200,6 @@ Published at 2022-03-06T04:16:57Z
 [![IT Man - Tech #16 - tRPC - End-to-end typesafe APIs made easy [Vietnamese]](https://i.ytimg.com/vi/rz1ZGV82i34/mqdefault.jpg)](https://www.youtube.com/watch?v=rz1ZGV82i34)
 
 
-## IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]
-Published at 2022-02-27T03:00:50Z
-
-[![IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]](https://i.ytimg.com/vi/wzWGZdTtYWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=wzWGZdTtYWQ)
-
-
 ## IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]
 Published at 2022-02-20T05:25:51Z
 
@@ -294,6 +294,12 @@ Published at 2021-11-14T05:48:27Z
 Published at 2021-11-07T06:25:49Z
 
 [![IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]](https://i.ytimg.com/vi/HIpghgP2VFg/mqdefault.jpg)](https://www.youtube.com/watch?v=HIpghgP2VFg)
+
+
+## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]
+Published at 2021-10-31T07:30:41Z
+
+[![IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]](https://i.ytimg.com/vi/Ex8vM0ITR38/mqdefault.jpg)](https://www.youtube.com/watch?v=Ex8vM0ITR38)
 
 
 ## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]

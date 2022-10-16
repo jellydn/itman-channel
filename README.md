@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #26 - Programming Principles [Vietnamese]
+Published at 2022-10-16T06:58:09Z
+
+[![IT Man - Talk #26 - Programming Principles [Vietnamese]](https://i.ytimg.com/vi/X6ALHHJgFlk/mqdefault.jpg)](https://www.youtube.com/watch?v=X6ALHHJgFlk)
+
+
 ## IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]
 Published at 2022-10-09T07:58:04Z
 

@@ -21,68 +21,121 @@ marp: true
 
 ---
 
-# Tip #26 - GIT: From Zero to Hero
+# Talk #26 - Programming Principles
 
-## Alias
+## Programming Principles
 
-https://gist.github.com/DavidToca/3086571
+https://github.com/webpro/programming-principles
 
-https://kapeli.com/cheat_sheets/Oh-My-Zsh_Git.docset/Contents/Resources/Documents/index
+## [Generic](https://github.com/webpro/programming-principles#generic)
 
-## Git commit message
-
-Gitmoji
-https://gitmoji.dev/
-
-Git convention
-https://www.conventionalcommits.org/en/v1.0.0/
-
-What/Why/How
-
-```sh
-git commit --amend
-```
-
----
-
-# Tip #26 - GIT: From Zero to Hero
-
-## Git merge vs Get rebase
-
-Reference: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
-
-## Git rebase interactive
-
-https://productsway.com/blog/git-rebase-interactive
-
-```sh
-git rebase -i HEAD~N
-```
-
-## Git stash
-
-```sh
-git stash
-```
-
-## Undo
-
-https://github.com/Bhupesh-V/ugit
+<uL>
+<li>
+KISS
+</li>
+<li>
+YAGNI
+</li>
+<li>
+Do The Simplest Thing That Could Possibly Work
+</li>
+<li>
+Separation of Concerns
+</li>
+<li>
+Keep things DRY
+</li>
+<li>
+Code For The Maintainer
+</li>
+<li>
+Avoid Premature Optimization
+</li>
+<li>
+Boy-Scout Rule
+</li>
+</ul>
 
 ---
 
-# Tip #26 - GIT: From Zero to Hero
+# Talk #26 - Programming Principles
 
-## UI tool
+## [Inter-Module/Class](https://github.com/webpro/programming-principles#inter-moduleclass)
 
-SourceTree https://www.sourcetreeapp.com/
-GitKraken https://www.gitkraken.com/
-Github Desktop https://desktop.github.com/
+<uL>
+<li>
+Minimise Coupling
+</li>
+<li>
+Law of Demeter
+</li>
+<li>
+Composition Over Inheritance
+</li>
+<li>
+Orthogonality
+</li>
+<li>
+Robustness Principle
+</li>
+<li>
+Inversion of Control
+</li>
+</ul>
 
-## Diff tool
+---
 
-Delta https://github.com/dandavison/delta
+# Talk #26 - Programming Principles
 
+## [Module/Class](https://github.com/webpro/programming-principles#moduleclass)
+
+<uL>
+<li>
+Maximise Cohesion
+</li>
+<li>
+Liskov Substitution Principle
+</li>
+<li>
+Open/Closed Principle
+</li>
+<li>
+Single Responsibility Principle
+</li>
+<li>
+Hide Implementation Details
+</li>
+<li>
+Curly's Law
+</li>
+<li>
+Encapsulate What Changes
+</li>
+<li>
+Interface Segregation Principle
+</li>
+<li>
+Command Query Separation
+</li>
+<li>
+SOLID
+</li>
+</ul>
+
+---
+
+# Talk #26 - Programming Principles
+
+## [Test](https://github.com/webpro/programming-principles#test)
+
+<uL>
+<li>
+FIRST principles of testing
+</li>
+<li>
+Arrange, Act, Assert
+</li>
+</ul>
 ---
 
 # Good price - ITMan shop - https://bit.ly/m/itman

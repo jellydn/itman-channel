@@ -7,82 +7,82 @@
 > Last 100 videos on my Youtube channel
 
 
-## ITMan - Tip #26 - Git: From Zero to Hero [Vietnamese]
+## IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]
 Published at 2022-10-09T07:58:04Z
 
-[![ITMan - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
+[![IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
 
 
-## ITMan - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
+## IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
 Published at 2022-10-02T05:43:56Z
 
-[![ITMan - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
+[![IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
 
 
-## ITMan - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]
+## IT Man - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]
 Published at 2022-09-25T07:44:18Z
 
-[![ITMan - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]](https://i.ytimg.com/vi/FslW-YP2oG8/mqdefault.jpg)](https://www.youtube.com/watch?v=FslW-YP2oG8)
+[![IT Man - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]](https://i.ytimg.com/vi/FslW-YP2oG8/mqdefault.jpg)](https://www.youtube.com/watch?v=FslW-YP2oG8)
 
 
-## ITMan - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]
+## IT Man - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]
 Published at 2022-09-18T08:07:53Z
 
-[![ITMan - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]](https://i.ytimg.com/vi/eGJMubePnws/mqdefault.jpg)](https://www.youtube.com/watch?v=eGJMubePnws)
+[![IT Man - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]](https://i.ytimg.com/vi/eGJMubePnws/mqdefault.jpg)](https://www.youtube.com/watch?v=eGJMubePnws)
 
 
-## ITMan - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]
+## IT Man - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]
 Published at 2022-09-11T07:35:04Z
 
-[![ITMan - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]](https://i.ytimg.com/vi/YsjqVvlrXGY/mqdefault.jpg)](https://www.youtube.com/watch?v=YsjqVvlrXGY)
+[![IT Man - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]](https://i.ytimg.com/vi/YsjqVvlrXGY/mqdefault.jpg)](https://www.youtube.com/watch?v=YsjqVvlrXGY)
 
 
-## ITMan - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]
+## IT Man - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]
 Published at 2022-09-04T06:49:16Z
 
-[![ITMan - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]](https://i.ytimg.com/vi/ujJlZi0IzI8/mqdefault.jpg)](https://www.youtube.com/watch?v=ujJlZi0IzI8)
+[![IT Man - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]](https://i.ytimg.com/vi/ujJlZi0IzI8/mqdefault.jpg)](https://www.youtube.com/watch?v=ujJlZi0IzI8)
 
 
-## ITMan - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]
+## IT Man - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]
 Published at 2022-08-28T01:55:06Z
 
-[![ITMan - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]](https://i.ytimg.com/vi/aVBF6EnHU0w/mqdefault.jpg)](https://www.youtube.com/watch?v=aVBF6EnHU0w)
+[![IT Man - Tip #24 - Migrating From Heroku to Raiway, Fly and Render [Vietnamese]](https://i.ytimg.com/vi/aVBF6EnHU0w/mqdefault.jpg)](https://www.youtube.com/watch?v=aVBF6EnHU0w)
 
 
-## ITMan - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]
+## IT Man - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]
 Published at 2022-08-21T09:57:12Z
 
-[![ITMan - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]](https://i.ytimg.com/vi/GfltLGOslM8/mqdefault.jpg)](https://www.youtube.com/watch?v=GfltLGOslM8)
+[![IT Man - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]](https://i.ytimg.com/vi/GfltLGOslM8/mqdefault.jpg)](https://www.youtube.com/watch?v=GfltLGOslM8)
 
 
-## ITMan - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]
+## IT Man - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]
 Published at 2022-08-14T01:00:17Z
 
-[![ITMan - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]](https://i.ytimg.com/vi/doit16b1wZQ/mqdefault.jpg)](https://www.youtube.com/watch?v=doit16b1wZQ)
+[![IT Man - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]](https://i.ytimg.com/vi/doit16b1wZQ/mqdefault.jpg)](https://www.youtube.com/watch?v=doit16b1wZQ)
 
 
-## ITMan - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]
+## IT Man - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]
 Published at 2022-08-07T08:18:47Z
 
-[![ITMan - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]](https://i.ytimg.com/vi/GJS-P49VMXc/mqdefault.jpg)](https://www.youtube.com/watch?v=GJS-P49VMXc)
+[![IT Man - Tip #23 - ⛳️ Feature Flags for Next.js [Vietnamese]](https://i.ytimg.com/vi/GJS-P49VMXc/mqdefault.jpg)](https://www.youtube.com/watch?v=GJS-P49VMXc)
 
 
-## ITMan - Tech #23 - Qwik: Framework reimagined for the edge! [Vietnamese]
+## IT Man - Tech #23 - Qwik: Framework reimagined for the edge! [Vietnamese]
 Published at 2022-07-31T01:42:37Z
 
-[![ITMan - Tech #23 - Qwik: Framework reimagined for the edge! [Vietnamese]](https://i.ytimg.com/vi/bqHBUpGAT-w/mqdefault.jpg)](https://www.youtube.com/watch?v=bqHBUpGAT-w)
+[![IT Man - Tech #23 - Qwik: Framework reimagined for the edge! [Vietnamese]](https://i.ytimg.com/vi/bqHBUpGAT-w/mqdefault.jpg)](https://www.youtube.com/watch?v=bqHBUpGAT-w)
 
 
-## ITMan - Talk #22 - Tech Radar: Bun, Appwrite and Novu [Vietnamese]
+## IT Man - Talk #22 - Tech Radar: Bun, Appwrite and Novu [Vietnamese]
 Published at 2022-07-23T23:21:48Z
 
-[![ITMan - Talk #22 - Tech Radar: Bun, Appwrite and Novu [Vietnamese]](https://i.ytimg.com/vi/JKtn2Zc-5r8/mqdefault.jpg)](https://www.youtube.com/watch?v=JKtn2Zc-5r8)
+[![IT Man - Talk #22 - Tech Radar: Bun, Appwrite and Novu [Vietnamese]](https://i.ytimg.com/vi/JKtn2Zc-5r8/mqdefault.jpg)](https://www.youtube.com/watch?v=JKtn2Zc-5r8)
 
 
-## ITMan - Tip #22 - Package your Node.js project into an executable [Vietnamese]
+## IT Man - Tip #22 - Package your Node.js project into an executable [Vietnamese]
 Published at 2022-07-16T23:59:31Z
 
-[![ITMan - Tip #22 - Package your Node.js project into an executable [Vietnamese]](https://i.ytimg.com/vi/WdjdtqqDIkc/mqdefault.jpg)](https://www.youtube.com/watch?v=WdjdtqqDIkc)
+[![IT Man - Tip #22 - Package your Node.js project into an executable [Vietnamese]](https://i.ytimg.com/vi/WdjdtqqDIkc/mqdefault.jpg)](https://www.youtube.com/watch?v=WdjdtqqDIkc)
 
 
 ## IT Man - Tech #22 - Tauri App - Build smaller, faster, and more secure desktop [Vietnamese]
@@ -175,10 +175,10 @@ Published at 2022-04-03T08:00:30Z
 [![IT Man - Tip #17 - Supercharged your terminal [Vietnamese]](https://i.ytimg.com/vi/lILMPDJ4CoU/mqdefault.jpg)](https://www.youtube.com/watch?v=lILMPDJ4CoU)
 
 
-## IT Man - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
+## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
 Published at 2022-03-27T08:30:16Z
 
-[![IT Man - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
+[![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
 
@@ -198,6 +198,12 @@ Published at 2022-03-13T04:40:16Z
 Published at 2022-03-06T04:16:57Z
 
 [![IT Man - Tech #16 - tRPC - End-to-end typesafe APIs made easy [Vietnamese]](https://i.ytimg.com/vi/rz1ZGV82i34/mqdefault.jpg)](https://www.youtube.com/watch?v=rz1ZGV82i34)
+
+
+## IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]
+Published at 2022-02-27T03:00:50Z
+
+[![IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]](https://i.ytimg.com/vi/wzWGZdTtYWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=wzWGZdTtYWQ)
 
 
 ## IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]
@@ -294,12 +300,6 @@ Published at 2021-11-14T05:48:27Z
 Published at 2021-11-07T06:25:49Z
 
 [![IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]](https://i.ytimg.com/vi/HIpghgP2VFg/mqdefault.jpg)](https://www.youtube.com/watch?v=HIpghgP2VFg)
-
-
-## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]
-Published at 2021-10-31T07:30:41Z
-
-[![IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]](https://i.ytimg.com/vi/Ex8vM0ITR38/mqdefault.jpg)](https://www.youtube.com/watch?v=Ex8vM0ITR38)
 
 
 ## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]

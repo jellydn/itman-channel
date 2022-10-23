@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #27 - Crawlee is a web scraping and browser automation library [Vietnamese]
+Published at 2022-10-23T09:07:53Z
+
+[![IT Man - Tech #27 - Crawlee is a web scraping and browser automation library [Vietnamese]](https://i.ytimg.com/vi/nrgiOh5HfnU/mqdefault.jpg)](https://www.youtube.com/watch?v=nrgiOh5HfnU)
+
+
 ## IT Man - Talk #26 - Programming Principles [Vietnamese]
 Published at 2022-10-16T06:58:09Z
 
@@ -559,4 +565,3 @@ Published at 2021-01-31T07:06:43Z
 Published at 2021-01-24T23:56:28Z
 
 [![IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]](https://i.ytimg.com/vi/IlO4Da5_q_I/mqdefault.jpg)](https://www.youtube.com/watch?v=IlO4Da5_q_I)
-

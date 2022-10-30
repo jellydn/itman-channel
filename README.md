@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #27 - LocatorJs - Speed up your web development [Vietnamese]
+Published at 2022-10-30T09:03:51Z
+
+[![IT Man - Tip #27 - LocatorJs - Speed up your web development [Vietnamese]](https://i.ytimg.com/vi/9hHpOtDGK_E/mqdefault.jpg)](https://www.youtube.com/watch?v=9hHpOtDGK_E)
+
+
 ## IT Man - Tech #27 - Crawlee is a web scraping and browser automation library [Vietnamese]
 Published at 2022-10-23T09:07:53Z
 
@@ -559,9 +565,3 @@ Published at 2021-01-31T07:06:43Z
 
 [![IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]](https://i.ytimg.com/vi/9ppxGrNvzWU/mqdefault.jpg)](https://www.youtube.com/watch?v=9ppxGrNvzWU)
 
-
-
-## IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]
-Published at 2021-01-24T23:56:28Z
-
-[![IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]](https://i.ytimg.com/vi/IlO4Da5_q_I/mqdefault.jpg)](https://www.youtube.com/watch?v=IlO4Da5_q_I)

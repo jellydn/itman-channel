@@ -21,17 +21,19 @@ marp: true
 
 ---
 
-# Tech #27 - Crawlee is a web scraping and browser automation library
+# Tip #27 - LocatorJs - Speed up your web development
 
-## Crawlee
+## LocatorJs
 
-https://crawlee.dev/
+https://www.locatorjs.com/
+
+Click on UI Component in the browser to open its code in your IDE.
 
 ### Usage
 
-```sh
-npx crawlee create my-crawler
-```
+- [Install Browser extension](https://github.com/infi-pc/locatorjs#install-browser-extension)
+
+- [Install as a library](https://github.com/infi-pc/locatorjs#install-as-a-library-or-combination-with-extension)
 
 ---
 

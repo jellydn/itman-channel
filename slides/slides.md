@@ -21,19 +21,37 @@ marp: true
 
 ---
 
-# Tip #27 - LocatorJs - Speed up your web development
+# Talk #27 - GraphQL 2022 Report [Vietnamese]
 
-## LocatorJs
+## GraphQL Report
 
-https://www.locatorjs.com/
+https://2022.stateofgraphql.com/en-US/
 
-Click on UI Component in the browser to open its code in your IDE.
+## Articles
 
-### Usage
+State of GraphQL 2022 Survey Report Summary and Insights
 
-- [Install Browser extension](https://github.com/infi-pc/locatorjs#install-browser-extension)
+https://hasura.io/blog/state-of-graphql-2022-survey-report-summary-and-insights/
 
-- [Install as a library](https://github.com/infi-pc/locatorjs#install-as-a-library-or-combination-with-extension)
+The GraphQL Dataloader Pattern: Visualized
+
+https://xuorig.medium.com/the-graphql-dataloader-pattern-visualized-3064a00f319f
+
+Schema-First vs Code-Only GraphQL
+
+https://www.apollographql.com/blog/backend/architecture/schema-first-vs-code-only-graphql/
+
+---
+
+# Talk #27 - GraphQL 2022 Report [Vietnamese]
+
+## Tutorial
+
+https://github.com/Shopify/graphql-design-tutorial
+
+## Starter
+
+https://github.com/jellydn/fastify-starter
 
 ---
 

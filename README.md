@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #27 - GraphQL 2022 Report Insights [Vietnamese]
+Published at 2022-11-06T02:32:47Z
+
+[![IT Man - Talk #27 - GraphQL 2022 Report Insights [Vietnamese]](https://i.ytimg.com/vi/_wmldiEdwPM/mqdefault.jpg)](https://www.youtube.com/watch?v=_wmldiEdwPM)
+
+
 ## IT Man - Tip #27 - LocatorJs - Speed up your web development [Vietnamese]
 Published at 2022-10-30T09:03:51Z
 
@@ -294,12 +300,6 @@ Published at 2021-12-12T05:00:08Z
 Published at 2021-12-05T06:00:04Z
 
 [![IT Man - Tech #12 - Remix - Full stack Web React built on top react-router [Vietnamese]](https://i.ytimg.com/vi/aS564PQWpkk/mqdefault.jpg)](https://www.youtube.com/watch?v=aS564PQWpkk)
-
-
-## Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]
-Published at 2021-11-28T14:37:39Z
-
-[![Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]](https://i.ytimg.com/vi/PR9Wv9nyqJI/mqdefault.jpg)](https://www.youtube.com/watch?v=PR9Wv9nyqJI)
 
 
 ## IT Man - Talk #11 - Monorepo 101 [Vietnamese]

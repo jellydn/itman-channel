@@ -7,6 +7,7 @@
 > Last 100 videos on my Youtube channel
 
 
+
 ## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
 Published at 2021-08-15T08:13:08Z
 
@@ -20,16 +21,10 @@ Published at 2021-08-22T04:03:49Z
 
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
-Published at 2021-09-05T01:43:04Z
+## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
+Published at 2021-08-08T05:27:07Z
 
-[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
-Published at 2021-09-12T08:27:26Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
+[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]

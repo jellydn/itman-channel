@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #28 - Platformatic DB - Automatic OpenAPI/GraphQL API generation  [Vietnamese]
+Published at 2022-11-13T00:57:49Z
+
+[![IT Man - Tech #28 - Platformatic DB - Automatic OpenAPI/GraphQL API generation  [Vietnamese]](https://i.ytimg.com/vi/GqTa8lgVyZI/mqdefault.jpg)](https://www.youtube.com/watch?v=GqTa8lgVyZI)
+
+
 ## IT Man - Talk #27 - GraphQL 2022 Report Insights [Vietnamese]
 Published at 2022-11-06T02:32:47Z
 
@@ -302,6 +308,12 @@ Published at 2021-12-05T06:00:04Z
 [![IT Man - Tech #12 - Remix - Full stack Web React built on top react-router [Vietnamese]](https://i.ytimg.com/vi/aS564PQWpkk/mqdefault.jpg)](https://www.youtube.com/watch?v=aS564PQWpkk)
 
 
+## Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]
+Published at 2021-11-28T14:37:39Z
+
+[![Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]](https://i.ytimg.com/vi/PR9Wv9nyqJI/mqdefault.jpg)](https://www.youtube.com/watch?v=PR9Wv9nyqJI)
+
+
 ## IT Man - Talk #11 - Monorepo 101 [Vietnamese]
 Published at 2021-11-21T07:22:46Z
 
@@ -558,10 +570,3 @@ Published at 2021-02-14T04:28:55Z
 Published at 2021-02-07T23:24:29Z
 
 [![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)
-
-
-## IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]
-Published at 2021-01-31T07:06:43Z
-
-[![IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]](https://i.ytimg.com/vi/9ppxGrNvzWU/mqdefault.jpg)](https://www.youtube.com/watch?v=9ppxGrNvzWU)
-

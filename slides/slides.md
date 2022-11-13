@@ -21,37 +21,30 @@ marp: true
 
 ---
 
-# Talk #27 - GraphQL 2022 Report [Vietnamese]
+# Tech #28 - Platformatic DB [Vietnamese]
 
-## GraphQL Report
+## Platformatic OSS
 
-https://2022.stateofgraphql.com/en-US/
+https://oss.platformatic.dev/
 
-## Articles
+Platformatic DB basic features:
 
-State of GraphQL 2022 Survey Report Summary and Insights
-
-https://hasura.io/blog/state-of-graphql-2022-survey-report-summary-and-insights/
-
-The GraphQL Dataloader Pattern: Visualized
-
-https://xuorig.medium.com/the-graphql-dataloader-pattern-visualized-3064a00f319f
-
-Schema-First vs Code-Only GraphQL
-
-https://www.apollographql.com/blog/backend/architecture/schema-first-vs-code-only-graphql/
+- Automatic OpenAPI/REST API generation
+- Automatic GraphQL API generation
+- Multiple databases: SQLite, MySQL, MariaDB, PostgreSQL
+- Multiple authentication methods: JWT, WebHook, HTTP Headers
+- Authorization via role based access control
+- Customizable via Node.js and Fastify plugins
 
 ---
 
-# Talk #27 - GraphQL 2022 Report [Vietnamese]
-
-## Tutorial
-
-https://github.com/Shopify/graphql-design-tutorial
+# Tech #28 - Platformatic DB [Vietnamese]
 
 ## Starter
 
 https://github.com/jellydn/fastify-starter
+
+https://github.com/jellydn/platformatic-starter
 
 ---
 

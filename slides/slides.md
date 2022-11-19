@@ -21,43 +21,32 @@ marp: true
 
 ---
 
-# Tech #28 - Platformatic DB [Vietnamese]
+# Tip #28 - How to fix Gmail Out of Space Issue [Vietnamese]
 
-## Platformatic OSS
+## Out of Space Issue
 
-https://oss.platformatic.dev/
-
-Platformatic DB basic features:
-
-- Automatic OpenAPI/REST API generation
-- Automatic GraphQL API generation
-- Multiple databases: SQLite, MySQL, MariaDB, PostgreSQL
-- Multiple authentication methods: JWT, WebHook, HTTP Headers
-- Authorization via role based access control
-- Customizable via Node.js and Fastify plugins
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.askdavetaylor.com%2Fwp-content%2Fuploads%2F2018%2F01%2Fgmail-google-drive-out-of-space-fp.png&f=1&nofb=1&ipt=366facede2b1b81613e212dba1bdbed8032054567034525c263bf30b2114d8c6&ipo=images)
 
 ---
 
-# Tech #28 - Platformatic DB [Vietnamese]
+# Tip #28 - How to fix Gmail Out of Space Issue [Vietnamese]
 
-## Starter
+## Google Photo / Google Driver
 
-https://github.com/jellydn/fastify-starter
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmacwaretools.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F10%2Fgmail-storage-space.png&f=1&nofb=1&ipt=851a07a457d2a8b495433b985474790931601e57cfcd1df93e4b3caf7057bbb6&ipo=images)
 
-https://github.com/jellydn/platformatic-starter
+---
+
+# Tip #28 - How to fix Gmail Out of Space Issue [Vietnamese]
+
+## Gmail
+
+### Remove big files from Google
+
+![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.ghacks.net%2Fwp-content%2Fuploads%2F2014%2F07%2Flarge-emails-gmail.jpg&f=1&nofb=1&ipt=7e5441e1a9c9f0442c2849a290933a58a8404d2e8015acdbd1ff70d311d0ef9e&ipo=images)
+
+### Use magic keyword: "Unsubscribe"
 
 ---
 
 # Good price - ITMan shop - https://bit.ly/m/itman
-
-## Biometric Wallet - IT Man – D'CENT Shop
-
-https://s.productsway.com/ub0RfF-D
-
-$129.00
-
-## Biometric Wallet 2X Package - IT Man – D'CENT Shop
-
-https://s.productsway.com/P-UR--Ig
-
-$189.00

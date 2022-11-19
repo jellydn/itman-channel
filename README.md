@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #28 - How to fix Gmail out of space issue [Vietnamese]
+Published at 2022-11-19T23:15:40Z
+
+[![IT Man - Tip #28 - How to fix Gmail out of space issue [Vietnamese]](https://i.ytimg.com/vi/yCjvmGqf3Ww/mqdefault.jpg)](https://www.youtube.com/watch?v=yCjvmGqf3Ww)
+
+
 ## IT Man - Tech #28 - Platformatic DB - Automatic OpenAPI/GraphQL API generation  [Vietnamese]
 Published at 2022-11-13T00:57:49Z
 
@@ -564,9 +570,3 @@ Published at 2021-02-21T08:02:23Z
 Published at 2021-02-14T04:28:55Z
 
 [![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)
-
-
-## IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]
-Published at 2021-02-07T23:24:29Z
-
-[![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)

@@ -7,10 +7,10 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese][
+## IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese]
 Published at 2022-11-26T23:16:07Z
 
-[![IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese][](https://i.ytimg.com/vi/KwXpc057tZA/mqdefault.jpg)](https://www.youtube.com/watch?v=KwXpc057tZA)
+[![IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese]](https://i.ytimg.com/vi/KwXpc057tZA/mqdefault.jpg)](https://www.youtube.com/watch?v=KwXpc057tZA)
 
 
 ## IT Man - Tip #28 - How to fix Gmail out of storage [Vietnamese]

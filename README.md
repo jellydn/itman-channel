@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Tip #28 - How to fix Gmail out of space issue [Vietnamese]
+## IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese][
+Published at 2022-11-26T23:16:07Z
+
+[![IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese][](https://i.ytimg.com/vi/KwXpc057tZA/mqdefault.jpg)](https://www.youtube.com/watch?v=KwXpc057tZA)
+
+
+## IT Man - Tip #28 - How to fix Gmail out of storage [Vietnamese]
 Published at 2022-11-19T23:15:40Z
 
-[![IT Man - Tip #28 - How to fix Gmail out of space issue [Vietnamese]](https://i.ytimg.com/vi/yCjvmGqf3Ww/mqdefault.jpg)](https://www.youtube.com/watch?v=yCjvmGqf3Ww)
+[![IT Man - Tip #28 - How to fix Gmail out of storage [Vietnamese]](https://i.ytimg.com/vi/yCjvmGqf3Ww/mqdefault.jpg)](https://www.youtube.com/watch?v=yCjvmGqf3Ww)
 
 
 ## IT Man - Tech #28 - Platformatic DB - Automatic OpenAPI/GraphQL API generation  [Vietnamese]
@@ -564,9 +570,3 @@ Published at 2021-02-28T07:47:36Z
 Published at 2021-02-21T08:02:23Z
 
 [![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)
-
-
-## IT Man Channel - Intro &amp; 3T topics
-Published at 2021-02-14T04:28:55Z
-
-[![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)

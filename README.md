@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #29 - How I create download Twitter Video URL with ChatGPT [Vietnamese]
+Published at 2022-12-11T02:16:53Z
+
+[![IT Man - Tip #29 - How I create download Twitter Video URL with ChatGPT [Vietnamese]](https://i.ytimg.com/vi/jiC7EmKT64U/mqdefault.jpg)](https://www.youtube.com/watch?v=jiC7EmKT64U)
+
+
 ## IT Man - Tech #29 - Wails - Build beautiful cross-platform applications using Go [Vietnamese]
 Published at 2022-12-03T23:53:01Z
 
@@ -564,9 +570,3 @@ Published at 2021-03-07T08:08:06Z
 
 [![IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]](https://i.ytimg.com/vi/gEUkjZJ4_sk/mqdefault.jpg)](https://www.youtube.com/watch?v=gEUkjZJ4_sk)
 
-
-
-## IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]
-Published at 2021-02-28T07:47:36Z
-
-[![IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]](https://i.ytimg.com/vi/2t_yDRjOtI0/mqdefault.jpg)](https://www.youtube.com/watch?v=2t_yDRjOtI0)

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #29 - Arc, the browser [Vietnamese]
+Published at 2022-12-17T23:51:17Z
+
+[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
+
+
 ## IT Man - Tip #29 - How I create download Twitter Video URL with ChatGPT [Vietnamese]
 Published at 2022-12-11T02:16:53Z
 
@@ -569,4 +575,3 @@ Published at 2021-03-14T08:28:07Z
 Published at 2021-03-07T08:08:06Z
 
 [![IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]](https://i.ytimg.com/vi/gEUkjZJ4_sk/mqdefault.jpg)](https://www.youtube.com/watch?v=gEUkjZJ4_sk)
-

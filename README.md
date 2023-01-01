@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #30 - Promise should be fun [Vietnamese]
+Published at 2023-01-01T08:24:38Z
+
+[![IT Man - Tip #30 - Promise should be fun [Vietnamese]](https://i.ytimg.com/vi/jhz8EhETkZ8/mqdefault.jpg)](https://www.youtube.com/watch?v=jhz8EhETkZ8)
+
+
 ## IT Man - Tech #30 - Deno 101 - The best developer experience [Vietnamese]
 Published at 2022-12-25T00:42:43Z
 
@@ -569,9 +575,3 @@ Published at 2021-03-28T06:59:27Z
 Published at 2021-03-21T06:51:42Z
 
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
-
-
-## IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]
-Published at 2021-03-14T08:28:07Z
-
-[![IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]](https://i.ytimg.com/vi/Es4J8KAD40A/mqdefault.jpg)](https://www.youtube.com/watch?v=Es4J8KAD40A)

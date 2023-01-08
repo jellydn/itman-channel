@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #30 - Relocate from Thailand To Japan [Vietnamese]
+Published at 2023-01-08T07:22:48Z
+
+[![IT Man - Talk #30 - Relocate from Thailand To Japan [Vietnamese]](https://i.ytimg.com/vi/RGXjW7mmyd0/mqdefault.jpg)](https://www.youtube.com/watch?v=RGXjW7mmyd0)
+
+
 ## IT Man - Tip #30 - Promise should be fun [Vietnamese]
 Published at 2023-01-01T08:24:38Z
 
@@ -569,9 +575,3 @@ Published at 2021-03-28T06:59:27Z
 
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
 
-
-
-## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
-Published at 2021-03-21T06:51:42Z
-
-[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)

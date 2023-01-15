@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]
+Published at 2023-01-15T09:11:03Z
+
+[![IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]](https://i.ytimg.com/vi/jZUm2bHyF90/mqdefault.jpg)](https://www.youtube.com/watch?v=jZUm2bHyF90)
+
+
 ## IT Man - Talk #30 - Relocate from Thailand To Japan [Vietnamese]
 Published at 2023-01-08T07:22:48Z
 
@@ -574,4 +580,3 @@ Published at 2021-04-04T06:30:55Z
 Published at 2021-03-28T06:59:27Z
 
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
-

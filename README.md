@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]
+Published at 2023-01-22T16:55:53Z
+
+[![IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]](https://i.ytimg.com/vi/CBk5yWSE_Tw/mqdefault.jpg)](https://www.youtube.com/watch?v=CBk5yWSE_Tw)
+
+
 ## IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]
 Published at 2023-01-15T09:11:03Z
 
@@ -574,9 +580,3 @@ Published at 2021-04-04T06:30:55Z
 
 [![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)
 
-
-
-## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
-Published at 2021-03-28T06:59:27Z
-
-[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)

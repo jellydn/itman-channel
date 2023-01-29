@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #31 - Awesome TypeScript Typesafe [Vietnamese]
+Published at 2023-01-29T07:22:05Z
+
+[![IT Man - Talk #31 - Awesome TypeScript Typesafe [Vietnamese]](https://i.ytimg.com/vi/nDdAmZQTjSQ/mqdefault.jpg)](https://www.youtube.com/watch?v=nDdAmZQTjSQ)
+
+
 ## IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]
 Published at 2023-01-22T16:55:53Z
 
@@ -579,4 +585,3 @@ Published at 2021-04-11T07:37:39Z
 Published at 2021-04-04T06:30:55Z
 
 [![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)
-

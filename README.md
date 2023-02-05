@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #32 - Async await wrapper for easy error handling without try-catch [Vietnamese]
+Published at 2023-02-05T07:14:58Z
+
+[![IT Man - Tech #32 - Async await wrapper for easy error handling without try-catch [Vietnamese]](https://i.ytimg.com/vi/iLB75jzQrJ8/mqdefault.jpg)](https://www.youtube.com/watch?v=iLB75jzQrJ8)
+
+
 ## IT Man - Talk #31 - Awesome TypeScript Typesafe [Vietnamese]
 Published at 2023-01-29T07:22:05Z
 
@@ -579,9 +585,3 @@ Published at 2021-04-18T07:08:59Z
 Published at 2021-04-11T07:37:39Z
 
 [![IT Man - Tip #4 - Debug Javascript/Typescript App [Vietnamese]](https://i.ytimg.com/vi/LCdMSJ8yxUE/mqdefault.jpg)](https://www.youtube.com/watch?v=LCdMSJ8yxUE)
-
-
-## IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]
-Published at 2021-04-04T06:30:55Z
-
-[![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)

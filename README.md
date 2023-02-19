@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]
+Published at 2023-02-19T06:07:50Z
+
+[![IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]](https://i.ytimg.com/vi/XfklJkEoFIg/mqdefault.jpg)](https://www.youtube.com/watch?v=XfklJkEoFIg)
+
+
 ## IT Man - Tip #32 - Build and send emails using React and TypeScript [Vietnamese]
 Published at 2023-02-12T08:08:51Z
 
@@ -579,9 +585,3 @@ Published at 2021-04-25T07:42:50Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
-
-
-## IT Man - Talk #4 - My top 2 apps for new learner [Vietnamese]
-Published at 2021-04-18T07:08:59Z
-
-[![IT Man - Talk #4 - My top 2 apps for new learner [Vietnamese]](https://i.ytimg.com/vi/5gdZUJHnh6s/mqdefault.jpg)](https://www.youtube.com/watch?v=5gdZUJHnh6s)

@@ -10,7 +10,7 @@
 ## IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]
 Published at 2023-02-26T05:40:17Z
 
-[![IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]](https://i.ytimg.com/vi/uzE813GIeY4/mqdefault_live.jpg)](https://www.youtube.com/watch?v=uzE813GIeY4)
+[![IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]](https://i.ytimg.com/vi/uzE813GIeY4/mqdefault.jpg)](https://www.youtube.com/watch?v=uzE813GIeY4)
 
 
 ## IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]

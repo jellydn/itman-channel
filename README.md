@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]
+Published at 2023-02-26T05:40:17Z
+
+[![IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]](https://i.ytimg.com/vi/uzE813GIeY4/mqdefault_live.jpg)](https://www.youtube.com/watch?v=uzE813GIeY4)
+
+
 ## IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]
 Published at 2023-02-19T06:07:50Z
 
@@ -584,4 +590,3 @@ Published at 2021-05-02T07:40:29Z
 Published at 2021-04-25T07:42:50Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-

@@ -1,0 +1,11 @@
+{
+  "transient" : false,
+  "version" : 2,
+  "type" : "net.daringfireball.markdown",
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "appearance" : "dark",
+    "preset" : "Default",
+    "template" : "san francisco"
+  }
+}

@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]
+## IT Man - Tip #33 - My Top 3 AI tools for developer
+Published at 2023-03-05T05:54:11Z
+
+[![IT Man - Tip #33 - My Top 3 AI tools for developer](https://i.ytimg.com/vi/diaRdS9o3CE/mqdefault.jpg)](https://www.youtube.com/watch?v=diaRdS9o3CE)
+
+
+## IT Man - Tech #33 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]
 Published at 2023-02-26T05:40:17Z
 
-[![IT Man - Tech #34 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]](https://i.ytimg.com/vi/uzE813GIeY4/mqdefault.jpg)](https://www.youtube.com/watch?v=uzE813GIeY4)
+[![IT Man - Tech #33 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]](https://i.ytimg.com/vi/uzE813GIeY4/mqdefault.jpg)](https://www.youtube.com/watch?v=uzE813GIeY4)
 
 
 ## IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]
@@ -584,9 +590,3 @@ Published at 2021-05-09T08:52:18Z
 Published at 2021-05-02T07:40:29Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]](https://i.ytimg.com/vi/TVuHD2Q2Yx8/mqdefault.jpg)](https://www.youtube.com/watch?v=TVuHD2Q2Yx8)
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)

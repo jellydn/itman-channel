@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
+Published at 2023-03-12T06:20:50Z
+
+[![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
+
+
 ## IT Man - Tip #33 - My Top 3 AI tools for developer
 Published at 2023-03-05T05:54:11Z
 
@@ -584,9 +590,3 @@ Published at 2021-05-09T08:52:18Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 3 -Data fetching with react-query [Vietnamese]](https://i.ytimg.com/vi/7rqtK9asbJ0/mqdefault.jpg)](https://www.youtube.com/watch?v=7rqtK9asbJ0)
 
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]
-Published at 2021-05-02T07:40:29Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]](https://i.ytimg.com/vi/TVuHD2Q2Yx8/mqdefault.jpg)](https://www.youtube.com/watch?v=TVuHD2Q2Yx8)

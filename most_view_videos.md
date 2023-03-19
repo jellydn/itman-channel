@@ -33,16 +33,16 @@ Published at 2021-09-05T01:43:04Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
-Published at 2021-09-12T08:27:26Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
-
 ## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
 Published at 2022-04-17T03:50:12Z
 
 [![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
+Published at 2021-09-12T08:27:26Z
+
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
 
 
 ## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
@@ -51,7 +51,7 @@ Published at 2021-04-25T07:42:50Z
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
-## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
-Published at 2021-03-28T06:59:27Z
+## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
+Published at 2022-03-27T08:30:16Z
 
-[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
+[![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)

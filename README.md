@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #34 - Viem - TypeScript Interface for Ethereum [Vietnamese]
+Published at 2023-03-19T12:25:25Z
+
+[![IT Man - Tech #34 - Viem - TypeScript Interface for Ethereum [Vietnamese]](https://i.ytimg.com/vi/D3_RePAQ9xQ/mqdefault.jpg)](https://www.youtube.com/watch?v=D3_RePAQ9xQ)
+
+
 ## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
 Published at 2023-03-12T06:20:50Z
 
@@ -589,4 +595,3 @@ Published at 2021-05-16T07:02:28Z
 Published at 2021-05-09T08:52:18Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 3 -Data fetching with react-query [Vietnamese]](https://i.ytimg.com/vi/7rqtK9asbJ0/mqdefault.jpg)](https://www.youtube.com/watch?v=7rqtK9asbJ0)
-

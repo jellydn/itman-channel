@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients
+Published at 2023-03-26T06:01:33Z
+
+[![IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients](https://i.ytimg.com/vi/YDoIsxcdjuo/mqdefault.jpg)](https://www.youtube.com/watch?v=YDoIsxcdjuo)
+
+
 ## IT Man - Tech #34 - Viem - TypeScript Interface for Ethereum [Vietnamese]
 Published at 2023-03-19T12:25:25Z
 
@@ -589,9 +595,3 @@ Published at 2021-05-23T07:07:45Z
 Published at 2021-05-16T07:02:28Z
 
 [![IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]](https://i.ytimg.com/vi/BbSmV24HYNc/mqdefault.jpg)](https://www.youtube.com/watch?v=BbSmV24HYNc)
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 3 -Data fetching with react-query [Vietnamese]
-Published at 2021-05-09T08:52:18Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 3 -Data fetching with react-query [Vietnamese]](https://i.ytimg.com/vi/7rqtK9asbJ0/mqdefault.jpg)](https://www.youtube.com/watch?v=7rqtK9asbJ0)

@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients
+## IT Man - Talk #34 - Bye Bye Docker Desktop [Vietnamese]
+Published at 2023-04-02T06:10:31Z
+
+[![IT Man - Talk #34 - Bye Bye Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
+
+
+## IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients [Vietnamese]
 Published at 2023-03-26T06:01:33Z
 
-[![IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients](https://i.ytimg.com/vi/YDoIsxcdjuo/mqdefault.jpg)](https://www.youtube.com/watch?v=YDoIsxcdjuo)
+[![IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients [Vietnamese]](https://i.ytimg.com/vi/YDoIsxcdjuo/mqdefault.jpg)](https://www.youtube.com/watch?v=YDoIsxcdjuo)
 
 
 ## IT Man - Tech #34 - Viem - TypeScript Interface for Ethereum [Vietnamese]
@@ -589,9 +595,3 @@ Published at 2021-05-30T08:04:39Z
 Published at 2021-05-23T07:07:45Z
 
 [![IT Man - Tech #5 - NextJS Course - Part 3 - GetStaticProps (Static Generation) [Vietnamese]](https://i.ytimg.com/vi/FqADFQBLm-4/mqdefault.jpg)](https://www.youtube.com/watch?v=FqADFQBLm-4)
-
-
-## IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]
-Published at 2021-05-16T07:02:28Z
-
-[![IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]](https://i.ytimg.com/vi/BbSmV24HYNc/mqdefault.jpg)](https://www.youtube.com/watch?v=BbSmV24HYNc)

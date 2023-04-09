@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Talk #34 - Bye Bye Docker Desktop [Vietnamese]
+## IT Man - Tech #35 - Unlock the Power of AI: GPT4All #GPT-3.5-Turbo &amp; #LLaMa [Vietnamese]
+Published at 2023-04-09T05:41:31Z
+
+[![IT Man - Tech #35 - Unlock the Power of AI: GPT4All #GPT-3.5-Turbo &amp; #LLaMa [Vietnamese]](https://i.ytimg.com/vi/EkpqKFewV2g/mqdefault.jpg)](https://www.youtube.com/watch?v=EkpqKFewV2g)
+
+
+## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
-[![IT Man - Talk #34 - Bye Bye Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
+[![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
 ## IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients [Vietnamese]
@@ -589,9 +595,3 @@ Published at 2021-06-06T07:10:17Z
 Published at 2021-05-30T08:04:39Z
 
 [![IT Man - Tip #5 - 3 tips with React Developer Tools [Vietnamese]](https://i.ytimg.com/vi/80Pn_Va8jOc/mqdefault.jpg)](https://www.youtube.com/watch?v=80Pn_Va8jOc)
-
-
-## IT Man - Tech #5 - NextJS Course - Part 3 - GetStaticProps (Static Generation) [Vietnamese]
-Published at 2021-05-23T07:07:45Z
-
-[![IT Man - Tech #5 - NextJS Course - Part 3 - GetStaticProps (Static Generation) [Vietnamese]](https://i.ytimg.com/vi/FqADFQBLm-4/mqdefault.jpg)](https://www.youtube.com/watch?v=FqADFQBLm-4)

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #35 - How to use #untypeable generate type-safe API clients [Vietnamese]
+Published at 2023-04-16T04:39:25Z
+
+[![IT Man - Tip #35 - How to use #untypeable generate type-safe API clients [Vietnamese]](https://i.ytimg.com/vi/spfXOEeZpR0/mqdefault.jpg)](https://www.youtube.com/watch?v=spfXOEeZpR0)
+
+
 ## IT Man - Tech #35 - Unlock the Power of AI: GPT4All #GPT-3.5-Turbo &amp; #LLaMa [Vietnamese]
 Published at 2023-04-09T05:41:31Z
 
@@ -589,9 +595,3 @@ Published at 2021-06-13T07:02:29Z
 Published at 2021-06-06T07:10:17Z
 
 [![IT Man - Talk #5 - React Patterns [Vietnamese]](https://i.ytimg.com/vi/nI7pNWDqI1I/mqdefault.jpg)](https://www.youtube.com/watch?v=nI7pNWDqI1I)
-
-
-## IT Man - Tip #5 - 3 tips with React Developer Tools [Vietnamese]
-Published at 2021-05-30T08:04:39Z
-
-[![IT Man - Tip #5 - 3 tips with React Developer Tools [Vietnamese]](https://i.ytimg.com/vi/80Pn_Va8jOc/mqdefault.jpg)](https://www.youtube.com/watch?v=80Pn_Va8jOc)

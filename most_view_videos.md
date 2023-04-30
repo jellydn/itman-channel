@@ -27,16 +27,16 @@ Published at 2021-08-08T05:27:07Z
 [![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
-## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
-Published at 2023-04-02T06:10:31Z
-
-[![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
-
-
 ## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
 Published at 2023-03-12T06:20:50Z
 
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
+
+
+## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
+Published at 2023-04-02T06:10:31Z
+
+[![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]

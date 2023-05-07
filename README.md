@@ -7,16 +7,22 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Tech #36 - gRPC 101
+## IT Man - Tip #36 - #Raycast AI - Magic at your fingertips
+Published at 2023-05-07T06:12:11Z
+
+[![IT Man - Tip #36 - #Raycast AI - Magic at your fingertips](https://i.ytimg.com/vi/sY01NrxVQJM/mqdefault.jpg)](https://www.youtube.com/watch?v=sY01NrxVQJM)
+
+
+## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
-[![IT Man - Tech #36 - gRPC 101](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
+[![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
-## IT Man - Talk #35 #Neovim IDE for Web Developer
+## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
 Published at 2023-04-23T06:28:25Z
 
-[![IT Man - Talk #35 #Neovim IDE for Web Developer](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
+[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
 
 
 ## IT Man - Tip #35 - How to use #untypeable generate type-safe API clients [Vietnamese]
@@ -307,6 +313,12 @@ Published at 2022-05-22T02:11:11Z
 [![IT Man - Talk #19 - Foundry + ThirdWeb CLI = Awesome [Vietnamese]](https://i.ytimg.com/vi/ApSqlVBsRJ4/mqdefault.jpg)](https://www.youtube.com/watch?v=ApSqlVBsRJ4)
 
 
+## IT Man - Tip #19 - My top 5 VS Code extensions for TailwindCSS [Vietnamese]
+Published at 2022-05-15T00:13:22Z
+
+[![IT Man - Tip #19 - My top 5 VS Code extensions for TailwindCSS [Vietnamese]](https://i.ytimg.com/vi/-ZX2PAz4oDk/mqdefault.jpg)](https://www.youtube.com/watch?v=-ZX2PAz4oDk)
+
+
 ## IT Man - Tech #19 - Blockchain - RainbowKit - The best way to connect a wallet 🌈 [Vietnamese]
 Published at 2022-05-08T07:38:29Z
 
@@ -583,15 +595,3 @@ Published at 2021-07-04T13:46:25Z
 Published at 2021-06-27T07:21:14Z
 
 [![IT Man - Talk #6 - Intro New-Web-App CLI [Vietnamese]](https://i.ytimg.com/vi/fflgltdSpW8/mqdefault.jpg)](https://www.youtube.com/watch?v=fflgltdSpW8)
-
-
-## IT Man - Tip #6 - How to migrate Create-React-App to NextJS 11 [Vietnamese]
-Published at 2021-06-20T06:10:57Z
-
-[![IT Man - Tip #6 - How to migrate Create-React-App to NextJS 11 [Vietnamese]](https://i.ytimg.com/vi/PQwFb3el9pk/mqdefault.jpg)](https://www.youtube.com/watch?v=PQwFb3el9pk)
-
-
-## IT Man - Tech #6 - React 18 Alpha Overview [Vietnamese]
-Published at 2021-06-13T07:02:29Z
-
-[![IT Man - Tech #6 - React 18 Alpha Overview [Vietnamese]](https://i.ytimg.com/vi/9YRy9pWT8Po/mqdefault.jpg)](https://www.youtube.com/watch?v=9YRy9pWT8Po)

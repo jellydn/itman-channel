@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Tip #36 - #Raycast AI - Magic at your fingertips
+## IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]
+Published at 2023-05-14T06:17:01Z
+
+[![IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]](https://i.ytimg.com/vi/vKEhkCKlx_M/mqdefault.jpg)](https://www.youtube.com/watch?v=vKEhkCKlx_M)
+
+
+## IT Man - Tip #36 - #Raycast AI - #ChatGPT - Anytime, anywhere [Vietnamese]
 Published at 2023-05-07T06:12:11Z
 
-[![IT Man - Tip #36 - #Raycast AI - Magic at your fingertips](https://i.ytimg.com/vi/sY01NrxVQJM/mqdefault.jpg)](https://www.youtube.com/watch?v=sY01NrxVQJM)
+[![IT Man - Tip #36 - #Raycast AI - #ChatGPT - Anytime, anywhere [Vietnamese]](https://i.ytimg.com/vi/sY01NrxVQJM/mqdefault.jpg)](https://www.youtube.com/watch?v=sY01NrxVQJM)
 
 
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
@@ -589,9 +595,3 @@ Published at 2021-07-11T14:29:36Z
 Published at 2021-07-04T13:46:25Z
 
 [![IT Man - Tech #7 - Solid - Reactive Javascript Library [Vietnamese]](https://i.ytimg.com/vi/J4kSkrbD7Vc/mqdefault.jpg)](https://www.youtube.com/watch?v=J4kSkrbD7Vc)
-
-
-## IT Man - Talk #6 - Intro New-Web-App CLI [Vietnamese]
-Published at 2021-06-27T07:21:14Z
-
-[![IT Man - Talk #6 - Intro New-Web-App CLI [Vietnamese]](https://i.ytimg.com/vi/fflgltdSpW8/mqdefault.jpg)](https://www.youtube.com/watch?v=fflgltdSpW8)

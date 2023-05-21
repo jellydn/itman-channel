@@ -1,0 +1,12 @@
+{
+  "creatorIdentifier" : "net.ia.presenter",
+  "net.ia.presenter" : {
+    "appearance" : "dark",
+    "logo" : "\/assets\/IT Man Main Logo 800x600.png",
+    "preset" : "Default",
+    "template" : "tokyo"
+  },
+  "transient" : false,
+  "type" : "net.daringfireball.markdown",
+  "version" : 2
+}

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech 37 - First look at Github #Copilot Chat [Vietnamese]
+Published at 2023-05-21T06:35:43Z
+
+[![IT Man - Tech 37 - First look at Github #Copilot Chat [Vietnamese]](https://i.ytimg.com/vi/4Ke6qlVpkxo/mqdefault.jpg)](https://www.youtube.com/watch?v=4Ke6qlVpkxo)
+
+
 ## IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]
 Published at 2023-05-14T06:17:01Z
 
@@ -589,9 +595,3 @@ Published at 2021-07-18T09:01:08Z
 Published at 2021-07-11T14:29:36Z
 
 [![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)
-
-
-## IT Man - Tech #7 - Solid - Reactive Javascript Library [Vietnamese]
-Published at 2021-07-04T13:46:25Z
-
-[![IT Man - Tech #7 - Solid - Reactive Javascript Library [Vietnamese]](https://i.ytimg.com/vi/J4kSkrbD7Vc/mqdefault.jpg)](https://www.youtube.com/watch?v=J4kSkrbD7Vc)

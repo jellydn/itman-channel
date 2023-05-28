@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - Tech 37 - First look at Github #Copilot Chat [Vietnamese]
+## IT Man - Tip #37 - Warp is a blazingly fast, rust-based terminal with #AI built-in [Vietnamese]
+Published at 2023-05-28T02:13:02Z
+
+[![IT Man - Tip #37 - Warp is a blazingly fast, rust-based terminal with #AI built-in [Vietnamese]](https://i.ytimg.com/vi/2u9zoDQBn0k/mqdefault.jpg)](https://www.youtube.com/watch?v=2u9zoDQBn0k)
+
+
+## IT Man - Tech #37 - First look at Github #Copilot Chat [Vietnamese]
 Published at 2023-05-21T06:35:43Z
 
-[![IT Man - Tech 37 - First look at Github #Copilot Chat [Vietnamese]](https://i.ytimg.com/vi/4Ke6qlVpkxo/mqdefault.jpg)](https://www.youtube.com/watch?v=4Ke6qlVpkxo)
+[![IT Man - Tech #37 - First look at Github #Copilot Chat [Vietnamese]](https://i.ytimg.com/vi/4Ke6qlVpkxo/mqdefault.jpg)](https://www.youtube.com/watch?v=4Ke6qlVpkxo)
 
 
 ## IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]
@@ -59,6 +65,7 @@ Published at 2023-04-02T06:10:31Z
 Published at 2023-03-26T06:01:33Z
 
 [![IT Man - Tip #34 - ChatHub - All In One #AI Chat Clients [Vietnamese]](https://i.ytimg.com/vi/YDoIsxcdjuo/mqdefault.jpg)](https://www.youtube.com/watch?v=YDoIsxcdjuo)
+
 
 
 ## IT Man - Tech #34 - Viem - TypeScript Interface for Ethereum [Vietnamese]
@@ -583,15 +590,3 @@ Published at 2021-08-01T12:19:04Z
 Published at 2021-07-25T08:11:42Z
 
 [![IT Man - Tech #8 - Astro: Ship Less JavaScript [Vietnamese]](https://i.ytimg.com/vi/HLTjKsgXtGY/mqdefault.jpg)](https://www.youtube.com/watch?v=HLTjKsgXtGY)
-
-
-## IT Man - Talk #7 - Github Copilot- Technical review [Vietnamese]
-Published at 2021-07-18T09:01:08Z
-
-[![IT Man - Talk #7 - Github Copilot- Technical review [Vietnamese]](https://i.ytimg.com/vi/noImRrrUuzo/mqdefault.jpg)](https://www.youtube.com/watch?v=noImRrrUuzo)
-
-
-## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
-Published at 2021-07-11T14:29:36Z
-
-[![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)

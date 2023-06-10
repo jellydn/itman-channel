@@ -3,8 +3,7 @@ import { getVideos, generateMarkdownFile } from "./youtube.ts";
 
 const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 
-// Max results per page is 50 from Youtube api
-const LIMIT = 5;
+const LIMIT = 10;
 
 async function main(limit: number = LIMIT) {
   const apiUrl =

@@ -3,10 +3,15 @@ import { generateMarkdownFile } from "./youtube.ts";
 
 const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 
-// Max results per page is 50 from Youtube api
+// Max results per page is 50 from Youtube api, and overall limit is 100 videos
 const LIMIT = 50;
+const TOTAL_LIMIT = 100;
 
-async function getAllVideos(apiUrl: string, pageToken: string = "") {
+async function getVideos(
+  apiUrl: string,
+  pageToken: string = "",
+  count: number = 0
+) {
   const response = await fetch(apiUrl + "&pageToken=" + pageToken, {
     method: "GET",
     headers: {
@@ -23,9 +28,11 @@ async function getAllVideos(apiUrl: string, pageToken: string = "") {
   const data = await response.json();
   let allItems = data.items;
 
-  if (data.nextPageToken) {
-    const nextPageItems = await getAllVideos(apiUrl, data.nextPageToken);
-    allItems = [...allItems, ...nextPageItems];
+  count += allItems.length;
+
+  if (data.nextPageToken && count < TOTAL_LIMIT) {
+    const nextPageItems = await getVideos(apiUrl, data.nextPageToken, count);
+    allItems = [...allItems, ...nextPageItems.slice(0, TOTAL_LIMIT - count)];
   }
 
   return allItems;
@@ -42,7 +49,7 @@ export async function main(limit: number = LIMIT, writeToFile: boolean = true) {
 
   logger.warn("Generate markdown file from Deno :)", apiUrl);
 
-  const allVideos = await getAllVideos(apiUrl);
+  const allVideos = await getVideos(apiUrl);
 
   if (writeToFile) {
     generateMarkdownFile(allVideos);

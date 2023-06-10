@@ -1,10 +1,35 @@
 import { config, logger } from "./deps.ts";
-import { getVideos, generateMarkdownFile } from "./youtube.ts";
+import { generateMarkdownFile } from "./youtube.ts";
 
 const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 
 // Max results per page is 50 from Youtube api
 const LIMIT = 50;
+
+async function getAllVideos(apiUrl: string, pageToken: string = "") {
+  const response = await fetch(apiUrl + "&pageToken=" + pageToken, {
+    method: "GET",
+    headers: {
+      accept: "application/json",
+    },
+  });
+
+  if (!response.ok) {
+    throw new Error(
+      `YouTube API request failed with status ${response.status}`
+    );
+  }
+
+  const data = await response.json();
+  let allItems = data.items;
+
+  if (data.nextPageToken) {
+    const nextPageItems = await getAllVideos(apiUrl, data.nextPageToken);
+    allItems = [...allItems, ...nextPageItems];
+  }
+
+  return allItems;
+}
 
 export async function main(limit: number = LIMIT, writeToFile: boolean = true) {
   const apiUrl =
@@ -17,22 +42,13 @@ export async function main(limit: number = LIMIT, writeToFile: boolean = true) {
 
   logger.warn("Generate markdown file from Deno :)", apiUrl);
 
-  const response = await fetch(apiUrl, {
-    method: "GET",
-    headers: {
-      accept: "application/json",
-    },
-  });
+  const allVideos = await getAllVideos(apiUrl);
 
-  if (response.ok) {
-    const data = await response.json();
-    const nextPageVideos = await getVideos(apiUrl, data.nextPageToken);
-    if (writeToFile) {
-      generateMarkdownFile([...data.items, ...nextPageVideos]);
-    }
-
-    return data;
+  if (writeToFile) {
+    generateMarkdownFile(allVideos);
   }
+
+  return allVideos;
 }
 
 main();

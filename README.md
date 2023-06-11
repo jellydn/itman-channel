@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
+Published at 2023-06-11T06:34:17Z
+
+[![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
+
+
 ## IT Man - Talk #37 - Interesting Programming Concepts You Need to Know [Vietnamese]
 Published at 2023-06-04T06:51:06Z
 
@@ -584,9 +590,3 @@ Published at 2021-08-15T08:13:08Z
 Published at 2021-08-08T05:27:07Z
 
 [![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
-
-
-## IT Man - Tip #8 - 3 ways to improve your productivity for coder [Vietnamese]
-Published at 2021-08-01T12:19:04Z
-
-[![IT Man - Tip #8 - 3 ways to improve your productivity for coder [Vietnamese]](https://i.ytimg.com/vi/BSWjwkYhaJs/mqdefault.jpg)](https://www.youtube.com/watch?v=BSWjwkYhaJs)

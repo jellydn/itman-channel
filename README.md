@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Tip #38 - Learning Vim with VSCode - A Comprehensive Guide [Vietnamese]
+Published at 2023-06-18T12:19:01Z
+
+[![IT Man - Tip #38 - Learning Vim with VSCode - A Comprehensive Guide [Vietnamese]](https://i.ytimg.com/vi/yTTPRm0ACl0/mqdefault.jpg)](https://www.youtube.com/watch?v=yTTPRm0ACl0)
+
+
 ## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
 Published at 2023-06-11T06:34:17Z
 
@@ -584,9 +590,3 @@ Published at 2021-08-15T08:13:08Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
 
-
-
-## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
-Published at 2021-08-08T05:27:07Z
-
-[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)

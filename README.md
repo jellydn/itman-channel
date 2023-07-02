@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
+Published at 2023-07-02T06:46:39Z
+
+[![IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]](https://i.ytimg.com/vi/w0EgJ7SW48o/mqdefault.jpg)](https://www.youtube.com/watch?v=w0EgJ7SW48o)
+
+
 ## IT Man - Understanding and Preventing Floating Promises in JavaScript | Tutorial [Vietnamese]
 Published at 2023-06-25T06:46:19Z
 
@@ -589,9 +595,3 @@ Published at 2021-08-29T06:17:05Z
 Published at 2021-08-22T04:03:49Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
-Published at 2021-08-15T08:13:08Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
+Published at 2023-07-09T06:57:45Z
+
+[![ITMan - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
+
+
 ## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
 Published at 2023-07-02T06:46:39Z
 
@@ -589,9 +595,3 @@ Published at 2021-09-05T01:43:04Z
 Published at 2021-08-29T06:17:05Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
-Published at 2021-08-22T04:03:49Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)

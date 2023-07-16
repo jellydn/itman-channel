@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## ITMan - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
+## IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]
+Published at 2023-07-16T06:24:20Z
+
+[![IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]](https://i.ytimg.com/vi/Sw-B4gYgB3g/mqdefault.jpg)](https://www.youtube.com/watch?v=Sw-B4gYgB3g)
+
+
+## IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
 Published at 2023-07-09T06:57:45Z
 
-[![ITMan - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
+[![IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
 
 
 ## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
@@ -589,9 +595,3 @@ Published at 2021-09-12T08:27:26Z
 Published at 2021-09-05T01:43:04Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]
-Published at 2021-08-29T06:17:05Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)

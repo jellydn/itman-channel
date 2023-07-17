@@ -21,10 +21,10 @@ Published at 2021-08-22T04:03:49Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
 
 
-## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
-Published at 2021-08-08T05:27:07Z
+## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
+Published at 2023-03-12T06:20:50Z
 
-[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
+[![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
 
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
@@ -33,10 +33,10 @@ Published at 2023-04-02T06:10:31Z
 [![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
-## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
-Published at 2023-03-12T06:20:50Z
+## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
+Published at 2021-08-08T05:27:07Z
 
-[![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
+[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
 ## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
@@ -55,6 +55,12 @@ Published at 2021-09-05T01:43:04Z
 Published at 2021-04-25T07:42:50Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
+
+
+## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
+Published at 2022-04-17T03:50:12Z
+
+[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
@@ -82,16 +88,16 @@ Published at 2021-07-11T14:29:36Z
 [![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)
 
 
-## IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]
-Published at 2022-06-19T02:29:53Z
-
-[![IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]](https://i.ytimg.com/vi/d7CBpxbqtgA/mqdefault.jpg)](https://www.youtube.com/watch?v=d7CBpxbqtgA)
-
-
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
+
+
+## IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]
+Published at 2022-06-19T02:29:53Z
+
+[![IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]](https://i.ytimg.com/vi/d7CBpxbqtgA/mqdefault.jpg)](https://www.youtube.com/watch?v=d7CBpxbqtgA)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]
@@ -104,9 +110,3 @@ Published at 2021-08-29T06:17:05Z
 Published at 2022-04-10T05:08:11Z
 
 [![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]
-Published at 2021-05-02T07:40:29Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 2 -Form with react-hook-form [Vietnamese]](https://i.ytimg.com/vi/TVuHD2Q2Yx8/mqdefault.jpg)](https://www.youtube.com/watch?v=TVuHD2Q2Yx8)

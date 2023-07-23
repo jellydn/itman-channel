@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Modern PHP Development in 2023 [Vietnamese]
+Published at 2023-07-23T07:00:40Z
+
+[![IT Man - Modern PHP Development in 2023 [Vietnamese]](https://i.ytimg.com/vi/radwftz6vlQ/mqdefault.jpg)](https://www.youtube.com/watch?v=radwftz6vlQ)
+
+
 ## IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]
 Published at 2023-07-16T06:24:20Z
 
@@ -589,9 +595,3 @@ Published at 2021-09-19T07:53:58Z
 Published at 2021-09-12T08:27:26Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
-Published at 2021-09-05T01:43:04Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)

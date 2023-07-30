@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - A Guide to Professional JavaScript &amp; TypeScript Development [Vietnamese]
+Published at 2023-07-30T15:35:59Z
+
+[![IT Man - A Guide to Professional JavaScript &amp; TypeScript Development [Vietnamese]](https://i.ytimg.com/vi/FTG0rTnhjV8/mqdefault.jpg)](https://www.youtube.com/watch?v=FTG0rTnhjV8)
+
+
 ## IT Man - Modern PHP Development in 2023 [Vietnamese]
 Published at 2023-07-23T07:00:40Z
 
@@ -589,9 +595,3 @@ Published at 2021-09-26T06:56:51Z
 Published at 2021-09-19T07:53:58Z
 
 [![IT Man - Talk #9 - Blockchain - Smart Contract Security Best Practices [Vietnamese]](https://i.ytimg.com/vi/keI4tymfIbo/mqdefault.jpg)](https://www.youtube.com/watch?v=keI4tymfIbo)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
-Published at 2021-09-12T08:27:26Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)

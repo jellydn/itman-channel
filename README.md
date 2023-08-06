@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Unlocking Daily Productivity [Vietnamese]
+Published at 2023-08-06T06:37:47Z
+
+[![IT Man - Unlocking Daily Productivity [Vietnamese]](https://i.ytimg.com/vi/koAT8s4dr4Q/mqdefault.jpg)](https://www.youtube.com/watch?v=koAT8s4dr4Q)
+
+
 ## IT Man - A Guide to Professional JavaScript &amp; TypeScript Development [Vietnamese]
 Published at 2023-07-30T15:35:59Z
 
@@ -589,9 +595,3 @@ Published at 2021-10-03T04:47:28Z
 Published at 2021-09-26T06:56:51Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Mint a NFT token [Vietnamese]](https://i.ytimg.com/vi/UWJJa1hAYlo/mqdefault.jpg)](https://www.youtube.com/watch?v=UWJJa1hAYlo)
-
-
-## IT Man - Talk #9 - Blockchain - Smart Contract Security Best Practices [Vietnamese]
-Published at 2021-09-19T07:53:58Z
-
-[![IT Man - Talk #9 - Blockchain - Smart Contract Security Best Practices [Vietnamese]](https://i.ytimg.com/vi/keI4tymfIbo/mqdefault.jpg)](https://www.youtube.com/watch?v=keI4tymfIbo)

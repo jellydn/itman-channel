@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - AI-Powered Unit Testing in 2023 [Vietnamese]
+Published at 2023-08-13T06:34:58Z
+
+[![IT Man - AI-Powered Unit Testing in 2023 [Vietnamese]](https://i.ytimg.com/vi/1YvrwOeZk5w/mqdefault.jpg)](https://www.youtube.com/watch?v=1YvrwOeZk5w)
+
+
 ## IT Man - Unlocking Daily Productivity [Vietnamese]
 Published at 2023-08-06T06:37:47Z
 
@@ -589,9 +595,3 @@ Published at 2021-10-10T07:00:10Z
 Published at 2021-10-03T04:47:28Z
 
 [![IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]](https://i.ytimg.com/vi/_9dPmS_9a5M/mqdefault.jpg)](https://www.youtube.com/watch?v=_9dPmS_9a5M)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - Mint a NFT token [Vietnamese]
-Published at 2021-09-26T06:56:51Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Mint a NFT token [Vietnamese]](https://i.ytimg.com/vi/UWJJa1hAYlo/mqdefault.jpg)](https://www.youtube.com/watch?v=UWJJa1hAYlo)

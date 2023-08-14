@@ -5,7 +5,7 @@ const { CHANNEL_ID, YOUTUBE_API_KEY } = config();
 
 // Max results per page is 50 from Youtube api, and overall limit is 100 videos
 const LIMIT = 50;
-const TOTAL_LIMIT = 100;
+const TOTAL_LIMIT = 200;
 
 async function getVideos(
   apiUrl: string,

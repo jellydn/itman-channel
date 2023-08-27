@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Coding Smarter, Not Harder with AI-First editors [Vietnamese]
+Published at 2023-08-27T07:54:39Z
+
+[![IT Man - Coding Smarter, Not Harder with AI-First editors [Vietnamese]](https://i.ytimg.com/vi/85oeVwH-_bY/mqdefault.jpg)](https://www.youtube.com/watch?v=85oeVwH-_bY)
+
+
 ## IT Man - Build Your Personal AI with Llama2 [Vietnamese]
 Published at 2023-08-20T14:49:45Z
 
@@ -595,6 +601,12 @@ Published at 2021-10-17T05:59:28Z
 Published at 2021-10-10T07:00:10Z
 
 [![IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]](https://i.ytimg.com/vi/j-CVLokxl_E/mqdefault.jpg)](https://www.youtube.com/watch?v=j-CVLokxl_E)
+
+
+## IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]
+Published at 2021-10-03T04:47:28Z
+
+[![IT Man - Tip #9 -  Vercel - My favourite features [Vietnamese]](https://i.ytimg.com/vi/_9dPmS_9a5M/mqdefault.jpg)](https://www.youtube.com/watch?v=_9dPmS_9a5M)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Mint a NFT token [Vietnamese]

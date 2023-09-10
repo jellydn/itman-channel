@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## #Build with IT Man - ChatBot &amp; AI - Part 1 [Vietnamese]
+## #BuildWithITMan - ChatBot &amp; AI - Create a Summary ChatBot with AI [Vietnamese]
+Published at 2023-09-10T13:56:30Z
+
+[![#BuildWithITMan - ChatBot &amp; AI - Create a Summary ChatBot with AI [Vietnamese]](https://i.ytimg.com/vi/ww9LctJeq84/mqdefault.jpg)](https://www.youtube.com/watch?v=ww9LctJeq84)
+
+
+## #BuildWithITMan - ChatBot &amp; AI - Part 1 [Vietnamese]
 Published at 2023-09-03T14:45:56Z
 
-[![#Build with IT Man - ChatBot &amp; AI - Part 1 [Vietnamese]](https://i.ytimg.com/vi/q1ngSbMqXUE/mqdefault.jpg)](https://www.youtube.com/watch?v=q1ngSbMqXUE)
+[![#BuildWithITMan - ChatBot &amp; AI - Part 1 [Vietnamese]](https://i.ytimg.com/vi/q1ngSbMqXUE/mqdefault.jpg)](https://www.youtube.com/watch?v=q1ngSbMqXUE)
 
 
 ## IT Man - Coding Smarter, Not Harder with AI-First editors [Vietnamese]

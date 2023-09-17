@@ -27,16 +27,16 @@ Published at 2023-03-12T06:20:50Z
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
 
-## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
-Published at 2023-04-02T06:10:31Z
-
-[![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
-
-
 ## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
 Published at 2022-03-27T08:30:16Z
 
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
+
+
+## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
+Published at 2023-04-02T06:10:31Z
+
+[![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
 ## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
@@ -63,17 +63,17 @@ Published at 2022-04-17T03:50:12Z
 [![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
 
 
+## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
+Published at 2021-03-21T06:51:42Z
+
+[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
+
+
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
 Published at 2021-09-12T08:27:26Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
 
-
-
-## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
-Published at 2021-03-21T06:51:42Z
-
-[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
 ## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]

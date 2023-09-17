@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]
+Published at 2023-09-17T09:46:47Z
+
+[![IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]](https://i.ytimg.com/vi/nklNK13G7u4/mqdefault.jpg)](https://www.youtube.com/watch?v=nklNK13G7u4)
+
+
 ## #BuildWithITMan - ChatBot &amp; AI - Create a Summary ChatBot with AI [Vietnamese]
 Published at 2023-09-10T13:56:30Z
 

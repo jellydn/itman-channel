@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]
+Published at 2023-09-24T15:08:24Z
+
+[![IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]](https://i.ytimg.com/vi/pgofbfmxMto/mqdefault.jpg)](https://www.youtube.com/watch?v=pgofbfmxMto)
+
+
 ## IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]
 Published at 2023-09-17T09:46:47Z
 

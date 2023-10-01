@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - From Dev to Deployment: Learning Bun, Docker, and Fly.io with Elysia Demo App [Vietnamese]
+Published at 2023-10-01T15:40:38Z
+
+[![IT Man - From Dev to Deployment: Learning Bun, Docker, and Fly.io with Elysia Demo App [Vietnamese]](https://i.ytimg.com/vi/kTekCcMlleU/mqdefault.jpg)](https://www.youtube.com/watch?v=kTekCcMlleU)
+
+
 ## IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]
 Published at 2023-09-24T15:08:24Z
 

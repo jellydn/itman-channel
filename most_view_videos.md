@@ -7,7 +7,6 @@
 > Last 100 videos on my Youtube channel
 
 
-
 ## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
 Published at 2021-08-15T08:13:08Z
 
@@ -15,16 +14,16 @@ Published at 2021-08-15T08:13:08Z
 
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
-Published at 2021-08-22T04:03:49Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
-
-
 ## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
 Published at 2023-03-12T06:20:50Z
 
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
+Published at 2021-08-22T04:03:49Z
+
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
 
 
 ## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
@@ -69,11 +68,11 @@ Published at 2021-03-21T06:51:42Z
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
+
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
 Published at 2021-09-12T08:27:26Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
 
 
 ## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
@@ -110,3 +109,9 @@ Published at 2021-08-29T06:17:05Z
 Published at 2022-04-10T05:08:11Z
 
 [![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)
+
+
+## IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]
+Published at 2021-02-21T08:02:23Z
+
+[![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)

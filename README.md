@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - A Dive into Environment Variables, Debugging, and Workspaces with Bun [Vietnamese]
+Published at 2023-10-08T13:39:05Z
+
+[![IT Man - A Dive into Environment Variables, Debugging, and Workspaces with Bun [Vietnamese]](https://i.ytimg.com/vi/BxmuOe1eFOo/mqdefault.jpg)](https://www.youtube.com/watch?v=BxmuOe1eFOo)
+
+
 ## IT Man - From Dev to Deployment: Learning Bun, Docker, and Fly.io with Elysia Demo App [Vietnamese]
 Published at 2023-10-01T15:40:38Z
 

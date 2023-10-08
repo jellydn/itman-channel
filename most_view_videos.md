@@ -13,11 +13,11 @@ Published at 2021-08-15T08:13:08Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
 
 
-
 ## IT Man - Talk #33 NeoVim as IDE [Vietnamese]
 Published at 2023-03-12T06:20:50Z
 
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
+
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]

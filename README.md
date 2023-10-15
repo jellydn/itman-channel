@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Talk 43 - Tech Radar: Remix v2, Svelte v5 and Turso [Vietnamese]
+Published at 2023-10-15T12:57:00Z
+
+[![IT Man - Talk 43 - Tech Radar: Remix v2, Svelte v5 and Turso [Vietnamese]](https://i.ytimg.com/vi/gLwJ9khSNXo/mqdefault.jpg)](https://www.youtube.com/watch?v=gLwJ9khSNXo)
+
+
 ## IT Man - A Dive into Environment Variables, Debugging, and Workspaces with Bun [Vietnamese]
 Published at 2023-10-08T13:39:05Z
 
@@ -366,6 +372,7 @@ Published at 2022-08-28T01:55:06Z
 Published at 2022-08-21T09:57:12Z
 
 [![IT Man - Tech #24 - Infrastructure as code: Pulumi, TerraForm and AWS CDK [Vietnamese]](https://i.ytimg.com/vi/GfltLGOslM8/mqdefault.jpg)](https://www.youtube.com/watch?v=GfltLGOslM8)
+
 
 
 ## IT Man - Talk #23 - Tech Radar: MillionJs, NEAR JavaScript SDK, Astro v1 [Vietnamese]

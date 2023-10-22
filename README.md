@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Eliminate Typos in Your Code with Neovim [Vietnamese]
+Published at 2023-10-22T13:26:14Z
+
+[![IT Man - Eliminate Typos in Your Code with Neovim [Vietnamese]](https://i.ytimg.com/vi/3IwMd77_P8E/mqdefault.jpg)](https://www.youtube.com/watch?v=3IwMd77_P8E)
+
+
 ## IT Man - Talk 43 - Tech Radar: Remix v2, Svelte v5 and Turso [Vietnamese]
 Published at 2023-10-15T12:57:00Z
 
@@ -854,12 +860,6 @@ Published at 2021-02-21T08:02:23Z
 Published at 2021-02-14T04:28:55Z
 
 [![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)
-
-
-## IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]
-Published at 2021-02-07T23:24:29Z
-
-[![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)
 
 
 ## IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]

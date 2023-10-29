@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Building and Testing a #Hapi Server with #Hurl: A Step-By-Step Demo [Vietnamese]
+Published at 2023-10-29T15:36:22Z
+
+[![IT Man - Building and Testing a #Hapi Server with #Hurl: A Step-By-Step Demo [Vietnamese]](https://i.ytimg.com/vi/LP_RXe8cM_s/mqdefault.jpg)](https://www.youtube.com/watch?v=LP_RXe8cM_s)
+
+
 ## IT Man - Eliminate Typos in Your Code with Neovim [Vietnamese]
 Published at 2023-10-22T13:26:14Z
 
@@ -296,24 +302,6 @@ Published at 2022-11-26T23:16:07Z
 [![IT Man - Talk #28 - How did I land a job in Thailand? [Vietnamese]](https://i.ytimg.com/vi/KwXpc057tZA/mqdefault.jpg)](https://www.youtube.com/watch?v=KwXpc057tZA)
 
 
-## IT Man - Tip #28 - How to fix Gmail out of storage [Vietnamese]
-Published at 2022-11-19T23:15:40Z
-
-[![IT Man - Tip #28 - How to fix Gmail out of storage [Vietnamese]](https://i.ytimg.com/vi/yCjvmGqf3Ww/mqdefault.jpg)](https://www.youtube.com/watch?v=yCjvmGqf3Ww)
-
-
-## IT Man - Tech #28 - Platformatic DB - Automatic OpenAPI/GraphQL API generation  [Vietnamese]
-Published at 2022-11-13T00:57:49Z
-
-[![IT Man - Tech #28 - Platformatic DB - Automatic OpenAPI/GraphQL API generation  [Vietnamese]](https://i.ytimg.com/vi/GqTa8lgVyZI/mqdefault.jpg)](https://www.youtube.com/watch?v=GqTa8lgVyZI)
-
-
-## IT Man - Talk #27 - GraphQL 2022 Report Insights [Vietnamese]
-Published at 2022-11-06T02:32:47Z
-
-[![IT Man - Talk #27 - GraphQL 2022 Report Insights [Vietnamese]](https://i.ytimg.com/vi/_wmldiEdwPM/mqdefault.jpg)](https://www.youtube.com/watch?v=_wmldiEdwPM)
-
-
 ## IT Man - Tip #27 - LocatorJs - Speed up your web development [Vietnamese]
 Published at 2022-10-30T09:03:51Z
 
@@ -447,12 +435,6 @@ Published at 2022-06-05T00:11:41Z
 [![IT Man - Tip #20 - NextJS 12 Middleware (Beta) - How to build shorten URL App - Part 2 [Vietnamese]](https://i.ytimg.com/vi/3y36R5qqpaM/mqdefault.jpg)](https://www.youtube.com/watch?v=3y36R5qqpaM)
 
 
-## IT Man - Tech #20 - Encore - Backend Development Engine - How to build shorten URL App [Vietnamese]
-Published at 2022-05-29T06:28:05Z
-
-[![IT Man - Tech #20 - Encore - Backend Development Engine - How to build shorten URL App [Vietnamese]](https://i.ytimg.com/vi/0HP8ww_BtBk/mqdefault.jpg)](https://www.youtube.com/watch?v=0HP8ww_BtBk)
-
-
 ## IT Man - Talk #19 - Foundry + ThirdWeb CLI = Awesome [Vietnamese]
 Published at 2022-05-22T02:11:11Z
 
@@ -584,6 +566,30 @@ Published at 2022-01-02T06:00:09Z
 Published at 2021-12-26T06:00:01Z
 
 [![IT Man - Tech #13 - TSDX - Zero-config CLI for TypeScript package development [Vietnamese]](https://i.ytimg.com/vi/a-lF7BgKn_c/mqdefault.jpg)](https://www.youtube.com/watch?v=a-lF7BgKn_c)
+
+
+## IT Man - Talk #12 - 3 lessons I&#39;ve learned about Web Developer over the last 10 years [Vietnamese]
+Published at 2021-12-19T06:00:04Z
+
+[![IT Man - Talk #12 - 3 lessons I&#39;ve learned about Web Developer over the last 10 years [Vietnamese]](https://i.ytimg.com/vi/HYLgANBsSw4/mqdefault.jpg)](https://www.youtube.com/watch?v=HYLgANBsSw4)
+
+
+## IT Man - Tip #12 - Blockchain - Typechain - TypeScript bindings for smart contracts [Vietnamese]
+Published at 2021-12-12T05:00:08Z
+
+[![IT Man - Tip #12 - Blockchain - Typechain - TypeScript bindings for smart contracts [Vietnamese]](https://i.ytimg.com/vi/BpLG2_hX7_Y/mqdefault.jpg)](https://www.youtube.com/watch?v=BpLG2_hX7_Y)
+
+
+## IT Man - Tech #12 - Remix - Full stack Web React built on top react-router [Vietnamese]
+Published at 2021-12-05T06:00:04Z
+
+[![IT Man - Tech #12 - Remix - Full stack Web React built on top react-router [Vietnamese]](https://i.ytimg.com/vi/aS564PQWpkk/mqdefault.jpg)](https://www.youtube.com/watch?v=aS564PQWpkk)
+
+
+## Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]
+Published at 2021-11-28T14:37:39Z
+
+[![Chat with IT MAN - ​​​​Phong Nguyen - Bridge System Engineer [Vietnamese]](https://i.ytimg.com/vi/PR9Wv9nyqJI/mqdefault.jpg)](https://www.youtube.com/watch?v=PR9Wv9nyqJI)
 
 
 ## IT Man - Talk #12 - 3 lessons I&#39;ve learned about Web Developer over the last 10 years [Vietnamese]
@@ -860,6 +866,12 @@ Published at 2021-02-21T08:02:23Z
 Published at 2021-02-14T04:28:55Z
 
 [![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)
+
+
+## IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]
+Published at 2021-02-07T23:24:29Z
+
+[![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)
 
 
 ## IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - First Impressions: Diving into the Free Next.js 14 Course [Vietnamese]
+Published at 2023-11-12T14:58:27Z
+
+[![IT Man - First Impressions: Diving into the Free Next.js 14 Course [Vietnamese]](https://i.ytimg.com/vi/ccV582wobvQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ccV582wobvQ)
+
+
 ## IT Man - Effortless APIs with Hurl.nvim: A Developer&#39;s Guide to Neovim Tooling [Vietnamese]
 Published at 2023-11-05T10:20:44Z
 

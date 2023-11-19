@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Mastering #LazyGit: A Comprehensive Guide for Efficient Git Management [Vietnamese]
+Published at 2023-11-19T10:14:13Z
+
+[![IT Man - Mastering #LazyGit: A Comprehensive Guide for Efficient Git Management [Vietnamese]](https://i.ytimg.com/vi/wlNtjqhsNPI/mqdefault.jpg)](https://www.youtube.com/watch?v=wlNtjqhsNPI)
+
+
 ## IT Man - First Impressions: Diving into the Free Next.js 14 Course [Vietnamese]
 Published at 2023-11-12T14:58:27Z
 
@@ -131,6 +137,7 @@ Published at 2023-07-02T06:46:39Z
 Published at 2023-06-25T06:46:19Z
 
 [![IT Man - Understanding and Preventing Floating Promises in JavaScript | Tutorial [Vietnamese]](https://i.ytimg.com/vi/hF3yl4iOlwA/mqdefault.jpg)](https://www.youtube.com/watch?v=hF3yl4iOlwA)
+
 
 
 ## IT Man - Tip #38 - Learning Vim with VSCode - A Comprehensive Guide [Vietnamese]

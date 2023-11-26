@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Seamless Transition: Migrating from #CommonJS to #ESM in JavaScript [Vietnamese]
+Published at 2023-11-26T09:32:57Z
+
+[![IT Man - Seamless Transition: Migrating from #CommonJS to #ESM in JavaScript [Vietnamese]](https://i.ytimg.com/vi/VVPFDCyeNyY/mqdefault.jpg)](https://www.youtube.com/watch?v=VVPFDCyeNyY)
+
+
 ## IT Man - Mastering #LazyGit: A Comprehensive Guide for Efficient Git Management [Vietnamese]
 Published at 2023-11-19T10:14:13Z
 

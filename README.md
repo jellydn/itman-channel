@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - NextJS 14 - A deep dive into Partial Prerendering [Vietnamese]
+Published at 2023-12-03T13:26:32Z
+
+[![IT Man - NextJS 14 - A deep dive into Partial Prerendering [Vietnamese]](https://i.ytimg.com/vi/pqRDCegdNVw/mqdefault.jpg)](https://www.youtube.com/watch?v=pqRDCegdNVw)
+
+
 ## IT Man - Seamless Transition: Migrating from #CommonJS to #ESM in JavaScript [Vietnamese]
 Published at 2023-11-26T09:32:57Z
 

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Revolutionize Your TypeScript with typecheck.nvim [Vietnamese]
+Published at 2023-12-10T09:26:26Z
+
+[![IT Man - Revolutionize Your TypeScript with typecheck.nvim [Vietnamese]](https://i.ytimg.com/vi/XkH--D09ENY/mqdefault.jpg)](https://www.youtube.com/watch?v=XkH--D09ENY)
+
+
 ## IT Man - NextJS 14 - A deep dive into Partial Prerendering [Vietnamese]
 Published at 2023-12-03T13:26:32Z
 
@@ -859,19 +865,6 @@ Published at 2021-04-04T06:30:55Z
 Published at 2021-03-28T06:59:27Z
 
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
-
-
-
-## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
-Published at 2021-03-21T06:51:42Z
-
-[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
-
-
-## IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]
-Published at 2021-03-14T08:28:07Z
-
-[![IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]](https://i.ytimg.com/vi/Es4J8KAD40A/mqdefault.jpg)](https://www.youtube.com/watch?v=Es4J8KAD40A)
 
 
 ## IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]

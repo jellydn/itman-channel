@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]
+Published at 2023-12-24T13:47:29Z
+
+[![IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]](https://i.ytimg.com/vi/By_CCai62JE/mqdefault.jpg)](https://www.youtube.com/watch?v=By_CCai62JE)
+
+
 ## IT Man - A quick look at Waku - the minimal React framework [Vietnamese]
 Published at 2023-12-17T14:57:33Z
 
@@ -157,6 +163,12 @@ Published at 2023-07-02T06:46:39Z
 [![IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]](https://i.ytimg.com/vi/w0EgJ7SW48o/mqdefault.jpg)](https://www.youtube.com/watch?v=w0EgJ7SW48o)
 
 
+## IT Man - Understanding and Preventing Floating Promises in JavaScript | Tutorial [Vietnamese]
+Published at 2023-06-25T06:46:19Z
+
+[![IT Man - Understanding and Preventing Floating Promises in JavaScript | Tutorial [Vietnamese]](https://i.ytimg.com/vi/hF3yl4iOlwA/mqdefault.jpg)](https://www.youtube.com/watch?v=hF3yl4iOlwA)
+
+
 
 ## IT Man - Tip #38 - Learning Vim with VSCode - A Comprehensive Guide [Vietnamese]
 Published at 2023-06-18T12:19:01Z
@@ -180,6 +192,12 @@ Published at 2023-06-04T06:51:06Z
 Published at 2023-05-28T02:13:02Z
 
 [![IT Man - Tip #37 - Warp is a blazingly fast, rust-based terminal with #AI built-in [Vietnamese]](https://i.ytimg.com/vi/2u9zoDQBn0k/mqdefault.jpg)](https://www.youtube.com/watch?v=2u9zoDQBn0k)
+
+
+## IT Man - Tech #37 - First look at Github #Copilot Chat [Vietnamese]
+Published at 2023-05-21T06:35:43Z
+
+[![IT Man - Tech #37 - First look at Github #Copilot Chat [Vietnamese]](https://i.ytimg.com/vi/4Ke6qlVpkxo/mqdefault.jpg)](https://www.youtube.com/watch?v=4Ke6qlVpkxo)
 
 
 ## IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]
@@ -283,18 +301,6 @@ Published at 2023-01-29T07:22:05Z
 Published at 2023-01-22T16:55:53Z
 
 [![IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]](https://i.ytimg.com/vi/CBk5yWSE_Tw/mqdefault.jpg)](https://www.youtube.com/watch?v=CBk5yWSE_Tw)
-
-
-## IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]
-Published at 2023-01-15T09:11:03Z
-
-[![IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]](https://i.ytimg.com/vi/jZUm2bHyF90/mqdefault.jpg)](https://www.youtube.com/watch?v=jZUm2bHyF90)
-
-
-## IT Man - Talk #30 - Relocate from Thailand To Japan [Vietnamese]
-Published at 2023-01-08T07:22:48Z
-
-[![IT Man - Talk #30 - Relocate from Thailand To Japan [Vietnamese]](https://i.ytimg.com/vi/RGXjW7mmyd0/mqdefault.jpg)](https://www.youtube.com/watch?v=RGXjW7mmyd0)
 
 
 ## IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]

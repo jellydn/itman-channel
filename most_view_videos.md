@@ -20,7 +20,6 @@ Published at 2023-03-12T06:20:50Z
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
 
-
 ## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
 Published at 2022-03-27T08:30:16Z
 
@@ -55,6 +54,12 @@ Published at 2021-09-05T01:43:04Z
 Published at 2021-04-25T07:42:50Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
+
+
+## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
+Published at 2021-03-21T06:51:42Z
+
+[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
 

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## Build &amp; Learn with IT Man: Expo Essentials with StickerSmash [Vietnamese]
+Published at 2023-12-31T10:22:17Z
+
+[![Build &amp; Learn with IT Man: Expo Essentials with StickerSmash [Vietnamese]](https://i.ytimg.com/vi/aoBDJuN0V2I/mqdefault.jpg)](https://www.youtube.com/watch?v=aoBDJuN0V2I)
+
+
 ## IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]
 Published at 2023-12-24T13:47:29Z
 

@@ -26,6 +26,7 @@ Published at 2022-03-27T08:30:16Z
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
+
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
@@ -62,6 +63,12 @@ Published at 2021-03-21T06:51:42Z
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
+## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
+Published at 2023-06-11T06:34:17Z
+
+[![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
+
+
 
 ## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
 Published at 2022-04-17T03:50:12Z
@@ -73,12 +80,6 @@ Published at 2022-04-17T03:50:12Z
 Published at 2021-09-12T08:27:26Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
-
-## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
-Published at 2023-06-11T06:34:17Z
-
-[![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
 
 
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
@@ -109,9 +110,3 @@ Published at 2022-06-19T02:29:53Z
 Published at 2021-08-29T06:17:05Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
-
-
-## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
-Published at 2022-04-10T05:08:11Z
-
-[![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)

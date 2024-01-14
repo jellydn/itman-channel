@@ -5,11 +5,17 @@
 
 > Last 100 videos on my Youtube channel
 
+## IT Man - Power up your Neovim with Gen.nvim
+
+Published at 2024-01-14T14:42:07Z
+
+[![IT Man - Power up your Neovim with Gen.nvim](https://i.ytimg.com/vi/2nt_qcchW_8/hqdefault.jpg)](https://www.youtube.com/watch?v=2nt_qcchW_8)
+
 ## IT Man - What&#39;s New in 2024 on My Channel
 
 Published at 2024-01-07T14:52:44Z
 
-[![IT Man - What's New in 2024 on My Channel](https://i.ytimg.com/vi/zvG-7P3p3Ko/hqdefault.jpg)](https://www.youtube.com/watch?v=zvG-7P3p3Ko)
+[![IT Man - What's New in 2024 on My Channel](https://i.ytimg.com/vi/zvG-7P3p3Ko/mqdefault.jpg)](https://www.youtube.com/watch?v=zvG-7P3p3Ko)
 
 ## Build &amp; Learn with IT Man: Expo Essentials with StickerSmash [Vietnamese]
 
@@ -293,6 +299,12 @@ Published at 2023-02-12T08:08:51Z
 
 [![IT Man - Tip #32 - Build and send emails using React and TypeScript [Vietnamese]](https://i.ytimg.com/vi/CuMjCWoHIDc/mqdefault.jpg)](https://www.youtube.com/watch?v=CuMjCWoHIDc)
 
+## IT Man - Tech #32 - Async await wrapper for easy error handling without try-catch [Vietnamese]
+
+Published at 2023-02-05T07:14:58Z
+
+[![IT Man - Tech #32 - Async await wrapper for easy error handling without try-catch [Vietnamese]](https://i.ytimg.com/vi/iLB75jzQrJ8/mqdefault.jpg)](https://www.youtube.com/watch?v=iLB75jzQrJ8)
+
 ## IT Man - Talk #31 - Awesome TypeScript Typesafe [Vietnamese]
 
 Published at 2023-01-29T07:22:05Z
@@ -322,6 +334,12 @@ Published at 2023-01-08T07:22:48Z
 Published at 2023-01-01T08:24:38Z
 
 [![IT Man - Tip #30 - Promise should be fun [Vietnamese]](https://i.ytimg.com/vi/jhz8EhETkZ8/mqdefault.jpg)](https://www.youtube.com/watch?v=jhz8EhETkZ8)
+
+## IT Man - Tech #30 - Deno 101 - The best developer experience [Vietnamese]
+
+Published at 2022-12-25T00:42:43Z
+
+[![IT Man - Tech #30 - Deno 101 - The best developer experience [Vietnamese]](https://i.ytimg.com/vi/ocLNcwm4xUs/mqdefault.jpg)](https://www.youtube.com/watch?v=ocLNcwm4xUs)
 
 ## IT Man - Talk #29 - Arc, the browser [Vietnamese]
 
@@ -394,6 +412,12 @@ Published at 2022-10-09T07:58:04Z
 Published at 2022-10-02T05:43:56Z
 
 [![IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
+
+## IT Man - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]
+
+Published at 2022-09-25T07:44:18Z
+
+[![IT Man - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]](https://i.ytimg.com/vi/FslW-YP2oG8/mqdefault.jpg)](https://www.youtube.com/watch?v=FslW-YP2oG8)
 
 ## IT Man - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]
 

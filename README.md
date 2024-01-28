@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Revolutionizing Web Development: A Complete #Biome Setup Tutorial
+Published at 2024-01-28T15:02:29Z
+
+[![IT Man - Revolutionizing Web Development: A Complete #Biome Setup Tutorial](https://i.ytimg.com/vi/iydIgSbSNBs/mqdefault.jpg)](https://www.youtube.com/watch?v=iydIgSbSNBs)
+
+
 ## IT Man - Introducing quick-code-runner.nvim - A simple and efficient code runner for Neovim
 Published at 2024-01-21T16:12:41Z
 

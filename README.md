@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat
+Published at 2024-02-04T12:09:45Z
+
+[![IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat](https://i.ytimg.com/vi/6oOPGaKCd_Q/mqdefault.jpg)](https://www.youtube.com/watch?v=6oOPGaKCd_Q)
+
+
 ## IT Man - Revolutionizing Web Development: A Complete #Biome Setup Tutorial
 Published at 2024-01-28T15:02:29Z
 

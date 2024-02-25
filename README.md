@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - From Setup to Deployment: A Dual Demo of FastAPI Applications
+Published at 2024-02-25T15:31:15Z
+
+[![IT Man - From Setup to Deployment: A Dual Demo of FastAPI Applications](https://i.ytimg.com/vi/YrBqX-lvSgk/mqdefault.jpg)](https://www.youtube.com/watch?v=YrBqX-lvSgk)
+
+
 ## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
 Published at 2024-02-18T13:35:06Z
 

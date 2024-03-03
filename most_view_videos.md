@@ -44,16 +44,16 @@ Published at 2021-08-08T05:27:07Z
 [![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
-Published at 2021-09-05T01:43:04Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
-
-
 ## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
 Published at 2023-06-11T06:34:17Z
 
 [![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
+Published at 2021-09-05T01:43:04Z
+
+[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
 
 ## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]

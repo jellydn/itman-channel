@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## Exploring Huma with IT Man: A Journey Through Modern Micro-Frameworks
+Published at 2024-03-03T14:55:38Z
+
+[![Exploring Huma with IT Man: A Journey Through Modern Micro-Frameworks](https://i.ytimg.com/vi/1iReyppMxXk/mqdefault.jpg)](https://www.youtube.com/watch?v=1iReyppMxXk)
+
+
 ## IT Man - From Setup to Deployment: A Dual Demo of FastAPI Applications
 Published at 2024-02-25T15:31:15Z
 
@@ -586,12 +592,6 @@ Published at 2022-04-24T00:36:17Z
 [![IT Man - Tip #18 - Add ViteJs to Create-React-App app [Vietnamese]](https://i.ytimg.com/vi/S2jzjnYcU7A/mqdefault.jpg)](https://www.youtube.com/watch?v=S2jzjnYcU7A)
 
 
-## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
-Published at 2022-04-17T03:50:12Z
-
-[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
-
-
 ## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
 Published at 2022-04-10T05:08:11Z
 
@@ -874,6 +874,12 @@ Published at 2021-05-30T08:04:39Z
 Published at 2021-05-23T07:07:45Z
 
 [![IT Man - Tech #5 - NextJS Course - Part 3 - GetStaticProps (Static Generation) [Vietnamese]](https://i.ytimg.com/vi/FqADFQBLm-4/mqdefault.jpg)](https://www.youtube.com/watch?v=FqADFQBLm-4)
+
+
+## IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]
+Published at 2021-05-16T07:02:28Z
+
+[![IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]](https://i.ytimg.com/vi/BbSmV24HYNc/mqdefault.jpg)](https://www.youtube.com/watch?v=BbSmV24HYNc)
 
 
 ## IT Man - Tech #5 - NextJS Course - Part 3 - getServerSideProps (Server-side Rendering) [Vietnamese]

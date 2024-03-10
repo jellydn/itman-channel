@@ -7,7 +7,7 @@ specifiers:
 
 dependencies:
   '@slidev/cli': 0.47.1_mwla7zjmh3g2akq7s7maxy6b7a
-  '@slidev/theme-default': 0.21.2
+  '@slidev/theme-default': 0.25.0
   '@slidev/theme-seriph': 0.25.0
 
 packages:
@@ -1263,14 +1263,13 @@ packages:
       js-yaml: 4.1.0
     dev: false
 
-  /@slidev/theme-default/0.21.2:
-    resolution: {integrity: sha512-neUucFs2YrRZZd73QwvLTyRG/o1nerDFUR5t8YAmXVLTMzWfY71flQ6aAhjYf+WjsozYsOHcxi/pZtIzZ4VhTQ==}
-    engines: {node: '>=14.0.0', slidev: '>=0.19.2'}
+  /@slidev/theme-default/0.25.0:
+    resolution: {integrity: sha512-iWvthH1Ny+i6gTwRnEeeU+EiqsHC56UdEO45bqLSNmymRAOWkKUJ/M0o7iahLzHSXsiPu71B7C715WxqjXk2hw==}
+    engines: {node: '>=14.0.0', slidev: '>=v0.47.0'}
     dependencies:
-      '@slidev/types': 0.22.7
-      codemirror-theme-vars: 0.1.1
+      '@slidev/types': 0.47.5
+      codemirror-theme-vars: 0.1.2
       prism-theme-vars: 0.2.4
-      theme-vitesse: 0.1.14
     dev: false
 
   /@slidev/theme-seriph/0.25.0:
@@ -1280,11 +1279,6 @@ packages:
       '@slidev/types': 0.47.5
       codemirror-theme-vars: 0.1.2
       prism-theme-vars: 0.2.4
-    dev: false
-
-  /@slidev/types/0.22.7:
-    resolution: {integrity: sha512-mCVKQbcGTv6d6n9aHpYNp5U04HF+FMbpY083vqpJ6Folc805BB1Am02eubaW0J6nM+dSOu2dDgPY+kIjs75sAQ==}
-    engines: {node: '>=14.0.0'}
     dev: false
 
   /@slidev/types/0.47.1:
@@ -2178,10 +2172,6 @@ packages:
       string-width: 4.2.3
       strip-ansi: 6.0.1
       wrap-ansi: 7.0.0
-    dev: false
-
-  /codemirror-theme-vars/0.1.1:
-    resolution: {integrity: sha512-Au0Ysn6tUMZB/1Jd5S8g4Or1kZxTuTnNx6MVs9H46Ad7w8IEjkHusH+4oyia/FBcVuAJO4DIlkDnPM8Qnnf1rg==}
     dev: false
 
   /codemirror-theme-vars/0.1.2:
@@ -4907,11 +4897,6 @@ packages:
       yallist: 4.0.0
     dev: false
     optional: true
-
-  /theme-vitesse/0.1.14:
-    resolution: {integrity: sha512-b5s+Zpfaw5+djoCJ9AEbcTbpiTlLsOvGM9oblDmmWRGWNqg9oXtEYO/uwubwx77novHBI6zNuwZRHKNlAIBo4A==}
-    engines: {vscode: ^1.43.0}
-    dev: false
 
   /to-fast-properties/2.0.0:
     resolution: {integrity: sha512-/OaKK0xYrs3DmxRYqL/yDc+FxFUVYhDlXMhRmv3z915w2HF1tnN1omB354j8VUGO/hbRzyD6Y3sA7v7GS/ceog==}

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Modern development with Python in 2024
+Published at 2024-03-17T14:37:22Z
+
+[![IT Man - Modern development with Python in 2024](https://i.ytimg.com/vi/A8xdhC_0Hcc/mqdefault.jpg)](https://www.youtube.com/watch?v=A8xdhC_0Hcc)
+
+
 ## IT Man - Mastering Database Documentation with tbls: A Complete Guide
 Published at 2024-03-10T15:57:52Z
 
@@ -584,12 +590,6 @@ Published at 2022-05-15T00:13:22Z
 Published at 2022-05-08T07:38:29Z
 
 [![IT Man - Tech #19 - Blockchain - RainbowKit - The best way to connect a wallet 🌈 [Vietnamese]](https://i.ytimg.com/vi/ocbUcCMYSVE/mqdefault.jpg)](https://www.youtube.com/watch?v=ocbUcCMYSVE)
-
-
-## IT Man - Talk #18 - Architectural Decision Records - why you should write ADR [Vietnamese]
-Published at 2022-05-01T02:34:30Z
-
-[![IT Man - Talk #18 - Architectural Decision Records - why you should write ADR [Vietnamese]](https://i.ytimg.com/vi/EhsBVGDWTxs/mqdefault.jpg)](https://www.youtube.com/watch?v=EhsBVGDWTxs)
 
 
 ## IT Man - Tip #18 - Add ViteJs to Create-React-App app [Vietnamese]

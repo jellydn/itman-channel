@@ -56,12 +56,6 @@ Published at 2021-09-05T01:43:04Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
 
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-
-
 ## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
 Published at 2021-03-21T06:51:42Z
 
@@ -74,16 +68,16 @@ Published at 2022-04-17T03:50:12Z
 [![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
-Published at 2021-09-12T08:27:26Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
-
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
+Published at 2021-09-12T08:27:26Z
+
+[![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
 
 
 ## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
@@ -120,3 +114,9 @@ Published at 2022-04-10T05:08:11Z
 Published at 2021-02-21T08:02:23Z
 
 [![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)
+
+
+## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
+Published at 2023-04-23T06:28:25Z
+
+[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)

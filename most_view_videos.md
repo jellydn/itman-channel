@@ -38,16 +38,16 @@ Published at 2021-08-22T04:03:49Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
 
 
-## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
-Published at 2021-08-08T05:27:07Z
-
-[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
-
-
 ## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
 Published at 2023-06-11T06:34:17Z
 
 [![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
+
+
+## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
+Published at 2021-08-08T05:27:07Z
+
+[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
@@ -56,22 +56,22 @@ Published at 2021-09-05T01:43:04Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
 
-## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
-Published at 2021-03-21T06:51:42Z
+## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
+Published at 2021-04-25T07:42:50Z
 
-[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
-
-
-## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
-Published at 2022-04-17T03:50:12Z
-
-[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
+[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
+
+
+## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
+Published at 2022-04-17T03:50:12Z
+
+[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]

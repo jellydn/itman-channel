@@ -62,6 +62,12 @@ Published at 2021-04-25T07:42:50Z
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
+## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
+Published at 2021-03-21T06:51:42Z
+
+[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
+
+
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
@@ -104,19 +110,13 @@ Published at 2021-08-29T06:17:05Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
 
 
-## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
-Published at 2022-04-10T05:08:11Z
-
-[![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)
-
-
 ## IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]
 Published at 2021-02-21T08:02:23Z
 
 [![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)
 
 
-## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
-Published at 2023-04-23T06:28:25Z
+## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
+Published at 2022-04-10T05:08:11Z
 
-[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
+[![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - LazyVim Power User Guide
+Published at 2024-03-31T14:10:40Z
+
+[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
+
+
 ## IT Man - Automate Your Codebase: #GritQL &amp; The Future of Software Maintenance with #Grit
 Published at 2024-03-24T14:22:33Z
 

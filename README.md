@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Automating API Client Generation with openapi-ts
+Published at 2024-04-07T14:17:53Z
+
+[![IT Man - Automating API Client Generation with openapi-ts](https://i.ytimg.com/vi/LwfcoOWlyOw/mqdefault.jpg)](https://www.youtube.com/watch?v=LwfcoOWlyOw)
+
+
 ## IT Man - LazyVim Power User Guide
 Published at 2024-03-31T14:10:40Z
 

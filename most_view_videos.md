@@ -25,7 +25,6 @@ Published at 2022-03-27T08:30:16Z
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
-
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
@@ -120,3 +119,9 @@ Published at 2021-02-21T08:02:23Z
 Published at 2022-04-10T05:08:11Z
 
 [![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)
+
+
+## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
+Published at 2023-04-23T06:28:25Z
+
+[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)

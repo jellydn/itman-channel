@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Unlock Retro Gaming: A Complete Delta Emulator Walkthrough
+Published at 2024-04-28T14:03:27Z
+
+[![IT Man - Unlock Retro Gaming: A Complete Delta Emulator Walkthrough](https://i.ytimg.com/vi/dp5O2MzEh-0/mqdefault.jpg)](https://www.youtube.com/watch?v=dp5O2MzEh-0)
+
+
 ## IT Man - Automating API Client Generation with openapi-ts
 Published at 2024-04-07T14:17:53Z
 

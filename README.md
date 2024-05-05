@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command
+Published at 2024-05-05T13:49:14Z
+
+[![ITMan - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command](https://i.ytimg.com/vi/fruvriN-Fpc/mqdefault.jpg)](https://www.youtube.com/watch?v=fruvriN-Fpc)
+
+
 ## IT Man - Unlock Retro Gaming: A Complete Delta Emulator Walkthrough
 Published at 2024-04-28T14:03:27Z
 

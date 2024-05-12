@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22
+Published at 2024-05-12T14:18:55Z
+
+[![ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22](https://i.ytimg.com/vi/HeuLPpc3x04/mqdefault.jpg)](https://www.youtube.com/watch?v=HeuLPpc3x04)
+
+
 ## ITMan - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command
 Published at 2024-05-05T13:49:14Z
 

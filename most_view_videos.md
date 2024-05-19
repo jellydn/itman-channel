@@ -25,6 +25,13 @@ Published at 2022-03-27T08:30:16Z
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
+
+## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
+Published at 2023-06-11T06:34:17Z
+
+[![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
+
+
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
@@ -35,12 +42,6 @@ Published at 2023-04-02T06:10:31Z
 Published at 2021-08-22T04:03:49Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
-
-
-## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
-Published at 2023-06-11T06:34:17Z
-
-[![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
 
 
 ## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
@@ -59,12 +60,6 @@ Published at 2021-09-05T01:43:04Z
 Published at 2021-04-25T07:42:50Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-
-
-## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
-Published at 2021-03-21T06:51:42Z
-
-[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
 ## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
@@ -115,13 +110,13 @@ Published at 2021-08-29T06:17:05Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
 
 
+## IT Man - Talk #29 - Arc, the browser [Vietnamese]
+Published at 2022-12-17T23:51:17Z
+
+[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
+
+
 ## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
 Published at 2023-04-23T06:28:25Z
 
 [![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
-
-
-## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
-Published at 2022-04-10T05:08:11Z
-
-[![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)

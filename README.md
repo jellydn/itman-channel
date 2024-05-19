@@ -7,16 +7,22 @@
 > Last 100 videos on my Youtube channel
 
 
-## ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22
+## Enhance Your Neovim Experience with LSP Plugins
+Published at 2024-05-19T14:19:48Z
+
+[![Enhance Your Neovim Experience with LSP Plugins](https://i.ytimg.com/vi/JwWNIQgL4Fk/mqdefault.jpg)](https://www.youtube.com/watch?v=JwWNIQgL4Fk)
+
+
+## IT Man - Master the 2024 Node.js Development: Key Updates Features from 18 to 22
 Published at 2024-05-12T14:18:55Z
 
-[![ITMan - Master the 2024 Node.js Development: Key Updates Features from 18 to 22](https://i.ytimg.com/vi/HeuLPpc3x04/mqdefault.jpg)](https://www.youtube.com/watch?v=HeuLPpc3x04)
+[![IT Man - Master the 2024 Node.js Development: Key Updates Features from 18 to 22](https://i.ytimg.com/vi/HeuLPpc3x04/mqdefault.jpg)](https://www.youtube.com/watch?v=HeuLPpc3x04)
 
 
-## ITMan - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command
+## IT Man - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command
 Published at 2024-05-05T13:49:14Z
 
-[![ITMan - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command](https://i.ytimg.com/vi/fruvriN-Fpc/mqdefault.jpg)](https://www.youtube.com/watch?v=fruvriN-Fpc)
+[![IT Man - Biome Interactive CLI - Migrate from ESLint and Prettier with a single command](https://i.ytimg.com/vi/fruvriN-Fpc/mqdefault.jpg)](https://www.youtube.com/watch?v=fruvriN-Fpc)
 
 
 ## IT Man - Unlock Retro Gaming: A Complete Delta Emulator Walkthrough

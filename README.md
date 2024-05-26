@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## Enhance Your Neovim Experience with LSP Plugins
+## IT Man - Effortless Code Maintenance: find unused files, dependencies and exports with Knip
+Published at 2024-05-26T13:50:24Z
+
+[![IT Man - Effortless Code Maintenance: find unused files, dependencies and exports with Knip](https://i.ytimg.com/vi/K5q_HDTd7wY/mqdefault.jpg)](https://www.youtube.com/watch?v=K5q_HDTd7wY)
+
+
+## IT Man - Enhance Your #Neovim Experience with #LSP Plugins
 Published at 2024-05-19T14:19:48Z
 
-[![Enhance Your Neovim Experience with LSP Plugins](https://i.ytimg.com/vi/JwWNIQgL4Fk/mqdefault.jpg)](https://www.youtube.com/watch?v=JwWNIQgL4Fk)
+[![IT Man - Enhance Your #Neovim Experience with #LSP Plugins](https://i.ytimg.com/vi/JwWNIQgL4Fk/mqdefault.jpg)](https://www.youtube.com/watch?v=JwWNIQgL4Fk)
 
 
 ## IT Man - Master the 2024 Node.js Development: Key Updates Features from 18 to 22

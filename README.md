@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man -  Zed Editor 101 - Ultimate Zed Editor Setup Guide
+Published at 2024-06-02T15:10:58Z
+
+[![IT Man -  Zed Editor 101 - Ultimate Zed Editor Setup Guide](https://i.ytimg.com/vi/NAk4tyfIM3A/mqdefault.jpg)](https://www.youtube.com/watch?v=NAk4tyfIM3A)
+
+
 ## IT Man - Effortless Code Maintenance: find unused files, dependencies and exports with Knip
 Published at 2024-05-26T13:50:24Z
 
@@ -155,6 +161,7 @@ Published at 2023-11-26T09:32:57Z
 Published at 2023-11-19T10:14:13Z
 
 [![IT Man - Mastering #LazyGit: A Comprehensive Guide for Efficient Git Management [Vietnamese]](https://i.ytimg.com/vi/wlNtjqhsNPI/mqdefault.jpg)](https://www.youtube.com/watch?v=wlNtjqhsNPI)
+
 
 
 ## IT Man - First Impressions: Diving into the Free Next.js 14 Course [Vietnamese]

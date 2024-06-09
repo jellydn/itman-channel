@@ -31,6 +31,7 @@ Published at 2023-06-11T06:34:17Z
 [![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
 
 
+
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
@@ -59,18 +60,6 @@ Published at 2021-09-05T01:43:04Z
 Published at 2023-04-30T06:36:13Z
 
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
 ## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
@@ -125,3 +114,9 @@ Published at 2022-12-17T23:51:17Z
 Published at 2023-04-23T06:28:25Z
 
 [![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
+
+
+## IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]
+Published at 2021-02-21T08:02:23Z
+
+[![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)

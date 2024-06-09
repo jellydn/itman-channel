@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man -  Zed Editor 101 - Ultimate Zed Editor Setup Guide
+## IT Man - Unlocking Performance Insights with Server-Timing Headers
+Published at 2024-06-09T13:47:02Z
+
+[![IT Man - Unlocking Performance Insights with Server-Timing Headers](https://i.ytimg.com/vi/uEi9pmLCa9E/mqdefault.jpg)](https://www.youtube.com/watch?v=uEi9pmLCa9E)
+
+
+## IT Man -  Zed Editor 101 - Ultimate Setup Guide: Vim Mode, Local AI, and Custom Keybindings
 Published at 2024-06-02T15:10:58Z
 
-[![IT Man -  Zed Editor 101 - Ultimate Zed Editor Setup Guide](https://i.ytimg.com/vi/NAk4tyfIM3A/mqdefault.jpg)](https://www.youtube.com/watch?v=NAk4tyfIM3A)
+[![IT Man -  Zed Editor 101 - Ultimate Setup Guide: Vim Mode, Local AI, and Custom Keybindings](https://i.ytimg.com/vi/NAk4tyfIM3A/mqdefault.jpg)](https://www.youtube.com/watch?v=NAk4tyfIM3A)
 
 
 ## IT Man - Effortless Code Maintenance: find unused files, dependencies and exports with Knip

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Logdy Deep Dive: Streamlining Log Management with a Powerful Web UI
+Published at 2024-06-16T12:55:44Z
+
+[![IT Man - Logdy Deep Dive: Streamlining Log Management with a Powerful Web UI](https://i.ytimg.com/vi/wO5MTD3Lawg/mqdefault.jpg)](https://www.youtube.com/watch?v=wO5MTD3Lawg)
+
+
 ## IT Man - Unlocking Performance Insights with Server-Timing Headers
 Published at 2024-06-09T13:47:02Z
 

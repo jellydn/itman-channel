@@ -80,12 +80,6 @@ Published at 2021-09-12T08:27:26Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
 
 
-## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
-Published at 2021-03-28T06:59:27Z
-
-[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
-
-
 ## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
 Published at 2021-07-11T14:29:36Z
 
@@ -120,3 +114,9 @@ Published at 2023-04-23T06:28:25Z
 Published at 2021-02-21T08:02:23Z
 
 [![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)
+
+
+## IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]
+Published at 2022-04-10T05:08:11Z
+
+[![IT Man - Talk #17 - Node.js Reference Architecture 2022 [Vietnamese]](https://i.ytimg.com/vi/5dZ1bSz6Hbs/mqdefault.jpg)](https://www.youtube.com/watch?v=5dZ1bSz6Hbs)

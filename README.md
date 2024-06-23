@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - My Neovim IDE 2024 Version
+Published at 2024-06-23T14:08:15Z
+
+[![IT Man - My Neovim IDE 2024 Version](https://i.ytimg.com/vi/MhBuhOhwGSM/mqdefault.jpg)](https://www.youtube.com/watch?v=MhBuhOhwGSM)
+
+
 ## IT Man - Logdy Deep Dive: Streamlining Log Management with a Powerful Web UI
 Published at 2024-06-16T12:55:44Z
 

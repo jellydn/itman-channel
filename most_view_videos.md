@@ -62,16 +62,23 @@ Published at 2023-04-30T06:36:13Z
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
+## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
+Published at 2023-04-30T06:36:13Z
 
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
+[![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
 ## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
 Published at 2021-03-21T06:51:42Z
 
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
+
+
+## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
+Published at 2021-04-25T07:42:50Z
+
+[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
+
 
 
 ## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
@@ -108,15 +115,3 @@ Published at 2022-06-19T02:29:53Z
 Published at 2021-08-29T06:17:05Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
-
-
-## IT Man - Talk #29 - Arc, the browser [Vietnamese]
-Published at 2022-12-17T23:51:17Z
-
-[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
-
-
-## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
-Published at 2023-04-23T06:28:25Z
-
-[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)

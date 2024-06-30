@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Boost Your Web Development Speed with Farm
+Published at 2024-06-30T14:41:42Z
+
+[![IT Man - Boost Your Web Development Speed with Farm](https://i.ytimg.com/vi/NHfnwJ43KqE/mqdefault.jpg)](https://www.youtube.com/watch?v=NHfnwJ43KqE)
+
+
 ## IT Man - My Neovim IDE 2024 Version
 Published at 2024-06-23T14:08:15Z
 

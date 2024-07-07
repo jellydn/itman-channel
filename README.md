@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - VS Code Like a Pro
+Published at 2024-07-07T14:46:58Z
+
+[![IT Man - VS Code Like a Pro](https://i.ytimg.com/vi/yMh0FQ-okog/mqdefault.jpg)](https://www.youtube.com/watch?v=yMh0FQ-okog)
+
+
 ## IT Man - Boost Your Web Development Speed with Farm
 Published at 2024-06-30T14:41:42Z
 

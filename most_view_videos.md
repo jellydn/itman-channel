@@ -7,6 +7,7 @@
 > Last 100 videos on my Youtube channel
 
 
+
 ## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
 Published at 2021-08-15T08:13:08Z
 
@@ -74,6 +75,7 @@ Published at 2021-04-25T07:42:50Z
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
+
 ## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
 Published at 2022-04-17T03:50:12Z
 
@@ -92,6 +94,12 @@ Published at 2021-03-28T06:59:27Z
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
 
 
+## IT Man -  Zed Editor 101 - Ultimate Setup Guide: Vim Mode, Local AI, and Custom Keybindings
+Published at 2024-06-02T15:10:58Z
+
+[![IT Man -  Zed Editor 101 - Ultimate Setup Guide: Vim Mode, Local AI, and Custom Keybindings](https://i.ytimg.com/vi/NAk4tyfIM3A/mqdefault.jpg)](https://www.youtube.com/watch?v=NAk4tyfIM3A)
+
+
 ## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
 Published at 2021-07-11T14:29:36Z
 
@@ -102,21 +110,3 @@ Published at 2021-07-11T14:29:36Z
 Published at 2022-06-19T02:29:53Z
 
 [![IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]](https://i.ytimg.com/vi/d7CBpxbqtgA/mqdefault.jpg)](https://www.youtube.com/watch?v=d7CBpxbqtgA)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]
-Published at 2021-08-29T06:17:05Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - Interact with your Smart Contract [Vietnamese]](https://i.ytimg.com/vi/LT8BbJfP7rY/mqdefault.jpg)](https://www.youtube.com/watch?v=LT8BbJfP7rY)
-
-
-## IT Man - Talk #29 - Arc, the browser [Vietnamese]
-Published at 2022-12-17T23:51:17Z
-
-[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
-
-
-## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
-Published at 2023-04-23T06:28:25Z
-
-[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)

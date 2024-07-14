@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## IT Man - VS Code Like a Pro
+## IT Man - Level up your VS Code  with which-key like menu
+Published at 2024-07-14T13:53:57Z
+
+[![IT Man - Level up your VS Code  with which-key like menu](https://i.ytimg.com/vi/2LXOv8jA6Io/mqdefault.jpg)](https://www.youtube.com/watch?v=2LXOv8jA6Io)
+
+
+## IT Man - VS Code Like a Pro - Make your VSCode Awesome!
 Published at 2024-07-07T14:46:58Z
 
-[![IT Man - VS Code Like a Pro](https://i.ytimg.com/vi/yMh0FQ-okog/mqdefault.jpg)](https://www.youtube.com/watch?v=yMh0FQ-okog)
+[![IT Man - VS Code Like a Pro - Make your VSCode Awesome!](https://i.ytimg.com/vi/yMh0FQ-okog/mqdefault.jpg)](https://www.youtube.com/watch?v=yMh0FQ-okog)
 
 
 ## IT Man - Boost Your Web Development Speed with Farm

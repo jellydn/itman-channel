@@ -5,6 +5,12 @@
 
 > Last 100 videos on my Youtube channel
 
+## ITMan - Tech Radars: What&#39;s New in #Rspack 1.0 Alpha, Astro Server Island
+
+Published at 2024-07-28T14:39:08Z
+
+[![ITMan - Tech Radars: What's New in #Rspack 1.0 Alpha, Astro Server Island](https://i.ytimg.com/vi/c-dSHvbNsJQ/mqdefault.jpg)](https://www.youtube.com/watch?v=c-dSHvbNsJQ)
+
 ## IT Man - How to Set Up #Helix Like my #Neovim
 
 Published at 2024-07-21T15:26:13Z

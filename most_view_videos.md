@@ -51,22 +51,22 @@ Published at 2021-08-08T05:27:07Z
 [![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
-Published at 2021-09-05T01:43:04Z
+## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
+Published at 2023-04-30T06:36:13Z
 
-[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
-
-
-## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
-Published at 2021-09-05T01:43:04Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
+[![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
+Published at 2021-09-05T01:43:04Z
+
+[![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
 
 
 ## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
@@ -106,7 +106,7 @@ Published at 2021-07-11T14:29:36Z
 [![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)
 
 
-## IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]
-Published at 2022-06-19T02:29:53Z
+## IT Man - Talk #29 - Arc, the browser [Vietnamese]
+Published at 2022-12-17T23:51:17Z
 
-[![IT Man - Tech #21 - A first look at Fresh - The next-gen web framework on the edge [Vietnamese]](https://i.ytimg.com/vi/d7CBpxbqtgA/mqdefault.jpg)](https://www.youtube.com/watch?v=d7CBpxbqtgA)
+[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)

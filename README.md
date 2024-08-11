@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## ITMan - Automate API Linting: Spectral Integration with VS Code and GitHub Actions
+## IT Man - Oh my tmux: super easy configuration!
+Published at 2024-08-11T14:16:05Z
+
+[![IT Man - Oh my tmux: super easy configuration!](https://i.ytimg.com/vi/vrzkCz8Vl-4/mqdefault.jpg)](https://www.youtube.com/watch?v=vrzkCz8Vl-4)
+
+
+## IT Man - Automate API Linting: Spectral Integration with VS Code and GitHub Actions
 Published at 2024-08-04T14:41:46Z
 
-[![ITMan - Automate API Linting: Spectral Integration with VS Code and GitHub Actions](https://i.ytimg.com/vi/sTjIgGBhfMs/mqdefault.jpg)](https://www.youtube.com/watch?v=sTjIgGBhfMs)
+[![IT Man - Automate API Linting: Spectral Integration with VS Code and GitHub Actions](https://i.ytimg.com/vi/sTjIgGBhfMs/mqdefault.jpg)](https://www.youtube.com/watch?v=sTjIgGBhfMs)
 
 
 ## ITMan - Tech Radars: What&#39;s New in #Rspack 1.0 Alpha, Astro Server Island
@@ -327,12 +333,6 @@ Published at 2023-07-16T06:24:20Z
 [![IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]](https://i.ytimg.com/vi/Sw-B4gYgB3g/mqdefault.jpg)](https://www.youtube.com/watch?v=Sw-B4gYgB3g)
 
 
-## IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
-Published at 2023-07-09T06:57:45Z
-
-[![IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
-
-
 ## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
 Published at 2023-07-02T06:46:39Z
 
@@ -585,6 +585,12 @@ Published at 2022-09-25T07:44:18Z
 Published at 2022-09-18T08:07:53Z
 
 [![IT Man - Tip #25 - Command line tools for smart contract like a PRO [Vietnamese]](https://i.ytimg.com/vi/eGJMubePnws/mqdefault.jpg)](https://www.youtube.com/watch?v=eGJMubePnws)
+
+
+## IT Man - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]
+Published at 2022-09-11T07:35:04Z
+
+[![IT Man - Tech #25 - Ultrafast web framework for Cloudflare Workers, Deno, and Bun [Vietnamese]](https://i.ytimg.com/vi/YsjqVvlrXGY/mqdefault.jpg)](https://www.youtube.com/watch?v=YsjqVvlrXGY)
 
 
 ## IT Man - Talk #24 - ts-pattern: Pattern Matching library for TypeScript [Vietnamese]
@@ -864,12 +870,6 @@ Published at 2021-10-31T07:30:41Z
 Published at 2021-10-24T07:44:13Z
 
 [![IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]](https://i.ytimg.com/vi/rp04DGPYzSk/mqdefault.jpg)](https://www.youtube.com/watch?v=rp04DGPYzSk)
-
-
-## Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist
-Published at 2021-10-17T05:59:28Z
-
-[![Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist](https://i.ytimg.com/vi/diJRU-Bjilc/mqdefault.jpg)](https://www.youtube.com/watch?v=diJRU-Bjilc)
 
 
 ## Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist

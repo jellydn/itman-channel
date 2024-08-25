@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## How to Install Arch Linux on MacBook Pro M2
+Published at 2024-08-25T15:03:31Z
+
+[![How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/mqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
+
+
 ## IT Man - Oh my tmux: super easy configuration!
 Published at 2024-08-11T14:16:05Z
 
@@ -331,6 +337,12 @@ Published at 2023-07-23T07:00:40Z
 Published at 2023-07-16T06:24:20Z
 
 [![IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]](https://i.ytimg.com/vi/Sw-B4gYgB3g/mqdefault.jpg)](https://www.youtube.com/watch?v=Sw-B4gYgB3g)
+
+
+## IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
+Published at 2023-07-09T06:57:45Z
+
+[![IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
 
 
 ## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
@@ -858,12 +870,6 @@ Published at 2021-11-14T05:48:27Z
 Published at 2021-11-07T06:25:49Z
 
 [![IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]](https://i.ytimg.com/vi/HIpghgP2VFg/mqdefault.jpg)](https://www.youtube.com/watch?v=HIpghgP2VFg)
-
-
-## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]
-Published at 2021-10-31T07:30:41Z
-
-[![IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]](https://i.ytimg.com/vi/Ex8vM0ITR38/mqdefault.jpg)](https://www.youtube.com/watch?v=Ex8vM0ITR38)
 
 
 ## IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]

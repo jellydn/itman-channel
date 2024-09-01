@@ -7,10 +7,16 @@
 > Last 100 videos on my Youtube channel
 
 
-## How to Install Arch Linux on MacBook Pro M2
+## IT Man - Introducing Encore.ts: The Future of Backend Development with TypeScript
+Published at 2024-09-01T14:16:03Z
+
+[![IT Man - Introducing Encore.ts: The Future of Backend Development with TypeScript](https://i.ytimg.com/vi/HbGD5x5AxtQ/mqdefault.jpg)](https://www.youtube.com/watch?v=HbGD5x5AxtQ)
+
+
+## IT Man -  How to Install Arch Linux on MacBook Pro M2
 Published at 2024-08-25T15:03:31Z
 
-[![How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/mqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
+[![IT Man -  How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/mqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
 
 
 ## IT Man - Oh my tmux: super easy configuration!
@@ -339,12 +345,6 @@ Published at 2023-07-16T06:24:20Z
 [![IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]](https://i.ytimg.com/vi/Sw-B4gYgB3g/mqdefault.jpg)](https://www.youtube.com/watch?v=Sw-B4gYgB3g)
 
 
-## IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
-Published at 2023-07-09T06:57:45Z
-
-[![IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
-
-
 ## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
 Published at 2023-07-02T06:46:39Z
 
@@ -579,6 +579,12 @@ Published at 2022-10-16T06:58:09Z
 Published at 2022-10-09T07:58:04Z
 
 [![IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
+
+
+## IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
+Published at 2022-10-02T05:43:56Z
+
+[![IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
 
 
 ## IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
@@ -870,6 +876,12 @@ Published at 2021-11-14T05:48:27Z
 Published at 2021-11-07T06:25:49Z
 
 [![IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]](https://i.ytimg.com/vi/HIpghgP2VFg/mqdefault.jpg)](https://www.youtube.com/watch?v=HIpghgP2VFg)
+
+
+## IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]
+Published at 2021-10-31T07:30:41Z
+
+[![IT Man - Tech #10 - Blockchain - Conce - How to build React Web Admin App with API [Vietnamese]](https://i.ytimg.com/vi/Ex8vM0ITR38/mqdefault.jpg)](https://www.youtube.com/watch?v=Ex8vM0ITR38)
 
 
 ## IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]

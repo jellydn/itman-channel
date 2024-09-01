@@ -100,13 +100,13 @@ Published at 2021-07-11T14:29:36Z
 [![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)
 
 
-## IT Man - Talk #29 - Arc, the browser [Vietnamese]
-Published at 2022-12-17T23:51:17Z
-
-[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
-
-
 ## IT Man - LazyVim Power User Guide
 Published at 2024-03-31T14:10:40Z
 
 [![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
+
+
+## IT Man - Talk #29 - Arc, the browser [Vietnamese]
+Published at 2022-12-17T23:51:17Z
+
+[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)

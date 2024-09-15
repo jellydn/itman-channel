@@ -4,8 +4,8 @@
     "https://deno.land/x/dotenv/mod.ts": "https://deno.land/x/dotenv@v3.2.2/mod.ts"
   },
   "remote": {
-    "https://cdn.skypack.dev/-/loglevel@v1.9.1-5E9PaUMiwnfLhuYTDAd4/dist=es2019,mode=imports/optimized/loglevel.js": "2dfb8f7f769e848f9d19941516e637de264516864b7eb921659f0f0bbeb33fc6",
-    "https://cdn.skypack.dev/loglevel": "863af9450f641528743a79b0c907d9cdeaf6af913df025c96d4c269eaf860962",
+    "https://cdn.skypack.dev/-/loglevel@v1.9.2-mXBXfl03oxYwb5etvZhC/dist=es2019,mode=imports/optimized/loglevel.js": "2dfb8f7f769e848f9d19941516e637de264516864b7eb921659f0f0bbeb33fc6",
+    "https://cdn.skypack.dev/loglevel": "24185659b8929eb6a8e56e52475f12323d17889cab56a6703d0ccac6095c4214",
     "https://deno.land/x/dotenv@v3.2.2/mod.ts": "077b48773de9205266a0b44c3c3a3c3083449ed64bb0b6cc461b95720678d38e",
     "https://deno.land/x/dotenv@v3.2.2/util.ts": "693730877b13f8ead2b79b2aa31e2a0652862f7dc0c5f6d2f313f4d39c7b7670"
   }

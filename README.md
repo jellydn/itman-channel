@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim
+Published at 2024-09-15T14:55:45Z
+
+[![IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim](https://i.ytimg.com/vi/KbWI4ilHKv4/mqdefault.jpg)](https://www.youtube.com/watch?v=KbWI4ilHKv4)
+
+
 ## IT Man - Introducing Encore.ts: The Future of Backend Development with TypeScript
 Published at 2024-09-01T14:16:03Z
 
@@ -587,12 +593,6 @@ Published at 2022-10-02T05:43:56Z
 [![IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
 
 
-## IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
-Published at 2022-10-02T05:43:56Z
-
-[![IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]](https://i.ytimg.com/vi/-wQ4qm88tUU/mqdefault.jpg)](https://www.youtube.com/watch?v=-wQ4qm88tUU)
-
-
 ## IT Man - Talk #25 - Tech Radar: Wasmtime v1.0, memlab and nhost [Vietnamese]
 Published at 2022-09-25T07:44:18Z
 
@@ -872,6 +872,12 @@ Published at 2021-11-14T05:48:27Z
 [![IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]](https://i.ytimg.com/vi/0beJFDOaOSE/mqdefault.jpg)](https://www.youtube.com/watch?v=0beJFDOaOSE)
 
 
+## IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]
+Published at 2021-11-14T05:48:27Z
+
+[![IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]](https://i.ytimg.com/vi/0beJFDOaOSE/mqdefault.jpg)](https://www.youtube.com/watch?v=0beJFDOaOSE)
+
+
 ## IT Man - Tech #11 - RedwoodJS - The JS App Framework for Startups [Vietnamese]
 Published at 2021-11-07T06:25:49Z
 
@@ -1129,4 +1135,3 @@ Published at 2021-01-31T07:06:43Z
 Published at 2021-01-24T23:56:28Z
 
 [![IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]](https://i.ytimg.com/vi/IlO4Da5_q_I/mqdefault.jpg)](https://www.youtube.com/watch?v=IlO4Da5_q_I)
-

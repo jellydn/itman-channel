@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man -  Zed Editor 101 - Ultimate Setup Guide: Vim Mode, Local AI, and Custom Keybindings
+Published at 2024-06-02T15:10:58Z
+
+[![IT Man -  Zed Editor 101 - Ultimate Setup Guide: Vim Mode, Local AI, and Custom Keybindings](https://i.ytimg.com/vi/NAk4tyfIM3A/mqdefault.jpg)](https://www.youtube.com/watch?v=NAk4tyfIM3A)
+
+
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
 Published at 2021-08-15T08:13:08Z
@@ -94,19 +100,13 @@ Published at 2021-03-28T06:59:27Z
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
 
 
-## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
-Published at 2021-07-11T14:29:36Z
-
-[![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)
-
-
-## IT Man - LazyVim Power User Guide
-Published at 2024-03-31T14:10:40Z
-
-[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
-
-
 ## IT Man - Talk #29 - Arc, the browser [Vietnamese]
 Published at 2022-12-17T23:51:17Z
 
 [![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
+
+
+## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
+Published at 2021-07-11T14:29:36Z
+
+[![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)

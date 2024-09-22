@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Simplifying the Saga Pattern: A Easy Guide
+Published at 2024-09-22T13:21:39Z
+
+[![IT Man - Simplifying the Saga Pattern: A Easy Guide](https://i.ytimg.com/vi/V3dBUizAo3w/mqdefault.jpg)](https://www.youtube.com/watch?v=V3dBUizAo3w)
+
+
 ## IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim
 Published at 2024-09-15T14:55:45Z
 
@@ -289,12 +295,6 @@ Published at 2023-10-01T15:40:38Z
 Published at 2023-09-24T15:08:24Z
 
 [![IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]](https://i.ytimg.com/vi/pgofbfmxMto/mqdefault.jpg)](https://www.youtube.com/watch?v=pgofbfmxMto)
-
-
-## IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]
-Published at 2023-09-17T09:46:47Z
-
-[![IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]](https://i.ytimg.com/vi/nklNK13G7u4/mqdefault.jpg)](https://www.youtube.com/watch?v=nklNK13G7u4)
 
 
 ## #BuildWithITMan - ChatBot &amp; AI - Create a Summary ChatBot with AI [Vietnamese]
@@ -587,6 +587,12 @@ Published at 2022-10-09T07:58:04Z
 [![IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
 
 
+## IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]
+Published at 2022-10-09T07:58:04Z
+
+[![IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
+
+
 ## IT Man - Tech #26 - (P)React Signals - Manage state with style in every framework [Vietnamese]
 Published at 2022-10-02T05:43:56Z
 
@@ -864,12 +870,6 @@ Published at 2021-11-28T14:37:39Z
 Published at 2021-11-21T07:22:46Z
 
 [![IT Man - Talk #11 - Monorepo 101 [Vietnamese]](https://i.ytimg.com/vi/A5wCHi5G28U/mqdefault.jpg)](https://www.youtube.com/watch?v=A5wCHi5G28U)
-
-
-## IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]
-Published at 2021-11-14T05:48:27Z
-
-[![IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]](https://i.ytimg.com/vi/0beJFDOaOSE/mqdefault.jpg)](https://www.youtube.com/watch?v=0beJFDOaOSE)
 
 
 ## IT Man -  Tip #11 - 2 simple solutions but powerful for uptime monitor and status page [Vietnamese]

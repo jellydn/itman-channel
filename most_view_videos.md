@@ -94,19 +94,19 @@ Published at 2021-09-12T08:27:26Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
 
 
-## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
-Published at 2021-03-28T06:59:27Z
+## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
+Published at 2024-02-18T13:35:06Z
 
-[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
+[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
+## IT Man - LazyVim Power User Guide
+Published at 2024-03-31T14:10:40Z
+
+[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
 
 
 ## IT Man - Talk #29 - Arc, the browser [Vietnamese]
 Published at 2022-12-17T23:51:17Z
 
 [![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
-
-
-## IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]
-Published at 2021-07-11T14:29:36Z
-
-[![IT Man - Tip #7 - DevBook - search engine for developers [Vietnamese]](https://i.ytimg.com/vi/ysVb-jX4U2w/mqdefault.jpg)](https://www.youtube.com/watch?v=ysVb-jX4U2w)

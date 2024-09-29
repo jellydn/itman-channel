@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Sherif: The Secret Weapon for Efficient Monorepo Management
+Published at 2024-09-29T13:01:15Z
+
+[![IT Man - Sherif: The Secret Weapon for Efficient Monorepo Management](https://i.ytimg.com/vi/b7sZ3OfZ4KM/mqdefault.jpg)](https://www.youtube.com/watch?v=b7sZ3OfZ4KM)
+
+
 ## IT Man - Simplifying the Saga Pattern: A Easy Guide
 Published at 2024-09-22T13:21:39Z
 
@@ -291,10 +297,10 @@ Published at 2023-10-01T15:40:38Z
 [![IT Man - From Dev to Deployment: Learning Bun, Docker, and Fly.io with Elysia Demo App [Vietnamese]](https://i.ytimg.com/vi/kTekCcMlleU/mqdefault.jpg)](https://www.youtube.com/watch?v=kTekCcMlleU)
 
 
-## IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]
-Published at 2023-09-24T15:08:24Z
+## IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]
+Published at 2023-09-17T09:46:47Z
 
-[![IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]](https://i.ytimg.com/vi/pgofbfmxMto/mqdefault.jpg)](https://www.youtube.com/watch?v=pgofbfmxMto)
+[![IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]](https://i.ytimg.com/vi/nklNK13G7u4/mqdefault.jpg)](https://www.youtube.com/watch?v=nklNK13G7u4)
 
 
 ## #BuildWithITMan - ChatBot &amp; AI - Create a Summary ChatBot with AI [Vietnamese]
@@ -581,10 +587,10 @@ Published at 2022-10-16T06:58:09Z
 [![IT Man - Talk #26 - Programming Principles [Vietnamese]](https://i.ytimg.com/vi/X6ALHHJgFlk/mqdefault.jpg)](https://www.youtube.com/watch?v=X6ALHHJgFlk)
 
 
-## IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]
-Published at 2022-10-09T07:58:04Z
+## IT Man - Talk #26 - Programming Principles [Vietnamese]
+Published at 2022-10-16T06:58:09Z
 
-[![IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]](https://i.ytimg.com/vi/6mCOJbLkeMg/mqdefault.jpg)](https://www.youtube.com/watch?v=6mCOJbLkeMg)
+[![IT Man - Talk #26 - Programming Principles [Vietnamese]](https://i.ytimg.com/vi/X6ALHHJgFlk/mqdefault.jpg)](https://www.youtube.com/watch?v=X6ALHHJgFlk)
 
 
 ## IT Man - Tip #26 - Git: From Zero to Hero [Vietnamese]
@@ -1129,9 +1135,3 @@ Published at 2021-01-31T07:06:43Z
 
 [![IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]](https://i.ytimg.com/vi/9ppxGrNvzWU/mqdefault.jpg)](https://www.youtube.com/watch?v=9ppxGrNvzWU)
 
-
-
-## IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]
-Published at 2021-01-24T23:56:28Z
-
-[![IT Man - Tech #1 - SnowPack v3 - Streaming Imports [Vietnamese]](https://i.ytimg.com/vi/IlO4Da5_q_I/mqdefault.jpg)](https://www.youtube.com/watch?v=IlO4Da5_q_I)

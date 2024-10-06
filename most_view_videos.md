@@ -81,6 +81,12 @@ Published at 2021-04-25T07:42:50Z
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
+## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
+Published at 2024-02-18T13:35:06Z
+
+[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
 
 ## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
 Published at 2022-04-17T03:50:12Z
@@ -92,12 +98,6 @@ Published at 2022-04-17T03:50:12Z
 Published at 2021-09-12T08:27:26Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
-
-
-## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
-Published at 2024-02-18T13:35:06Z
-
-[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
 
 
 ## IT Man - LazyVim Power User Guide

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Introducing Bolt.new: AI-Powered Dev Sandbox by StackBlitz
+Published at 2024-10-06T14:15:26Z
+
+[![IT Man - Introducing Bolt.new: AI-Powered Dev Sandbox by StackBlitz](https://i.ytimg.com/vi/ah0wEb7BsiY/mqdefault.jpg)](https://www.youtube.com/watch?v=ah0wEb7BsiY)
+
+
 ## IT Man - Sherif: The Secret Weapon for Efficient Monorepo Management
 Published at 2024-09-29T13:01:15Z
 
@@ -297,6 +303,12 @@ Published at 2023-10-01T15:40:38Z
 [![IT Man - From Dev to Deployment: Learning Bun, Docker, and Fly.io with Elysia Demo App [Vietnamese]](https://i.ytimg.com/vi/kTekCcMlleU/mqdefault.jpg)](https://www.youtube.com/watch?v=kTekCcMlleU)
 
 
+## IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]
+Published at 2023-09-24T15:08:24Z
+
+[![IT Man - A Comprehensive Guide to Fastify, Bun, and CI with StepCI [Vietnamese]](https://i.ytimg.com/vi/pgofbfmxMto/mqdefault.jpg)](https://www.youtube.com/watch?v=pgofbfmxMto)
+
+
 ## IT Man - Running GitHub Actions Locally: A Complete Guide with act [Vietnamese]
 Published at 2023-09-17T09:46:47Z
 
@@ -355,6 +367,12 @@ Published at 2023-07-23T07:00:40Z
 Published at 2023-07-16T06:24:20Z
 
 [![IT Man - Fresh Work 80/15/5: Overcoming FOMO for Developer [Vietnamese]](https://i.ytimg.com/vi/Sw-B4gYgB3g/mqdefault.jpg)](https://www.youtube.com/watch?v=Sw-B4gYgB3g)
+
+
+## IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]
+Published at 2023-07-09T06:57:45Z
+
+[![IT Man - Tip #39 - Level Up Your TypeScript: Inlay Hints [Vietnamese]](https://i.ytimg.com/vi/0Y0HrvFQ600/mqdefault.jpg)](https://www.youtube.com/watch?v=0Y0HrvFQ600)
 
 
 ## IT Man - Mastering Test-Driven Development: A Comprehensive Walkthrough For Developer [Vietnamese]
@@ -579,12 +597,6 @@ Published at 2022-10-30T09:03:51Z
 Published at 2022-10-23T09:07:53Z
 
 [![IT Man - Tech #27 - Crawlee is a web scraping and browser automation library [Vietnamese]](https://i.ytimg.com/vi/nrgiOh5HfnU/mqdefault.jpg)](https://www.youtube.com/watch?v=nrgiOh5HfnU)
-
-
-## IT Man - Talk #26 - Programming Principles [Vietnamese]
-Published at 2022-10-16T06:58:09Z
-
-[![IT Man - Talk #26 - Programming Principles [Vietnamese]](https://i.ytimg.com/vi/X6ALHHJgFlk/mqdefault.jpg)](https://www.youtube.com/watch?v=X6ALHHJgFlk)
 
 
 ## IT Man - Talk #26 - Programming Principles [Vietnamese]
@@ -902,12 +914,6 @@ Published at 2021-10-24T07:44:13Z
 [![IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]](https://i.ytimg.com/vi/rp04DGPYzSk/mqdefault.jpg)](https://www.youtube.com/watch?v=rp04DGPYzSk)
 
 
-## Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist
-Published at 2021-10-17T05:59:28Z
-
-[![Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist](https://i.ytimg.com/vi/diJRU-Bjilc/mqdefault.jpg)](https://www.youtube.com/watch?v=diJRU-Bjilc)
-
-
 ## IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]
 Published at 2021-10-10T07:00:10Z
 
@@ -1134,4 +1140,3 @@ Published at 2021-02-07T23:24:29Z
 Published at 2021-01-31T07:06:43Z
 
 [![IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]](https://i.ytimg.com/vi/9ppxGrNvzWU/mqdefault.jpg)](https://www.youtube.com/watch?v=9ppxGrNvzWU)
-

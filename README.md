@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Streamline API Development with VSCode Hurl Runner: A Complete Guide
+Published at 2024-10-13T14:22:18Z
+
+[![IT Man - Streamline API Development with VSCode Hurl Runner: A Complete Guide](https://i.ytimg.com/vi/fbDu7fusFsw/mqdefault.jpg)](https://www.youtube.com/watch?v=fbDu7fusFsw)
+
+
 ## IT Man - Introducing Bolt.new: AI-Powered Dev Sandbox by StackBlitz
 Published at 2024-10-06T14:15:26Z
 
@@ -1134,9 +1140,3 @@ Published at 2021-02-14T04:28:55Z
 Published at 2021-02-07T23:24:29Z
 
 [![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)
-
-
-## IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]
-Published at 2021-01-31T07:06:43Z
-
-[![IT Man - Tip #1 - Brave browser, designMode &amp; capture node screenshot [Vietnamese]](https://i.ytimg.com/vi/9ppxGrNvzWU/mqdefault.jpg)](https://www.youtube.com/watch?v=9ppxGrNvzWU)

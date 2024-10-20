@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Supercharge Your VS Code with VSCode Fzf Picker
+Published at 2024-10-20T14:00:28Z
+
+[![IT Man - Supercharge Your VS Code with VSCode Fzf Picker](https://i.ytimg.com/vi/PIYsa3IV59o/mqdefault.jpg)](https://www.youtube.com/watch?v=PIYsa3IV59o)
+
+
 ## IT Man - Streamline API Development with VSCode Hurl Runner: A Complete Guide
 Published at 2024-10-13T14:22:18Z
 
@@ -1134,9 +1140,3 @@ Published at 2021-02-21T08:02:23Z
 Published at 2021-02-14T04:28:55Z
 
 [![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)
-
-
-## IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]
-Published at 2021-02-07T23:24:29Z
-
-[![IT Man - Talk #1 - Pi Network - Technical reviews [Vietnamese]](https://i.ytimg.com/vi/-aH8VEJorRE/mqdefault.jpg)](https://www.youtube.com/watch?v=-aH8VEJorRE)

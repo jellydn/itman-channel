@@ -26,16 +26,16 @@ Published at 2023-03-12T06:20:50Z
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
 
-## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
-Published at 2022-03-27T08:30:16Z
-
-[![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
-
-
 ## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
 Published at 2023-06-11T06:34:17Z
 
 [![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
+
+
+## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
+Published at 2022-03-27T08:30:16Z
+
+[![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
 

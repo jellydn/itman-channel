@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Hurl.nvim v2 Preview!
+Published at 2024-10-27T15:53:11Z
+
+[![IT Man - Hurl.nvim v2 Preview!](https://i.ytimg.com/vi/B4Z3-NV_1Qo/mqdefault.jpg)](https://www.youtube.com/watch?v=B4Z3-NV_1Qo)
+
+
 ## IT Man - Supercharge Your VS Code with VSCode Fzf Picker
 Published at 2024-10-20T14:00:28Z
 
@@ -1134,9 +1140,3 @@ Published at 2021-02-28T07:47:36Z
 Published at 2021-02-21T08:02:23Z
 
 [![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)
-
-
-## IT Man Channel - Intro &amp; 3T topics
-Published at 2021-02-14T04:28:55Z
-
-[![IT Man Channel - Intro &amp; 3T topics](https://i.ytimg.com/vi/YPyaIffXG8Q/mqdefault.jpg)](https://www.youtube.com/watch?v=YPyaIffXG8Q)

@@ -75,16 +75,16 @@ Published at 2021-03-21T06:51:42Z
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-
-
 ## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
 Published at 2024-02-18T13:35:06Z
 
 [![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
+## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
+Published at 2021-04-25T07:42:50Z
+
+[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
 

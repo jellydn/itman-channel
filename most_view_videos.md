@@ -63,6 +63,12 @@ Published at 2021-08-08T05:27:07Z
 [![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
+## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
+Published at 2024-02-18T13:35:06Z
+
+[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
 ## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
 Published at 2021-09-05T01:43:04Z
 
@@ -73,12 +79,6 @@ Published at 2021-09-05T01:43:04Z
 Published at 2021-03-21T06:51:42Z
 
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
-
-
-## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
-Published at 2024-02-18T13:35:06Z
-
-[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
 
 
 ## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]

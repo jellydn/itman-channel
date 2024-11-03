@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Cursor IDE 101: Everything You Need to Know
+Published at 2024-11-03T15:08:23Z
+
+[![IT Man - Cursor IDE 101: Everything You Need to Know](https://i.ytimg.com/vi/CinEByNuWBg/mqdefault.jpg)](https://www.youtube.com/watch?v=CinEByNuWBg)
+
+
 ## IT Man - Hurl.nvim v2 Preview!
 Published at 2024-10-27T15:53:11Z
 
@@ -834,12 +840,6 @@ Published at 2022-02-20T05:25:51Z
 Published at 2022-02-13T13:30:17Z
 
 [![IT Man - Tech #15 - React State Management - Part 2 - Demo Apps [Vietnamese]](https://i.ytimg.com/vi/TQYs8ebLE8A/mqdefault.jpg)](https://www.youtube.com/watch?v=TQYs8ebLE8A)
-
-
-## IT Man - Tech #15 - React State Management - Part 1 [Vietnamese]
-Published at 2022-02-06T08:00:03Z
-
-[![IT Man - Tech #15 - React State Management - Part 1 [Vietnamese]](https://i.ytimg.com/vi/5rsM84taJX4/mqdefault.jpg)](https://www.youtube.com/watch?v=5rsM84taJX4)
 
 
 ## IT Man - Talk #14 - How to land a job in Singapore [Vietnamese]

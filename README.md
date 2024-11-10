@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
+Published at 2024-11-10T14:18:38Z
+
+[![IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins](https://i.ytimg.com/vi/LUaQI9zB5fM/mqdefault.jpg)](https://www.youtube.com/watch?v=LUaQI9zB5fM)
+
+
 ## IT Man - Cursor IDE 101: Everything You Need to Know
 Published at 2024-11-03T15:08:23Z
 
@@ -1134,9 +1140,3 @@ Published at 2021-03-07T08:08:06Z
 Published at 2021-02-28T07:47:36Z
 
 [![IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]](https://i.ytimg.com/vi/2t_yDRjOtI0/mqdefault.jpg)](https://www.youtube.com/watch?v=2t_yDRjOtI0)
-
-
-## IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]
-Published at 2021-02-21T08:02:23Z
-
-[![IT Man - Tech #2 - Clean Code In JS &amp; Naming [Vietnamese]](https://i.ytimg.com/vi/uVrZcji01VM/mqdefault.jpg)](https://www.youtube.com/watch?v=uVrZcji01VM)

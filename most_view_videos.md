@@ -57,16 +57,16 @@ Published at 2023-04-30T06:36:13Z
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
-## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
-Published at 2021-08-08T05:27:07Z
-
-[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
-
-
 ## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
 Published at 2024-02-18T13:35:06Z
 
 [![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
+## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
+Published at 2021-08-08T05:27:07Z
+
+[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
@@ -106,7 +106,7 @@ Published at 2024-03-31T14:10:40Z
 [![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
 
 
-## IT Man - Talk #29 - Arc, the browser [Vietnamese]
-Published at 2022-12-17T23:51:17Z
+## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
+Published at 2023-04-23T06:28:25Z
 
-[![IT Man - Talk #29 - Arc, the browser [Vietnamese]](https://i.ytimg.com/vi/Z-NkUAKRcXY/mqdefault.jpg)](https://www.youtube.com/watch?v=Z-NkUAKRcXY)
+[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)

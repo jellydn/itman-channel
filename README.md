@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Windsurf AI Editor: The Future of Intelligent Editing
+Published at 2024-11-17T14:30:48Z
+
+[![IT Man - Windsurf AI Editor: The Future of Intelligent Editing](https://i.ytimg.com/vi/JEeMeUqiVnA/mqdefault.jpg)](https://www.youtube.com/watch?v=JEeMeUqiVnA)
+
+
 ## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
 Published at 2024-11-10T14:18:38Z
 
@@ -289,12 +295,6 @@ Published at 2023-11-19T10:14:13Z
 
 [![IT Man - Mastering #LazyGit: A Comprehensive Guide for Efficient Git Management [Vietnamese]](https://i.ytimg.com/vi/wlNtjqhsNPI/mqdefault.jpg)](https://www.youtube.com/watch?v=wlNtjqhsNPI)
 
-
-
-## IT Man - First Impressions: Diving into the Free Next.js 14 Course [Vietnamese]
-Published at 2023-11-12T14:58:27Z
-
-[![IT Man - First Impressions: Diving into the Free Next.js 14 Course [Vietnamese]](https://i.ytimg.com/vi/ccV582wobvQ/mqdefault.jpg)](https://www.youtube.com/watch?v=ccV582wobvQ)
 
 
 ## IT Man - Effortless APIs with Hurl.nvim: A Developer&#39;s Guide to Neovim Tooling [Vietnamese]
@@ -872,6 +872,12 @@ Published at 2022-01-09T06:00:14Z
 [![IT Man - Talk #13 -  How to build personal branding [Vietnamese]](https://i.ytimg.com/vi/zVoq_OX88Ek/mqdefault.jpg)](https://www.youtube.com/watch?v=zVoq_OX88Ek)
 
 
+## IT Man - Talk #13 -  How to build personal branding [Vietnamese]
+Published at 2022-01-09T06:00:14Z
+
+[![IT Man - Talk #13 -  How to build personal branding [Vietnamese]](https://i.ytimg.com/vi/zVoq_OX88Ek/mqdefault.jpg)](https://www.youtube.com/watch?v=zVoq_OX88Ek)
+
+
 ## IT Man - Tip #13 - Typesafe-i18n - fully type-safe, lightweight localization library [Vietnamese]
 Published at 2022-01-02T06:00:09Z
 
@@ -1134,9 +1140,3 @@ Published at 2021-03-07T08:08:06Z
 
 [![IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]](https://i.ytimg.com/vi/gEUkjZJ4_sk/mqdefault.jpg)](https://www.youtube.com/watch?v=gEUkjZJ4_sk)
 
-
-
-## IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]
-Published at 2021-02-28T07:47:36Z
-
-[![IT Man - Tip #2 - My top 5 VS Code extensions and useful tips [Vietnamese]](https://i.ytimg.com/vi/2t_yDRjOtI0/mqdefault.jpg)](https://www.youtube.com/watch?v=2t_yDRjOtI0)

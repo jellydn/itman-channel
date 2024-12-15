@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - SketchyBar Essentials: Enhance Your macOS Desktop Experience
+Published at 2024-12-15T14:02:14Z
+
+[![IT Man - SketchyBar Essentials: Enhance Your macOS Desktop Experience](https://i.ytimg.com/vi/WFPUx8mB8aQ/mqdefault.jpg)](https://www.youtube.com/watch?v=WFPUx8mB8aQ)
+
+
 ## IT Man - Tech Radars: Latest Innovations in Tailwind CSS v4, React Router v7 &amp; TanStack Start Beta
 Published at 2024-11-24T15:02:49Z
 
@@ -1139,9 +1145,3 @@ Published at 2021-03-21T06:51:42Z
 Published at 2021-03-14T08:28:07Z
 
 [![IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]](https://i.ytimg.com/vi/Es4J8KAD40A/mqdefault.jpg)](https://www.youtube.com/watch?v=Es4J8KAD40A)
-
-
-## IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]
-Published at 2021-03-07T08:08:06Z
-
-[![IT Man - Talk #2 - JS &amp; React Guideline for beginner [Vietnamese]](https://i.ytimg.com/vi/gEUkjZJ4_sk/mqdefault.jpg)](https://www.youtube.com/watch?v=gEUkjZJ4_sk)

@@ -45,6 +45,12 @@ Published at 2023-04-02T06:10:31Z
 [![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
+## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
+Published at 2024-02-18T13:35:06Z
+
+[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
 Published at 2021-08-22T04:03:49Z
 
@@ -55,12 +61,6 @@ Published at 2021-08-22T04:03:49Z
 Published at 2023-04-30T06:36:13Z
 
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
-
-
-## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
-Published at 2024-02-18T13:35:06Z
-
-[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
 
 
 ## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
@@ -106,7 +106,7 @@ Published at 2024-03-31T14:10:40Z
 [![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
 
 
-## IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]
-Published at 2023-04-23T06:28:25Z
+## IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat
+Published at 2024-02-04T12:09:45Z
 
-[![IT Man - Talk #35 #Neovim IDE for Web Developer [Vietnamese]](https://i.ytimg.com/vi/3EbgMJ-RcWY/mqdefault.jpg)](https://www.youtube.com/watch?v=3EbgMJ-RcWY)
+[![IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat](https://i.ytimg.com/vi/6oOPGaKCd_Q/mqdefault.jpg)](https://www.youtube.com/watch?v=6oOPGaKCd_Q)

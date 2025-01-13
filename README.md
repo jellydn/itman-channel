@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Master Neovim with CopilotChat.nvim v3: Features, Demos, and Innovations
+Published at 2025-01-12T14:59:32Z
+
+[![IT Man - Master Neovim with CopilotChat.nvim v3: Features, Demos, and Innovations](https://i.ytimg.com/vi/PfYnLcSVPh0/mqdefault.jpg)](https://www.youtube.com/watch?v=PfYnLcSVPh0)
+
+
 ## IT Man - SketchyBar Essentials: Enhance Your macOS Desktop Experience
 Published at 2024-12-15T14:02:14Z
 
@@ -1139,9 +1145,3 @@ Published at 2021-03-28T06:59:27Z
 Published at 2021-03-21T06:51:42Z
 
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
-
-
-## IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]
-Published at 2021-03-14T08:28:07Z
-
-[![IT Man - Tech #3 - Quick overview and hand-on with Blitz (blitzjs) [Vietnamese]](https://i.ytimg.com/vi/Es4J8KAD40A/mqdefault.jpg)](https://www.youtube.com/watch?v=Es4J8KAD40A)

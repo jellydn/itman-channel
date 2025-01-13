@@ -38,6 +38,12 @@ Published at 2022-03-27T08:30:16Z
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
+## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
+Published at 2024-02-18T13:35:06Z
+
+[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
 
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
@@ -45,10 +51,10 @@ Published at 2023-04-02T06:10:31Z
 [![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
-## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
-Published at 2024-02-18T13:35:06Z
+## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
+Published at 2023-04-30T06:36:13Z
 
-[![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+[![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
@@ -57,10 +63,10 @@ Published at 2021-08-22T04:03:49Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
 
 
-## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
-Published at 2023-04-30T06:36:13Z
+## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
+Published at 2024-11-10T14:18:38Z
 
-[![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
+[![IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins](https://i.ytimg.com/vi/LUaQI9zB5fM/mqdefault.jpg)](https://www.youtube.com/watch?v=LUaQI9zB5fM)
 
 
 ## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
@@ -88,10 +94,10 @@ Published at 2021-04-25T07:42:50Z
 
 
 
-## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
-Published at 2022-04-17T03:50:12Z
+## IT Man - LazyVim Power User Guide
+Published at 2024-03-31T14:10:40Z
 
-[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)
+[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]
@@ -100,13 +106,7 @@ Published at 2021-09-12T08:27:26Z
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]](https://i.ytimg.com/vi/_veIZBaHkSk/mqdefault.jpg)](https://www.youtube.com/watch?v=_veIZBaHkSk)
 
 
-## IT Man - LazyVim Power User Guide
-Published at 2024-03-31T14:10:40Z
+## IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]
+Published at 2022-04-17T03:50:12Z
 
-[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
-
-
-## IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat
-Published at 2024-02-04T12:09:45Z
-
-[![IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat](https://i.ytimg.com/vi/6oOPGaKCd_Q/mqdefault.jpg)](https://www.youtube.com/watch?v=6oOPGaKCd_Q)
+[![IT Man - Tech #18 - Master React 18 in 10 minutes [Vietnamese]](https://i.ytimg.com/vi/enYXn3AYhYQ/mqdefault.jpg)](https://www.youtube.com/watch?v=enYXn3AYhYQ)

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Snacks.nvim Part 2 - Picker &amp; Explorer
+Published at 2025-02-02T13:37:18Z
+
+[![IT Man - Snacks.nvim Part 2 - Picker &amp; Explorer](https://i.ytimg.com/vi/WZQBsyjCl2k/mqdefault.jpg)](https://www.youtube.com/watch?v=WZQBsyjCl2k)
+
+
 ## IT Man - Master Neovim with CopilotChat.nvim v3: Features, Demos, and Innovations
 Published at 2025-01-12T14:59:32Z
 
@@ -1139,9 +1145,3 @@ Published at 2021-03-28T06:59:27Z
 
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
 
-
-
-## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
-Published at 2021-03-21T06:51:42Z
-
-[![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)

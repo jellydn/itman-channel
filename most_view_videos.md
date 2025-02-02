@@ -44,11 +44,17 @@ Published at 2024-02-18T13:35:06Z
 [![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
 
 
+## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
+Published at 2024-11-10T14:18:38Z
+
+[![IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins](https://i.ytimg.com/vi/LUaQI9zB5fM/mqdefault.jpg)](https://www.youtube.com/watch?v=LUaQI9zB5fM)
+
 
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
 [![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
+
 
 
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
@@ -61,12 +67,6 @@ Published at 2023-04-30T06:36:13Z
 Published at 2021-08-22T04:03:49Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
-
-
-## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
-Published at 2024-11-10T14:18:38Z
-
-[![IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins](https://i.ytimg.com/vi/LUaQI9zB5fM/mqdefault.jpg)](https://www.youtube.com/watch?v=LUaQI9zB5fM)
 
 
 ## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
@@ -93,11 +93,11 @@ Published at 2021-04-25T07:42:50Z
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
 
 
-
 ## IT Man - LazyVim Power User Guide
 Published at 2024-03-31T14:10:40Z
 
 [![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
+
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Create your own NFT token [Vietnamese]

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Hyper Key + LeaderKey: Unlock Next-Level Productivity on macOS
+Published at 2025-02-16T14:12:53Z
+
+[![IT Man - Hyper Key + LeaderKey: Unlock Next-Level Productivity on macOS](https://i.ytimg.com/vi/Z1lC-2LcgkI/mqdefault.jpg)](https://www.youtube.com/watch?v=Z1lC-2LcgkI)
+
+
 ## IT Man - Snacks.nvim Part 2 - Picker &amp; Explorer
 Published at 2025-02-02T13:37:18Z
 
@@ -1144,4 +1150,3 @@ Published at 2021-04-04T06:30:55Z
 Published at 2021-03-28T06:59:27Z
 
 [![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)
-

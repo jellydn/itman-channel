@@ -26,16 +26,16 @@ Published at 2023-03-12T06:20:50Z
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
 
+## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
+Published at 2024-11-10T14:18:38Z
+
+[![IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins](https://i.ytimg.com/vi/LUaQI9zB5fM/mqdefault.jpg)](https://www.youtube.com/watch?v=LUaQI9zB5fM)
+
+
 ## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
 Published at 2023-06-11T06:34:17Z
 
 [![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
-
-
-## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
-Published at 2022-03-27T08:30:16Z
-
-[![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
 ## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
@@ -44,10 +44,10 @@ Published at 2024-02-18T13:35:06Z
 [![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
 
 
-## IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins
-Published at 2024-11-10T14:18:38Z
+## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
+Published at 2022-03-27T08:30:16Z
 
-[![IT Man - Enhance Your #Neovim Experience with Snacks.nvim: A Collection of QoL Plugins](https://i.ytimg.com/vi/LUaQI9zB5fM/mqdefault.jpg)](https://www.youtube.com/watch?v=LUaQI9zB5fM)
+[![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]

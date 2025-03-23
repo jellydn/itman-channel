@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Fast, Minimal &amp; Powerful – My Ghostty Setup!
+Published at 2025-03-23T14:30:40Z
+
+[![IT Man - Fast, Minimal &amp; Powerful – My Ghostty Setup!](https://i.ytimg.com/vi/4ZN602trut4/mqdefault.jpg)](https://www.youtube.com/watch?v=4ZN602trut4)
+
+
 ## IT Man - Hyper Key + LeaderKey: Unlock Next-Level Productivity on macOS
 Published at 2025-02-16T14:12:53Z
 
@@ -581,12 +587,6 @@ Published at 2023-01-29T07:22:05Z
 [![IT Man - Talk #31 - Awesome TypeScript Typesafe [Vietnamese]](https://i.ytimg.com/vi/nDdAmZQTjSQ/mqdefault.jpg)](https://www.youtube.com/watch?v=nDdAmZQTjSQ)
 
 
-## IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]
-Published at 2023-01-22T16:55:53Z
-
-[![IT Man - Tip #31 - Brush you code with Copilot [Vietnamese]](https://i.ytimg.com/vi/CBk5yWSE_Tw/mqdefault.jpg)](https://www.youtube.com/watch?v=CBk5yWSE_Tw)
-
-
 ## IT Man - Tech #31 - Sharing Button - Web Component using Stencil [Vietnamese]
 Published at 2023-01-15T09:11:03Z
 
@@ -872,6 +872,12 @@ Published at 2022-02-27T03:00:50Z
 [![IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]](https://i.ytimg.com/vi/wzWGZdTtYWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=wzWGZdTtYWQ)
 
 
+## IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]
+Published at 2022-02-27T03:00:50Z
+
+[![IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]](https://i.ytimg.com/vi/wzWGZdTtYWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=wzWGZdTtYWQ)
+
+
 ## IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]
 Published at 2022-02-20T05:25:51Z
 
@@ -1144,9 +1150,3 @@ Published at 2021-04-04T06:30:55Z
 
 [![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)
 
-
-
-## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
-Published at 2021-03-28T06:59:27Z
-
-[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)

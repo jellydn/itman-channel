@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+
+Published at 2025-04-13T14:21:19Z
+
+[![IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+](https://i.ytimg.com/vi/-N9QTQzEt0w/mqdefault.jpg)](https://www.youtube.com/watch?v=-N9QTQzEt0w)
+
+
 ## IT Man - Fast, Minimal &amp; Powerful – My Ghostty Setup!
 Published at 2025-03-23T14:30:40Z
 
@@ -59,12 +65,6 @@ Published at 2024-11-10T14:18:38Z
 Published at 2024-11-03T15:08:23Z
 
 [![IT Man - Cursor IDE 101: Everything You Need to Know](https://i.ytimg.com/vi/CinEByNuWBg/mqdefault.jpg)](https://www.youtube.com/watch?v=CinEByNuWBg)
-
-
-## IT Man - Hurl.nvim v2 Preview!
-Published at 2024-10-27T15:53:11Z
-
-[![IT Man - Hurl.nvim v2 Preview!](https://i.ytimg.com/vi/B4Z3-NV_1Qo/mqdefault.jpg)](https://www.youtube.com/watch?v=B4Z3-NV_1Qo)
 
 
 ## IT Man - Supercharge Your VS Code with VSCode Fzf Picker
@@ -121,12 +121,6 @@ Published at 2024-08-11T14:16:05Z
 [![IT Man - Oh my tmux: super easy configuration!](https://i.ytimg.com/vi/vrzkCz8Vl-4/mqdefault.jpg)](https://www.youtube.com/watch?v=vrzkCz8Vl-4)
 
 
-## IT Man - Automate API Linting: Spectral Integration with VS Code and GitHub Actions
-Published at 2024-08-04T14:41:46Z
-
-[![IT Man - Automate API Linting: Spectral Integration with VS Code and GitHub Actions](https://i.ytimg.com/vi/sTjIgGBhfMs/mqdefault.jpg)](https://www.youtube.com/watch?v=sTjIgGBhfMs)
-
-
 ## ITMan - Tech Radars: What&#39;s New in #Rspack 1.0 Alpha, Astro Server Island
 Published at 2024-07-28T14:39:08Z
 
@@ -144,6 +138,12 @@ Published at 2024-07-21T15:26:13Z
 Published at 2024-07-14T13:53:57Z
 
 [![IT Man - Level up your VS Code with which-key like menu](https://i.ytimg.com/vi/2LXOv8jA6Io/mqdefault.jpg)](https://www.youtube.com/watch?v=2LXOv8jA6Io)
+
+
+## IT Man - VS Code Like a Pro - Make your VSCode Awesome!
+Published at 2024-07-07T14:46:58Z
+
+[![IT Man - VS Code Like a Pro - Make your VSCode Awesome!](https://i.ytimg.com/vi/yMh0FQ-okog/mqdefault.jpg)](https://www.youtube.com/watch?v=yMh0FQ-okog)
 
 
 ## IT Man - Boost Your Web Development Speed with Farm
@@ -300,6 +300,12 @@ Published at 2023-12-24T13:47:29Z
 Published at 2023-12-17T14:57:33Z
 
 [![IT Man - A quick look at Waku - the minimal React framework [Vietnamese]](https://i.ytimg.com/vi/-sGIPwXZT70/mqdefault.jpg)](https://www.youtube.com/watch?v=-sGIPwXZT70)
+
+
+## IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]
+Published at 2023-12-24T13:47:29Z
+
+[![IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]](https://i.ytimg.com/vi/By_CCai62JE/mqdefault.jpg)](https://www.youtube.com/watch?v=By_CCai62JE)
 
 
 ## IT Man - A quick look at Waku - the minimal React framework [Vietnamese]
@@ -872,10 +878,22 @@ Published at 2022-03-06T04:16:57Z
 [![IT Man - Tech #16 - tRPC - End-to-end typesafe APIs made easy [Vietnamese]](https://i.ytimg.com/vi/rz1ZGV82i34/mqdefault.jpg)](https://www.youtube.com/watch?v=rz1ZGV82i34)
 
 
-## IT Man - Tech #15 - React State Management - Part 1 [Vietnamese]
-Published at 2022-02-06T08:00:03Z
+## IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]
+Published at 2022-02-27T03:00:50Z
 
-[![IT Man - Tech #15 - React State Management - Part 1 [Vietnamese]](https://i.ytimg.com/vi/5rsM84taJX4/mqdefault.jpg)](https://www.youtube.com/watch?v=5rsM84taJX4)
+[![IT Man - Talk #15 - State of JS 2021 Report [Vietnamese]](https://i.ytimg.com/vi/wzWGZdTtYWQ/mqdefault.jpg)](https://www.youtube.com/watch?v=wzWGZdTtYWQ)
+
+
+## IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]
+Published at 2022-02-20T05:25:51Z
+
+[![IT Man - Tip #15 - Mailwind - Tailwind CSS to design HTML emails [Vietnamese]](https://i.ytimg.com/vi/4U4waKKXQAk/mqdefault.jpg)](https://www.youtube.com/watch?v=4U4waKKXQAk)
+
+
+## IT Man - Tech #15 - React State Management - Part 2 - Demo Apps [Vietnamese]
+Published at 2022-02-13T13:30:17Z
+
+[![IT Man - Tech #15 - React State Management - Part 2 - Demo Apps [Vietnamese]](https://i.ytimg.com/vi/TQYs8ebLE8A/mqdefault.jpg)](https://www.youtube.com/watch?v=TQYs8ebLE8A)
 
 
 ## IT Man - Talk #14 - How to land a job in Singapore [Vietnamese]
@@ -966,12 +984,6 @@ Published at 2021-10-31T07:30:41Z
 Published at 2021-10-24T07:44:13Z
 
 [![IT Man - Tech #10 - Blockchain - Conce - How to create Flutter App with API [Vietnamese]](https://i.ytimg.com/vi/rp04DGPYzSk/mqdefault.jpg)](https://www.youtube.com/watch?v=rp04DGPYzSk)
-
-
-## Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist
-Published at 2021-10-17T05:59:28Z
-
-[![Chat with IT MAN - ​​​​Ankur Daharwal - Blockchain Specialist](https://i.ytimg.com/vi/diJRU-Bjilc/mqdefault.jpg)](https://www.youtube.com/watch?v=diJRU-Bjilc)
 
 
 ## IT Man - Tech #10 - Blockchain - Conce - Loyalty Points System [Vietnamese]
@@ -1143,10 +1155,3 @@ Published at 2021-04-11T07:37:39Z
 Published at 2021-04-04T06:30:55Z
 
 [![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)
-
-
-
-## IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]
-Published at 2021-03-28T06:59:27Z
-
-[![IT Man - Talk #3 - How to prepare for ReactJS Interview [Vietnamese]](https://i.ytimg.com/vi/-_PB0cjEIxg/mqdefault.jpg)](https://www.youtube.com/watch?v=-_PB0cjEIxg)

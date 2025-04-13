@@ -50,6 +50,12 @@ Published at 2022-03-27T08:30:16Z
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
+## IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim
+Published at 2024-09-15T14:55:45Z
+
+[![IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim](https://i.ytimg.com/vi/KbWI4ilHKv4/mqdefault.jpg)](https://www.youtube.com/watch?v=KbWI4ilHKv4)
+
+
 ## IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]
 Published at 2023-04-02T06:10:31Z
 
@@ -63,16 +69,22 @@ Published at 2023-04-30T06:36:13Z
 [![IT Man - Tech 36 - #gRPC 101 [Vietnamese]](https://i.ytimg.com/vi/S2zpdfXfNO8/mqdefault.jpg)](https://www.youtube.com/watch?v=S2zpdfXfNO8)
 
 
-## IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim
-Published at 2024-09-15T14:55:45Z
-
-[![IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim](https://i.ytimg.com/vi/KbWI4ilHKv4/mqdefault.jpg)](https://www.youtube.com/watch?v=KbWI4ilHKv4)
-
-
 ## IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]
 Published at 2021-08-22T04:03:49Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - Know your tools [Vietnamese]](https://i.ytimg.com/vi/yagC-TUMNwo/mqdefault.jpg)](https://www.youtube.com/watch?v=yagC-TUMNwo)
+
+
+## IT Man -  How to Install Arch Linux on MacBook Pro M2
+Published at 2024-08-25T15:03:31Z
+
+[![IT Man -  How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/mqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
+
+
+## IT Man - LazyVim Power User Guide
+Published at 2024-03-31T14:10:40Z
+
+[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
 
 
 ## IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]
@@ -87,10 +99,10 @@ Published at 2021-08-08T05:27:07Z
 [![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)
 
 
-## IT Man - LazyVim Power User Guide
-Published at 2024-03-31T14:10:40Z
+## IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat
+Published at 2024-02-04T12:09:45Z
 
-[![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
+[![IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat](https://i.ytimg.com/vi/6oOPGaKCd_Q/mqdefault.jpg)](https://www.youtube.com/watch?v=6oOPGaKCd_Q)
 
 
 ## IT Man - Tip #3 - Implement SEO with React [Vietnamese]
@@ -99,19 +111,7 @@ Published at 2021-03-21T06:51:42Z
 [![IT Man - Tip #3 - Implement SEO with React [Vietnamese]](https://i.ytimg.com/vi/yVw7ryEqiuI/mqdefault.jpg)](https://www.youtube.com/watch?v=yVw7ryEqiuI)
 
 
-## IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat
-Published at 2024-02-04T12:09:45Z
+## IT Man - Snacks.nvim Part 2 - Picker &amp; Explorer
+Published at 2025-02-02T13:37:18Z
 
-[![IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat](https://i.ytimg.com/vi/6oOPGaKCd_Q/mqdefault.jpg)](https://www.youtube.com/watch?v=6oOPGaKCd_Q)
-
-
-## IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]
-Published at 2021-04-25T07:42:50Z
-
-[![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-
-
-## IT Man -  How to Install Arch Linux on MacBook Pro M2
-Published at 2024-08-25T15:03:31Z
-
-[![IT Man -  How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/mqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
+[![IT Man - Snacks.nvim Part 2 - Picker &amp; Explorer](https://i.ytimg.com/vi/WZQBsyjCl2k/mqdefault.jpg)](https://www.youtube.com/watch?v=WZQBsyjCl2k)

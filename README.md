@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - Dia Browser – First Impression | Smart AI Browser for Learning, Writing &amp; More
+Published at 2025-06-22T15:34:23Z
+
+[![IT Man - Dia Browser – First Impression | Smart AI Browser for Learning, Writing &amp; More](https://i.ytimg.com/vi/0p8CDKn1-no/mqdefault.jpg)](https://www.youtube.com/watch?v=0p8CDKn1-no)
+
+
 ## IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+
 Published at 2025-04-13T14:21:19Z
 
@@ -67,6 +73,12 @@ Published at 2024-11-03T15:08:23Z
 [![IT Man - Cursor IDE 101: Everything You Need to Know](https://i.ytimg.com/vi/CinEByNuWBg/mqdefault.jpg)](https://www.youtube.com/watch?v=CinEByNuWBg)
 
 
+## IT Man - Hurl.nvim v2 Preview!
+Published at 2024-10-27T15:53:11Z
+
+[![IT Man - Hurl.nvim v2 Preview!](https://i.ytimg.com/vi/B4Z3-NV_1Qo/mqdefault.jpg)](https://www.youtube.com/watch?v=B4Z3-NV_1Qo)
+
+
 ## IT Man - Supercharge Your VS Code with VSCode Fzf Picker
 Published at 2024-10-20T14:00:28Z
 
@@ -119,6 +131,12 @@ Published at 2024-08-25T15:03:31Z
 Published at 2024-08-11T14:16:05Z
 
 [![IT Man - Oh my tmux: super easy configuration!](https://i.ytimg.com/vi/vrzkCz8Vl-4/mqdefault.jpg)](https://www.youtube.com/watch?v=vrzkCz8Vl-4)
+
+
+## IT Man - Automate API Linting: Spectral Integration with VS Code and GitHub Actions
+Published at 2024-08-04T14:41:46Z
+
+[![IT Man - Automate API Linting: Spectral Integration with VS Code and GitHub Actions](https://i.ytimg.com/vi/sTjIgGBhfMs/mqdefault.jpg)](https://www.youtube.com/watch?v=sTjIgGBhfMs)
 
 
 ## ITMan - Tech Radars: What&#39;s New in #Rspack 1.0 Alpha, Astro Server Island
@@ -288,18 +306,6 @@ Published at 2024-01-07T14:52:44Z
 Published at 2023-12-31T10:22:17Z
 
 [![Build &amp; Learn with IT Man: Expo Essentials with StickerSmash [Vietnamese]](https://i.ytimg.com/vi/aoBDJuN0V2I/mqdefault.jpg)](https://www.youtube.com/watch?v=aoBDJuN0V2I)
-
-
-## IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]
-Published at 2023-12-24T13:47:29Z
-
-[![IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]](https://i.ytimg.com/vi/By_CCai62JE/mqdefault.jpg)](https://www.youtube.com/watch?v=By_CCai62JE)
-
-
-## IT Man - A quick look at Waku - the minimal React framework [Vietnamese]
-Published at 2023-12-17T14:57:33Z
-
-[![IT Man - A quick look at Waku - the minimal React framework [Vietnamese]](https://i.ytimg.com/vi/-sGIPwXZT70/mqdefault.jpg)](https://www.youtube.com/watch?v=-sGIPwXZT70)
 
 
 ## IT Man - Step-by-Step Guide: Integrating Copilot Chat with Neovim [Vietnamese]
@@ -1149,9 +1155,3 @@ Published at 2021-04-18T07:08:59Z
 Published at 2021-04-11T07:37:39Z
 
 [![IT Man - Tip #4 - Debug Javascript/Typescript App [Vietnamese]](https://i.ytimg.com/vi/LCdMSJ8yxUE/mqdefault.jpg)](https://www.youtube.com/watch?v=LCdMSJ8yxUE)
-
-
-## IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]
-Published at 2021-04-04T06:30:55Z
-
-[![IT Man - Tech #4 - Svelte Kit - NextJs for Svelte [Vietnamese]](https://i.ytimg.com/vi/p5RJdCk09SM/mqdefault.jpg)](https://www.youtube.com/watch?v=p5RJdCk09SM)

@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - How I Collaborate with AI to Manage Tasks in Git (Backlog.md)
+Published at 2025-07-20T14:35:37Z
+
+[![IT Man - How I Collaborate with AI to Manage Tasks in Git (Backlog.md)](https://i.ytimg.com/vi/xcQ6atKsVEA/mqdefault.jpg)](https://www.youtube.com/watch?v=xcQ6atKsVEA)
+
+
 ## IT Man - Dia Browser – First Impression | Smart AI Browser for Learning, Writing &amp; More
 Published at 2025-06-22T15:34:23Z
 
@@ -1149,9 +1155,3 @@ Published at 2021-04-25T07:42:50Z
 Published at 2021-04-18T07:08:59Z
 
 [![IT Man - Talk #4 - My top 2 apps for new learner [Vietnamese]](https://i.ytimg.com/vi/5gdZUJHnh6s/mqdefault.jpg)](https://www.youtube.com/watch?v=5gdZUJHnh6s)
-
-
-## IT Man - Tip #4 - Debug Javascript/Typescript App [Vietnamese]
-Published at 2021-04-11T07:37:39Z
-
-[![IT Man - Tip #4 - Debug Javascript/Typescript App [Vietnamese]](https://i.ytimg.com/vi/LCdMSJ8yxUE/mqdefault.jpg)](https://www.youtube.com/watch?v=LCdMSJ8yxUE)

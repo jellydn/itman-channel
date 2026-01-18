@@ -62,12 +62,6 @@ Published at 2024-08-25T15:03:31Z
 [![IT Man -  How to Install Arch Linux on MacBook Pro M2](https://i.ytimg.com/vi/Nz-gKG6Bzlw/mqdefault.jpg)](https://www.youtube.com/watch?v=Nz-gKG6Bzlw)
 
 
-## IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]
-Published at 2023-06-11T06:34:17Z
-
-[![IT Man - Tech #38 - Setting Up Your Own Free GPT-4 API with gpt4free-ts [Vietnamese]](https://i.ytimg.com/vi/Z0ZUdFqvR_I/mqdefault.jpg)](https://www.youtube.com/watch?v=Z0ZUdFqvR_I)
-
-
 ## ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]
 Published at 2022-03-27T08:30:16Z
 
@@ -115,3 +109,9 @@ Published at 2021-08-22T04:03:49Z
 Published at 2021-09-05T01:43:04Z
 
 [![IT Man - Tech #9 - Blockchain - DApp 101 - ICO Smart Contract [Vietnamese]](https://i.ytimg.com/vi/9fmViThaMGk/mqdefault.jpg)](https://www.youtube.com/watch?v=9fmViThaMGk)
+
+
+## IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]
+Published at 2021-08-08T05:27:07Z
+
+[![IT Man - Talk #8 - Architecture for React applications 2021 [Vietnamese]](https://i.ytimg.com/vi/WMAo49ucGvA/mqdefault.jpg)](https://www.youtube.com/watch?v=WMAo49ucGvA)

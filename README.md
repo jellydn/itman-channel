@@ -7,6 +7,12 @@
 > Last 100 videos on my Youtube channel
 
 
+## IT Man - My AI Setup in 2026
+Published at 2026-01-18T14:17:26Z
+
+[![IT Man - My AI Setup in 2026](https://i.ytimg.com/vi/ESudSFAyuuw/mqdefault.jpg)](https://www.youtube.com/watch?v=ESudSFAyuuw)
+
+
 ## IT Man - Try CLI: the perfect tool for dev experiments
 Published at 2025-10-05T15:51:38Z
 
@@ -1154,4 +1160,3 @@ Published at 2021-05-02T07:40:29Z
 Published at 2021-04-25T07:42:50Z
 
 [![IT Man - Tech #5 - NextJS Mini Course - Part 1 [Vietnamese]](https://i.ytimg.com/vi/CwjySicuyGQ/mqdefault.jpg)](https://www.youtube.com/watch?v=CwjySicuyGQ)
-

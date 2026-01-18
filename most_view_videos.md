@@ -20,16 +20,16 @@ Published at 2023-03-12T06:20:50Z
 [![IT Man - Talk #33 NeoVim as IDE [Vietnamese]](https://i.ytimg.com/vi/dFi8CzvqkNE/mqdefault.jpg)](https://www.youtube.com/watch?v=dFi8CzvqkNE)
 
 
-## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
-Published at 2021-08-15T08:13:08Z
-
-[![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
-
-
 ## IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY
 Published at 2024-02-18T13:35:06Z
 
 [![IT Man - Get to know GitHub Copilot Chat in #Neovim and be productive IMMEDIATELY](https://i.ytimg.com/vi/sSih4khcstc/mqdefault.jpg)](https://www.youtube.com/watch?v=sSih4khcstc)
+
+
+## IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]
+Published at 2021-08-15T08:13:08Z
+
+[![IT Man - Tech #9 - Blockchain - DApp 101 - How to get started [Vietnamese]](https://i.ytimg.com/vi/LXRgV99S0Zk/mqdefault.jpg)](https://www.youtube.com/watch?v=LXRgV99S0Zk)
 
 
 ## IT Man - Bringing Zed AI Experience to Neovim with codecompanion.nvim
@@ -74,6 +74,12 @@ Published at 2022-03-27T08:30:16Z
 [![ITMan - Tech #17 - Moleculer - Progressive microservices framework for Node.js [Vietnamese]](https://i.ytimg.com/vi/peb2OflRu-4/mqdefault.jpg)](https://www.youtube.com/watch?v=peb2OflRu-4)
 
 
+## IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+
+Published at 2025-04-13T14:21:19Z
+
+[![IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+](https://i.ytimg.com/vi/-N9QTQzEt0w/mqdefault.jpg)](https://www.youtube.com/watch?v=-N9QTQzEt0w)
+
+
 ## IT Man - Tech 36 - #gRPC 101 [Vietnamese]
 Published at 2023-04-30T06:36:13Z
 
@@ -86,17 +92,11 @@ Published at 2023-04-02T06:10:31Z
 [![IT Man - Talk #34 - Bye Bye #Docker Desktop [Vietnamese]](https://i.ytimg.com/vi/llThjxFb7KU/mqdefault.jpg)](https://www.youtube.com/watch?v=llThjxFb7KU)
 
 
-
-## IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+
-Published at 2025-04-13T14:21:19Z
-
-[![IT Man - My Tiny Nvim (2025 version) for Neovim 0.11+](https://i.ytimg.com/vi/-N9QTQzEt0w/mqdefault.jpg)](https://www.youtube.com/watch?v=-N9QTQzEt0w)
-
-
 ## IT Man - LazyVim Power User Guide
 Published at 2024-03-31T14:10:40Z
 
 [![IT Man - LazyVim Power User Guide](https://i.ytimg.com/vi/jveM3hZs_oI/mqdefault.jpg)](https://www.youtube.com/watch?v=jveM3hZs_oI)
+
 
 
 ## IT Man - Boost Your Neovim Productivity with GitHub Copilot Chat

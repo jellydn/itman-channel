@@ -302,6 +302,12 @@ Published at 2024-01-21T16:12:41Z
 [![IT Man - Introducing quick-code-runner.nvim - A simple and efficient code runner for Neovim](https://i.ytimg.com/vi/Pz9TZ6AZ1pU/mqdefault.jpg)](https://www.youtube.com/watch?v=Pz9TZ6AZ1pU)
 
 
+## IT Man - Power up your Neovim with Gen.nvim
+Published at 2024-01-14T14:42:07Z
+
+[![IT Man - Power up your Neovim with Gen.nvim](https://i.ytimg.com/vi/2nt_qcchW_8/mqdefault.jpg)](https://www.youtube.com/watch?v=2nt_qcchW_8)
+
+
 ## IT Man - What&#39;s New in 2024 on My Channel
 Published at 2024-01-07T14:52:44Z
 
@@ -508,6 +514,12 @@ Published at 2023-05-21T06:35:43Z
 [![IT Man - Tech #37 - First look at Github #Copilot Chat [Vietnamese]](https://i.ytimg.com/vi/4Ke6qlVpkxo/mqdefault.jpg)](https://www.youtube.com/watch?v=4Ke6qlVpkxo)
 
 
+## IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]
+Published at 2023-05-14T06:17:01Z
+
+[![IT Man - Talk #36 - How #AI Could Revolutionise Software Development [Vietnamese]](https://i.ytimg.com/vi/vKEhkCKlx_M/mqdefault.jpg)](https://www.youtube.com/watch?v=vKEhkCKlx_M)
+
+
 ## IT Man - Tip #36 - #Raycast AI - #ChatGPT - Anytime, anywhere [Vietnamese]
 Published at 2023-05-07T06:12:11Z
 
@@ -573,18 +585,6 @@ Published at 2023-03-05T05:54:11Z
 Published at 2023-02-26T05:40:17Z
 
 [![IT Man - Tech #33 - How to use BigNumber&#39;s ethers.js like PRO [Vietnamese]](https://i.ytimg.com/vi/uzE813GIeY4/mqdefault.jpg)](https://www.youtube.com/watch?v=uzE813GIeY4)
-
-
-## IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]
-Published at 2023-02-19T06:07:50Z
-
-[![IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]](https://i.ytimg.com/vi/XfklJkEoFIg/mqdefault.jpg)](https://www.youtube.com/watch?v=XfklJkEoFIg)
-
-
-## IT Man - Tip #32 - Build and send emails using React and TypeScript [Vietnamese]
-Published at 2023-02-12T08:08:51Z
-
-[![IT Man - Tip #32 - Build and send emails using React and TypeScript [Vietnamese]](https://i.ytimg.com/vi/CuMjCWoHIDc/mqdefault.jpg)](https://www.youtube.com/watch?v=CuMjCWoHIDc)
 
 
 ## IT Man - Talk #32 - Design patterns with Refactoring.guru [Vietnamese]
